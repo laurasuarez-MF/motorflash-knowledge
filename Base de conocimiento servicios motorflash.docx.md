@@ -1,14 +1,29 @@
 # CRM4YOU
 
-Un CRM para TODO y mas.
+Un CRM para TODO y más.
 
-La experiencia nos demuestra que cada empresa tiene una necesidad distinta y por eso nuestra plataforma esta concebida para ser adaptada según se requiera. 
+La experiencia nos demuestra que cada empresa tiene una necesidad distinta y por eso nuestra plataforma está concebida para ser adaptada según se requiera. 
 
 Gracias a nuestro equipo de acompañamiento y consultoría. 
 
 Somos capaces de desarrollar la solución, flujo y modelo de datos que se requiera.
 
 Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta automáticamente. Está desarrollado íntegramente con tecnología propia y exclusiva.
+
+3 pilares:
+
+1. CONTROL TOTAL: Con el CRM 4you podrás tener un control completo de tus clientes y cómo se gestionan, además de darle herramientas de comunicación a tu equipo.  
+2. REPORTES AUTOMÁTICOS: Nuestra herramienta acaba con los reportes declarativos de la actividad del comercial, ya que todo se registra de forma automática.  
+3. EN TIEMPO REAL: Con la agenda del CRM 4you tendrás las tareas pendientes, recordatorios y citas del equipo comercial en tiempo real.
+
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- Su CRM no integra información de todos los canales de comunicación  
+- No tiene herramienta para monitorizar la actividad del equipo comercial en tiempo real  
+- No sabe si sus clientes reciben seguimiento correcto  
+- No sabe por qué no mejora su conversión de leads a ventas
 
 ## Claves
 
@@ -22,7 +37,17 @@ Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta au
 * Pioneros en la gestión del stock. Multipublica, comercializa y vende en UNA sola herramienta.  
 * Único CRM del sector 100% adaptable a tu negocio. Es decir, lo customizamos según tu necesidad. Crea flujos de trabajo, automatismos y campañas. Todo apoyado con nuestra IA.  
 * Somos la única plataforma pensada en la gestión de un GRUPO de concesionarios. Imputas datos en una sola plataforma independiente a las marcas con las que trabajes.  
-* Gestor documental crea ofertas, reservas, contratos, mandato, factura proforma, documento de garantía, todo con un click. Además. toda la Integración con herramientas de financiación.
+* Gestor documental crea ofertas, reservas, contratos, mandato, factura proforma, documento de garantía, todo con un click. Además. toda la Integración con herramientas de financiación.  
+* Integración automática de la información procedente de todos canales de comunicación con los clientes: WhatsApp, Emails, llamadas y tráfico de exposición
+
+6 funcionalidades donde Motorflash tiene TODO incluido vs competencia que NO tiene nada:
+
+1. Producto completo: BBDD Jato Dynamics incluida  
+2. Mejor Precio: Un precio que agrupa todas las funcionalidades  
+3. Videollamadas: Videollamada en Full HD integrada  
+4. WhatsApp Business: Dashboard integrado de conversaciones  
+5. SIM Tracking\*\*: Control y encuestas de contacto (bajo demanda del proyecto)  
+6. Integración con Marcas: MF cuenta con la integración con las marcas más representativas del sector
 
 ## Overview \- Obtenibles con CRM4YOU
 
@@ -49,6 +74,37 @@ Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta au
 10. Módulo de automatismos y marketing  
 11. Informe de Ventas  
 12. Toda la documentación necesaria con un click
+
+## Funcionalidades
+
+COMUNICACIÓN:
+
+* Reporte automático de la actividad del commercial  
+* Envío automático de ofertas y pedidos  
+* Atención automatizada y centralizada por WhatsApp API
+
+REPORTING:
+
+* Histórico de ventas por concesionario  
+* Dashboard KPIS de CRM aplicados con información de importancia (informe ejecutivo)  
+* Histórico en fichas de cliente \+ encuestas de valoración  
+* Informe de contactos por leads de concesionario
+
+CTI CRM:
+
+* Teléfono voz IP  
+* Sala de videollamadas para cita virtual WhatsApp/Enreach  
+* Tarjeta SIM  
+* Calltracking/mailtracking
+
+LAYOUT:
+
+* Gestión de calendario  
+* KPIS intuitivos e interactivos del panel de control  
+* WhatsApp Business para conversaciones desde el CRM (embedded)  
+* Llamada telefónica desde el SDK (embedded)
+
+  CRM4YOU incluye un Panel de Comunicaciones centralizado que integra todas las interacciones con clientes en tiempo real.
 
 ## Destacado
 
@@ -105,7 +161,9 @@ WhatsApp: 18 €/mes
 
 API con terceros: 100 €/one off
 
-# MOTORFLASH EN UN VISTAZO
+# EXPERIENCIA DE MOTORFLASH
+
+Motorflash es Partner de Google
 
 18 Años de experiencia en el sector
 
@@ -243,6 +301,47 @@ Calcule la financiación para sus clientes con nuestras calculadoras integradas 
 
 Genera perchas y ofertas personalizadas para sus clientes desde la ficha de cada anuncio.
 
+Integración directa con el contact center de Motorflash
+
+Control de calidad y validación de anuncios
+
+Impresión y envío de percha, oferta, pedido, historial de precios
+
+Integración de fotos y vídeos del coche
+
+Integración directa con los DMSs de los fabricantes más importantes
+
+Integraciones Ad hoc para servicios específicos: pasarelas de pago, reserva online, intranets
+
+Telecomunicaciones integradas: call tracking y mail tracking
+
+### Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- No puede crear anuncios con toda la información del equipamiento solo con la matrícula  
+- No conoce todas las variables relacionadas con la gestión de su stock  
+- Sus coches están desposicionados en precio  
+- No sabe cuántos días lleva sin cambiar el precio de sus vehículos
+
+### Pilares
+
+CON UN CLIC: Conocerás el estado de tu stock en tiempo real
+
+BÚSQUEDA DE STOCK: Segmentación de búsqueda de stock y generación de acciones comerciales
+
+INFORMES: Informes personalizados y descarga en tiempo real de la información en el formato que necesites
+
+### Beneficios clave
+
+CONTROLA TU NEGOCIO: Una única herramienta para controlar el stock de vehículos
+
+TERMÓMETRO DE MERCADO: Ofrece información en tiempo real del posicionamiento económico de los vehículos en stock frente al mercado
+
+PRECIO ESTIMADO: Análisis completo de la oferta actual VO para poder ofrecer un valor de mercado real y preciso
+
+ALTA CALIDAD DE PUBLICACIÓN
+
 ## Exportaciones
 
 Publicación del stock de manera masiva, selectiva o mixta: Usted elige qué publicaciones quiere que se exporten a cada portal, máxima flexibilidad. Tenemos pasarela con los principales portales verticales de compraventa en España.
@@ -258,6 +357,39 @@ exportaciones. Sepa en cada momento qué vehículo se está publicando en cada p
 \+ 1000 clientes publican diariamente
 
 \+2500 exportaciones de stock diarias
+
+Multipublicación: Motorflash cuenta con el sistema de multipublicación y exportación con mayor número de integraciones con portales del sector
+
+\- Con un clic envías tu anuncio a todos los portales, trasladando la información del vehículo con la mayor calidad y detalle
+
+### Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- Cansancio de publicar el mismo anuncio en varias plataformas  
+- Los anuncios publicados no contienen todo el equipamiento del coche (incluyendo extras)  
+- No puede publicar coches con todo su equipamiento simplemente introduciendo la matrícula
+
+### Pilares
+
+Exportamos todo tu stock de forma automática con el fin de solucionar la necesidad de publicar un mismo vehículo en varias plataformas, unificando así la información en todos los portales, además de enriquecer el anuncio con las herramientas de Motorflash.
+
+1. PUBLICA UNA SOLA VEZ: Publicas una vez en tu herramienta y en Motorflash lo importamos  
+2. ANUNCIOS ENRIQUECIDOS: Enriquecemos el anuncio: marcas de agua, equipamiento de serie, equipamiento extra y el equipamiento que quieras destacar  
+3. EXPORTACIÓN A OTRAS PLATAFORMAS: Lo exportamos a todas las plataformas de clasificados con las que trabajes y a nuestro portal motorflash.com
+
+### Beneficios
+
+CREACIÓN:
+
+- Importación de todo tu stock desde cualquier plataforma  
+- Creación del vehículo con consulta en tiempo real a la DGT
+
+BASE DE DATOS: Único proveedor de servicios en unificar ambas BBDD (JATO, EUROTAX)
+
+ENRIQUECIMIENTO DE DATOS: Motorflash cuenta con distintas soluciones para obtener y completar cada anuncio de la forma más adecuada
+
+CONTROL DE CALIDAD: Te damos la posibilidad de realizar controles de calidad del anuncio y fotografías
 
 ## Plan de trabajo
 
@@ -309,88 +441,41 @@ Precios sin IVA
 | Marcas de agua. Creación | 120 €/ pago único |  |  |  |  |  |
 | Marcas de agua. Mantenimiento | 24 € | 24 € | 24 € | 24 € | 24 € | 24 € |
 
-**Condiciones:**
+Condiciones:
 
-* **Permanencia mínima:** 6 meses.
+* Permanencia mínima: 6 meses.
 
 * Se facturará por bastidores únicos acumulados y enviados durante el mes.
 
-**Notas**
+Notas
 
-1. **Publicación básica:** Creación de anuncios de forma manual. Requiere introducir la fecha de matriculación o fecha de fabricación. Seleccionar el tipo de vehículo, marca, modelo, versión, combustible, puertas, carrocería, cambio y extras.
+1. Publicación básica: Creación de anuncios de forma manual. Requiere introducir la fecha de matriculación o fecha de fabricación. Seleccionar el tipo de vehículo, marca, modelo, versión, combustible, puertas, carrocería, cambio y extras.
 
-2. **Publicación avanzada:** Creación de anuncios mediante la consulta por matrícula. Al agregar la matrícula, se completan automáticamente los datos básicos, quedando pendiente la selección de la versión y los extras. Incluye Publicación Básica.
+2. Publicación avanzada: Creación de anuncios mediante la consulta por matrícula. Al agregar la matrícula, se completan automáticamente los datos básicos, quedando pendiente la selección de la versión y los extras. Incluye Publicación Básica.
 
-3. **Publicación premium:** Creación de anuncios mediante la consulta por bastidor del coche (VIN). Al agregar el VIN, se completa automáticamente la información básica y se incluye la versión del coche y los extras. Incluye Publicación Avanzada.
+3. Publicación premium: Creación de anuncios mediante la consulta por bastidor del coche (VIN). Al agregar el VIN, se completa automáticamente la información básica y se incluye la versión del coche y los extras. Incluye Publicación Avanzada.
 
 # MESSAGE
 
-## Datos, estadísticas y funcionalidades de WhatsApp
+La solución perfecta para potenciar la relación con el cliente y proporcionar una ágil y adecuada atención en todo momento
 
-Facebook compra WhatsApp en 2014 por 19 billones de dólares
+Una plataforma multiagente con la que comunicarse con los clientes potenciales, y difundir contenidos rápidamente
 
-Hoy es la primera APP de mensajería en el mundo, con presencia en 180 países
+Un sistema cuantitativo con el que valorar la calidad de los contactos realizados
 
-Se envían 100 billones de WhatsApp al día
+## Identificación de necesidades
 
-**18,6 horas** de uso medio al mes por usuario
+Este servicio es ideal cuando el cliente menciona:
 
-Apertura media diaria por usuario: **23 mensajes**
+- No ha integrado WhatsApp Business como vía de comunicación con clientes  
+- Necesita agilidad en la comunicación con clientes  
+- No puede conversar con varios clientes a la vez
 
-El número de usuarios aumenta **500 millones** cada dos años
+## Diferencias entre modalidades de WhatsApp
 
-|   Canales de mensajería | Usuarios (billones) |
-| :---- | :---- |
-| WhatsApp | 2,1 |
-| Facebook Messenger | 1,4 |
-| We Chat | 1,2 |
-| Telegram | 0,5 |
+### WhatsApp PARA USO PERSONAL
 
-La utilización media diaria es del 63%, el doble que cualquier otra aplicación para móvil
-
-Las distintas encuestas concluyen que las funciones básicas de contacto más utilizadas son el 85% texto, 70% multimedia, 50% llamadas
-
-## **WhatsApp Business**
-
-Es lanzado en 2018 con dos versiones, una para PYMES y la otra para Grandes Empresas
-
-En la actualidad **50 millones** de empresas usan la aplicación
-
-Tiene **225 millones** de usuarios
-
-|   WhatsApp Business vs SMS y correo electrónico |  |  |
-| :---- | :---- | :---- |
-|   | **WhatsApp** | **SMS-Email** |
-| **Ratio de apertura** | 98% | \+20% |
-| **Ratio de conversión** | 45-60% | 2,5-5% |
-
-Las encuestas señalan que la preferencia del usuario por el canal de WhatsApp Business se basa en el rechazo a la espera telefónica, el miedo al spam en el correo y en la comodidad del carácter asíncrono del canal
-
-Los ámbitos más importantes para los que las empresas adoptan WhatsApp profesional son la atención al cliente (54%) y el soporte en los procesos de ventas (42%)
-
-Los servicios más demandados son:
-
-* Trazabilidad en los envíos  
-* Comunicaciones y notificaciones  
-* Ofertas con alto grado de personalización  
-* Atención a cliente en general: información, soporte…
-
-## **Características destacadas de WhatsApp Business Platform**
-
-Es un canal corporativo seguro, privado y se adapta al 100% al RGPD
-
-Meta permite la inserción de un extenso descriptivo de la marca como presentación. Así mismo habilita un sello de verificación de cuenta y compañía para impedir la suplantación.
-
-No está autorizado el envío de información a ningún cliente que no haya dado permiso explícito o bien haya accedido directamente a la cuenta.
-
-Todos los datos y las comunicaciones están encriptados de principio a fin, imposibilitando el robo de datos.
-
-No se incorpora ninguna información que no esté expresamente autorizada y nos obligamos mantener total transparencia con los datos que tenemos, a solicitud del cliente.
-
-## **Diferencias entre modalidades de WhatsApp**
-
-1. WhatsApp PARA USO PERSONAL:  
-   Incluye:
+Incluye:
 
 * Aplicación para móvil
 
@@ -417,9 +502,9 @@ No se incorpora ninguna información que no esté expresamente autorizada y nos 
 
 * Módulo de Campañas
 
-2. WhatsApp Business App PARA AUTÓNOMOS
+### WhatsApp Business App PARA AUTÓNOMOS
 
-   Incluye:
+Incluye:
 
 * Aplicación para móvil
 
@@ -446,9 +531,9 @@ No se incorpora ninguna información que no esté expresamente autorizada y nos 
 
 * Módulo de Campañas
 
-3. WhatsApp Business Platform PARA EMPRESAS
+### WhatsApp Business Platform PARA EMPRESAS
 
-   Incluye:
+Incluye:
 
 * Perfil de negocio verificado
 
@@ -475,9 +560,9 @@ No se incorpora ninguna información que no esté expresamente autorizada y nos 
 
 * Módulo de Campañas
 
-4. MF Message (Basado en Whatsapp Business Platform) nuestro servicio ofrecido
+### MF Message (Basado en Whatsapp Business Platform) nuestro servicio ofrecido
 
-   Incluye:
+Incluye:
 
 * Aplicación para móvil
 
@@ -504,7 +589,7 @@ No se incorpora ninguna información que no esté expresamente autorizada y nos 
 
 * Mensajería gratuita
 
-## **Funcionalidades más importantes de MF Message**
+## Funcionalidades más importantes de MF Message
 
 Solución de soporte y comunicación profesional más emergente, ideal para asistencia y ventas
 
@@ -527,9 +612,9 @@ Automatización y autogestión:
 * Incluye la posibilidad de creación de respuestas rápidas.  
 * El sistema incluye facilidades de autogestión de agentes, grupos, mensajes de servicio (fuera de horario, vacaciones…)
 
-## **Beneficios inmediatos para las empresas por el uso del canal Whatsapp para sus contactos**
+## Beneficios inmediatos para las empresas por el uso del canal Whatsapp para sus contactos
 
-**MF Message** te permite al conversar con tus clientes a través de WhatsApp:
+MF Message te permite al conversar con tus clientes a través de WhatsApp:
 
 * Reducción de costes  
 * Control de las operaciones  
@@ -539,7 +624,16 @@ Automatización y autogestión:
 
 Para la mayor parte de las aplicaciones, la mayoría clientes prefieren recibir un mensaje a recibir una llamada, lo que hace de WhatsApp el canal preferido por los usuarios finales.
 
-## **¿Cómo se posiciona MF Message con otras soluciones similares?**
+Ventajas:
+
+- Configuración a medida: agentes, grupos  
+- Integrable con todos los CRMs del mercado  
+- Centralita de distribución de mensajes y módulo de reporting interactivo  
+- Utilización en contact center o departamentos comerciales  
+- Ficha completa de cliente  
+- Acceso directo al catálogo de productos
+
+## ¿Cómo se posiciona MF Message con otras soluciones similares?
 
 MF Message compite en el mercado con otras soluciones, pero…
 
@@ -555,7 +649,7 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 ## Módulos de MF MESSAGE
 
-**Módulo conversacional:**
+Módulo conversacional:
 
 * Para recibir, asignar y gestionar las conversaciones con los contactos
 
@@ -565,7 +659,7 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 * Cuando las conversaciones finalizan, se CIERRAN asignando hasta tres motivos de cierre. 
 
-**Módulo de información y análisis:**
+Módulo de información y análisis:
 
 * Todas las operaciones que se realizan en el Módulo conversacional alimentan bases de datos internas para conseguir informes detallados de las operaciones.
 
@@ -573,7 +667,7 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 * Los datos internos están disponibles y documentado para usos específicos de cada cliente. 
 
-**Aplicaciones en el móvil:**
+Aplicaciones en el móvil:
 
 * El Módulo Conversacional se encuentra disponible en las “tiendas” de Apple y Android.
 
@@ -583,7 +677,7 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 * No está disponible por ahora el módulo de Información y Análisis.
 
-**Otros módulos: autogestión y campañas:**
+Otros módulos: autogestión y campañas:
 
 * La estrategia de MF Message es ser una solución digital pura.
 
@@ -591,13 +685,13 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 * También está disponible un módulo de campañas, que permite comunicar vía Whatsapp a nuestros contactos información de su interés.
 
-## Para empezar, qué es necesario, próximos pasos…
+## Plan de trabajo
 
 Para empezar a funcionar la empresa u organización sólo tiene que facilitar:
 
-* **Un número de teléfono** que será “el número WhatsApp de los interlocutores (clientes, partners…) 
+* Un número de teléfono que será “el número WhatsApp de los interlocutores (clientes, partners…) 
 
-* Estar dado de alta en Facebook y por lo tanto poder facilitarnos un parámetro llamado **Identificador de Facebook Business Manager**, FBM ID. (Te podemos ayudar a encontrarlo…)
+* Estar dado de alta en Facebook y por lo tanto poder facilitarnos un parámetro llamado Identificador de Facebook Business Manager, FBM ID. (Te podemos ayudar a encontrarlo…)
 
 * Con estos dos datos, en una sesión de 15 minutos te damos de alta en META.
 
@@ -625,23 +719,25 @@ Dia 1 a 7 – Integración con terceros (opcional)
 
 ## Tarifas 
 
-|   Costes de establecimiento de servicio (una sola vez) |  |  |  |  |  |  |  |   |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Set-up | 180 € |  |  | Una sola vez a la firma del contrato. Incluye costes de configuración de línea con Meta, configuración inicial del servicio MF Message y piloto de un mes. Es descontable en la primera factura del servicio*.* |  |  |  |   |
-|   |  |  |  |  |  |  |  |  |
-| Costes recurrentes del servicio Message (mensual) |  |  |  |  |  |  |   |  |
-| Licencia de uso |  |  | 180 € |  | Mensual |  |   |  |
-| Coste por línea |  |  | 72 € |  | Mensual |  |   |  |
-| Agentes activos (1-100) |  |  | 18 € |  | Mensual |  |   |  |
-| Agentes activos (101-200) |  |  | 15 € |  | Mensual |  |   |  |
-| Agentes activos (201 en adelante) |  |  | 10 € |  | Mensual |  |   |  |
-|   |  |  |  |  |  |  |  |  |
-| Costes repercutidos por tráfico Meta (mensual sin recargo) |  |  |  |  |  |  |  |  |
-| Coste por plantilla tráfico saliente |  | 0,0509 € |  |  |  | Conversación que se inicia desde una empresa que envía un mensaje a un usuario fuera de la franja de servicio al cliente de 24 horas. Estos mensajes que inician una conversación iniciada por la compañía requerirán una plantilla de mensaje. |  |  |
-| Coste por conversación entrante |  | \*0,0305 € |  |  |  | Conversación que se inicia en respuesta a un mensaje del usuario. Cada vez que una empresa responde a un usuario dentro de la franja de servicio al cliente de 24 horas, ese mensaje se asociará con una conversación iniciada por el usuario. |  |  |
-| \*1.000 primeras al mes gratuitas |  |  |  |  |  |  |  |  |
+|  Costes de establecimiento de servicio (una sola vez) |  |  |
+| :---- | :---- | :---- |
+| Set-up | 180 € | Una sola vez a la firma del contrato. Incluye costes de configuración de línea con Meta, configuración inicial del servicio MF Message y piloto de un mes. Es descontable en la primera factura del servicio*.* |
 
-## **Descripción técnica MF Message**
+| Costes recurrentes del servicio Message (mensual) |  |
+| :---- | :---- |
+| Licencia de uso | 180 € Mensual |
+| Coste por línea | 72 € Mensual |
+| Agentes activos (1-100) | 18 € Mensual |
+| Agentes activos (101-200) | 15 € Mensual |
+| Agentes activos (201 en adelante) | 10 € Mensual |
+
+| Costes repercutidos por tráfico Meta (mensual sin recargo) |  |  |
+| :---- | :---- | :---- |
+| Coste por plantilla tráfico saliente | 0,0509 € | Conversación que se inicia desde una empresa que envía un mensaje a un usuario fuera de la franja de servicio al cliente de 24 horas. Estos mensajes que inician una conversación iniciada por la compañía requerirán una plantilla de mensaje. |
+| Coste por conversación entrante | \*0,0305 € | Conversación que se inicia en respuesta a un mensaje del usuario. Cada vez que una empresa responde a un usuario dentro de la franja de servicio al cliente de 24 horas, ese mensaje se asociará con una conversación iniciada por el usuario. |
+| \*1.000 primeras al mes gratuitas |  |  |
+
+## Descripción técnica MF Message
 
 MF Message es un SASS alojado en el cloud de Motorflash en el proveedor Arsys (Logroño).
 
@@ -664,6 +760,35 @@ Permite embeber la aplicación en cualquier CRM para una integración mediante u
 # MF V3.0
 
 Adaptables a todas las identidades
+
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- No tiene web o está anticuada  
+- La web no funciona bien  
+- La web no convierte adecuadamente  
+- La web no cumple con sus expectativas
+
+## Propuesta de valor comercial
+
+\- Más de 300 profesionales del sector de automoción disponen de una web desarrollada por Motorflash
+
+\- Soluciones adaptadas y personalizadas para cada necesidad
+
+\- Consultoría gratuita de tu web disponible
+
+\- Pago mensual durante 24 meses. Sin inversión inicial
+
+\- Disponible en 30 días desde confirmación del pedido
+
+\- Posibilidad de desarrollos a medida: configurador VN, Reserva Online, Módulo de tasación
+
+\- Web para publicación de stock VO (Vehículos de Ocasión) y VN (Vehículos Nuevos)
+
+\- Autogestionable: CMS disponible para gestión de contenidos
+
+\- Adaptable a cada identidad corporativa de marca o concesión
 
 ## Integración con las soluciones de Motorflash
 
@@ -738,7 +863,7 @@ Todos los departamentos:
 * Contenidos corporativos  
 * Tasador de vehículos
 
-**Publicación de stock real del concesionario VO y VN**
+Publicación de stock real del concesionario VO y VN
 
 1. Tenemos tres maneras de gestionar tu stock  
 * Importación de DMS  
@@ -796,7 +921,7 @@ Calculadora financiera 
 
 Gestor de Contenidos:
 
-- Edición y creación de contenidos**:**
+- Edición y creación de contenidos:
 
 * Gestor/editor de landing page 
 
@@ -875,7 +1000,7 @@ Integraciones con todas las soluciones de Motorflash:
 
 ### Proyecto Web Única
 
-**Secciones Web Única:**
+Secciones Web Única:
 
 * Home  
 * Vehículos Ocasión  
@@ -960,6 +1085,46 @@ Desde el listado se accede a las fichas de vehículos, donde se muestran las fot
 
 Opcional: se trata de una funcionalidad que se puede añadir y debe valorarse por el equipo de Motoflash
 
+## Funcionalidades integradas detalladas
+
+\- CMS: Gestor de contenidos
+
+\- SECCIÓN VO: Buscador optimizado, listados con iconografía descriptiva, ficha completa
+
+\- SECCIÓN VN: Buscador optimizado, listados con iconografía descriptiva, ficha completa
+
+\- POSTVENTA: Cita Taller online, calculadora de neumáticos
+
+\- SECCIÓN OFERTAS: Para publicación de Ofertas y Promociones
+
+\- OTROS DATOS: Información general, sección empresas, equipamiento de serie y opcional, módulo de tasación, segundo idioma (catalán)
+
+## Comparativa con competencia
+
+11 funcionalidades donde Motorflash tiene TODO incluido vs competencia que NO tiene nada:
+
+1\. CMS (Content Management System)
+
+2\. Gestión listado de stock
+
+3\. Base de datos Eurotax y Jato
+
+4\. Look & Feel adaptado al guideline de la marca
+
+5\. Stock automático del fabricante
+
+6\. Posibilidad de añadir desarrollos personalizados
+
+7\. Optimización inicial SEO
+
+8\. Configuración inicial Google Analytics
+
+9\. Calculadora financiera (Contado/Financiado/Cuota)
+
+10\. Formulario de coche a cambio
+
+11\. Segundo idioma (Catalán)
+
 ## Tarifas
 
 |   Servicio | Platinum | Silver | Única |
@@ -990,7 +1155,7 @@ Condiciones:
 
 6. Las peticiones hechas por el cliente deben valorarse como desarrollos aparte, a menos de que se traten de incidencias.
 
-# Agencia digital
+# AGENCIA DIGITAL
 
 Motorflash Solutions, consultora de negocio digital especializada en el sector de automoción
 
@@ -1002,15 +1167,23 @@ Llevamos 14 años gestionando el SEO/SEA/ Redes Sociales de más de 40 clientes 
 
 Solo trabajamos para automoción
 
-** 14** años
+ 14 años
 
-**\+40** clientes
+\+40 clientes
 
 Máxima especialización del equipo
 
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- Tiene web pero no recibe visitas  
+  - Recibe visitas pero no genera leads  
+  - Desconoce las cifras clave de su negocio
+
 ## Punto de partida
 
-**Web propia**
+Web propia
 
 Debe ser la vía principal de generación de ventas, por varios motivos
 
@@ -1021,6 +1194,38 @@ Debe ser la vía principal de generación de ventas, por varios motivos
 * Mejorar el coste por coche vendido
 
 Máximo control de los KPIs de negocio. “Lo que no se mide, no se puede mejorar”
+
+Importancia de la web propia:
+
+Los portales externos estarían aportando el 43% de las ventas totales.
+
+¿Te has planteado qué pasaría si no pudieras publicar en esos portales externos o si te cambian las condiciones?
+
+Tu propia web debe de ser la vía desde la que se genere más del 80% de tu negocio
+
+Tu web necesita TRÁFICO que genere LEADS y, por lo tanto, VENTAS
+
+¿Cómo llega el tráfico a tu web?
+
+EL TRÁFICO QUE TE BUSCA:
+
+\- Es el más valioso porque responde a búsquedas interesadas
+
+\- Es el que aporta mayor tasa de conversión
+
+\- Su origen: El SEO y el SEM
+
+\- LEADS INMEDIATOS procedente del tráfico que te busca
+
+EL TRÁFICO QUE TE ENCUENTRA:
+
+\- Amplía la cobertura del tráfico que te busca a un coste mucho más bajo
+
+\- REDES SOCIALES
+
+\- Campañas de publicidad gráfica, Enlaces desde otros sites, Emailings, etc.
+
+\- DEPÓSITO DE LEADS procedente del tráfico que te encuentra
 
 ## Nuestra propuesta
 
@@ -1088,7 +1293,7 @@ Esto es lo que haremos para mejorar el tráfico SEO de tu site:
 | Coste por lead | En torno a 100 € | ↓ a partir de 100 € | \< a 5 € |
 | Aportación al negocio | ↓ 10% | ↑ a partir del 10% | Mínimo 50% |
 
-#### ***Contenido informe SEO***
+#### *Contenido informe SEO*
 
 |   KPIs de negocio | KPIs de gestión SEO |
 | :---- | :---- |
@@ -1118,7 +1323,7 @@ Por eso, cada empresa en función de: volumen de stock, entorno competitivo, obj
 
 Nosotros lo llamamos el PRO (Punto de Retorno Óptimo)
 
-#### ***¿Qué debo esperar del SEA? ***
+#### *¿Qué debo esperar del SEA? *
 
 |   | Inicio | Desarrollo | Maduración |
 | :---- | :---: | :---: | :---: |
@@ -1141,6 +1346,14 @@ Esto es lo que haremos para que el SEA te aporte muchos leads, asegurando la ren
 
 ### Campañas RR.SS
 
+Son publicaciones de pago en las redes sociales
+
+\- Permiten alcanzar a los usuarios donde pasan gran parte de su tiempo, y especialmente su tiempo libre
+
+\- Permiten llegar exactamente a aquel grupo de personas que estarían interesadas en tu oferta, por lo que no se desperdician impactos
+
+\- Son prospectos que quizá tengan una intención menos inmediata que los generados a través de SEO o SEM, pero constituyen tu stock de reserva de prospectos 
+
 “Los likes no pagan facturas”
 
 Leads de conversión no inmediata, pero que aseguran el negocio a medio plazo.
@@ -1154,13 +1367,13 @@ Nuestra visión de las Redes Sociales:
 100 % enfocadas a objetivos tácticos, con una única misión:  
 Generar leads a un precio nunca superior a 10 €
 
-Permiten ampliar el alcance de nuestra visibilidad, ya que llegamos a personas que aun no han empezado a hacer búsquedas (SEO, SEA), pero que van a hacerlo en un futuro próximo. 
+Permiten ampliar el alcance de nuestra visibilidad, ya que llegamos a personas que aún no han empezado a hacer búsquedas (SEO, SEA), pero que van a hacerlo en un futuro próximo. 
 
-E*l éxito de las campañas en Redes Sociales, es aun más sensibles que el SEA a la calidad de la gestión: Deben aprovecharse todas las posibilidades de segmentación, uso de herramientas auxiliares que permiten optimizar las creatividades y una revisión/optimización continua *
+E*l éxito de las campañas en Redes Sociales es aún más sensibles que el SEA a la calidad de la gestión: Deben aprovecharse todas las posibilidades de segmentación, uso de herramientas auxiliares que permiten optimizar las creatividades y una revisión/optimización continua *
 
-**RR.SS 3 a 6 meses**
+RR.SS 3 a 6 meses
 
-**SEO y SEA** 0-3 meses
+SEO y SEA 0-3 meses
 
 #### *¿Qué debo esperar de las RR.SS?*
 
@@ -1194,7 +1407,434 @@ Contratación conjunta con SEA:
 
 15 % de la inversión destinada a campañas (SEA \+ Redes sociales), con un mínimo de 900 €/mes y un máximo de 1.800 €/mes
 
-**Contratación individual de campañas en Redes sociales:**
+Contratación individual de campañas en Redes sociales:
 
-**15 %** de la inversión destinada a campañas (Redes sociales), con un mínimo de **300 €/mes** y un máximo de **1.800 €/mes **
+15 % de la inversión destinada a campañas (Redes sociales), con un mínimo de 300 €/mes y un máximo de 1.800 €/mes 
+
+# CONTACT CENTER
+
+**Servicios de Contact Center exclusivos en el sector de la automoción:**
+
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- No sabe cuántas llamadas de clientes interesados pierde  
+  - Recibe muchas llamadas y formularios de baja calidad  
+  - No sabe cuántos contactos recibe de cada portal de publicación
+
+## Motor Lead Management
+
+Nuestro servicio estrella de Leads
+
+## Tecnología multicanal
+
+Contamos con plataformas propias de última generación
+
+Disponemos de las soluciones técnicas más avanzadas en el sector. Contamos con plataformas propias, 
+
+lo que nos permite customizar cualquier servicio con afán de crecer con nuestros clientes
+
+* Grabación de todas las llamadas hasta 5 años en cumplimiento con la nueva RGPD
+
+* Recogida de consentimientos pudiendo realizar así acciones de remarketing con nuestros clientes
+
+* Disponemos del Stock publicado en los diferentes canales pudiendo realizar todo tipo de estrategias de precios y medir la conversión a venta
+
+Llamadas entrantes y saliente: Atendemos el 100% de las llamadas gracias a las mejores plataformas del mercado. Contamos con una infraestructura basada en la nube
+
+WhatsApp Business API: Motorflash es la única empresa en el mercado que cuenta con un extenso desarrollo eficiente logrando medir la conversión del canal por excelencia
+
+Emails & Click to Call: Integramos todos los formularios de contacto procedentes de cualquier canal web
+
+Chats, Redes Sociales: Respondemos con inmediatez a las dudas de tus clientes en cualquier matera técnica o de ventas
+
+## Equipo multidisciplinar
+
+Especializado en el sector de la automoción
+
+Ofrecemos un servicio de Atención al Cliente integral gestionando las relaciones con tus prospectos o leads. Garantizamos el 100% de respuestas y los mejores KPIs de calidad. 
+
+* Atención en Recepción: \>90%
+
+* Atención Emisión: \<10 minutos contacto
+
+Externalización de servicios
+
+* Back Office: Gestión de E-mails, CRMs, etc.
+
+* Depuración de Bases de Datos
+
+* Registro de citas y Confirmación de asistencia a Eventos
+
+* Realización de “Mystery Calls” para garantizar una atención comercial.
+
+Servicio multidioma
+
+* Castellano, inglés, francés, catalán, portugués
+
+Reporting
+
+## Reporting
+
+* Customizado a todos los niveles (portal, comercial, vehículo, etc.)
+
+Trabajamos de lunes a sábado en horario ininterrumpido, con posibilidad de ampliación de horario en fin de semana
+
+**50** AGENTES
+
+**400** CLIENTES
+
+**7** AÑOS DE EXPERIENCIA
+
+**2.000** CONCESIONARIOS
+
+Informes customizables en tiempo real
+
+Disponemos de los mejores sistemas de información en tiempo real
+
+Registro de todos tus contactos, destacando a los clientes potenciales
+
+Acceso a gestor exclusivo en el que podrás consultar todo tipo de métricas de control
+
+Podrás establecer estrategias de seguimiento “Nurturing” sobre tus clientes potenciales
+
+Podrás acceder sin límite a todas las grabaciones de tus clientes
+
+Informes detallados de toda la actividad por “leads por medios”, “leads por origen, “leads por comercial”.
+
+KPI de conversión a venta: La gestión de los contactos por parte de nuestros agentes permite conocer al detalle toda la actividad comercial del concesionario.
+
+## Tarifas
+
+ La más competitiva del sector 
+
+|   | Cuota mensual | Set Up |
+| :---- | ----- | :---: |
+| Licencia |  desde  150 € | 50 €\* |
+| Licencia WhatsApp | 180 € |  |
+| Llamada | 0,62 € minuto |  |
+| Email | 0,55 € email |  |
+| Teléfono virtual | 5,35 € línea |  |
+| \* Por integración portal con el que se trabaja IVA y otros impuestos no incluidos. |  |  |
+
+| Simulación tipo | Minutos | Costes |
+| :---: | ----- | ----- |
+| 500 Prospectos(Límite máximo de atención por llamada de 3,5 TMC) | 500 x 2,5 (Prom)= 1.250 minutos | 1.250 x 0,62= **775 €/mes** |
+
+Consideraciones a la propuesta económica:
+
+* Consideraciones a la propuesta económica
+
+* La presente propuesta económica supone la mejor oferta a la que Motorflash puede acceder.
+
+* Adicionalmente a las tarifas mencionadas arriba, a todas las facturas se añadirá el correspondiente IVA vigente en el momento de facturación.
+
+* Cualquier cambio, modificación o alcance funcional diferente de lo detallado expresamente en la presente propuesta deberá ser objeto de valoración adicional, que será presentada al Cliente para su aprobación.
+
+* Los importes se actualizarán con el IPC anual sector servicios. La actualización se aplicará una vez publicado el dato relevante en el INE, pero con efectos retroactivos a la fecha de comienzo de cada año natural.
+
+* Los Servicios se facturarán mensualmente. 
+
+* El vencimiento de las facturas, y consecuente pago, se efectuará 30 días después de la fecha de factura. 
+
+* En caso de cancelación del servicio, se deberá notificar con al menos 30 días de antelación.
+
+# LEAD FACTORY
+
+Es un servicio a disposición de los profesionales para la compra de vehículos VO procedentes de particulares
+
+## Identificación de necesidades 
+
+Este servicio es ideal cuando el cliente menciona:
+
+\- Falta de stock para la venta
+
+\- Problemas de aprovisionamiento de stock
+
+\- Pérdida de tiempo buscando contactos en portales de compra/venta
+
+## Pilares
+
+**MOTORFLASH LEAD FACTORY:** Servicio a disposición de los profesionales para la compra de vehículos VO procedentes de particulares
+
+**DOBLE VALOR DEL LEAD:** Muchos particulares que quieren vender su coche es porque van a comprar otro. Accedes a lead de tasación que también es un lead de compra
+
+**SEGMENTACIÓN:** Máxima capacidad de segmentación tanto de leads de tasación como lead de compra
+
+## Distribución inventario de leads por zonas
+
+El servicio cubre todo el territorio nacional dividido en 7 zonas geográficas:
+
+* **Zona 1**: Noroeste  
+* **Zona 2**: Noreste  
+* **Zona 3**: Cataluña  
+* **Zona 4**: Centro  
+* **Zona 5**: Andalucía Occidental  
+* **Zona 6**: Andalucía Oriental  
+* **Zona 7**: Levante
+
+# MOBILE TRACKING
+
+Mobile Tracking es un servicio de análisis de llamadas que funciona a través de las tarjetas SIM de los teléfonos móviles
+
+Toda la información procedente de las tarjetas SIM se vuelca en tiempo real en un dashboard configurable, adaptable al 100% a las necesidades de análisis y control de la información comercial
+
+Se evita tener que preparar informes declarativos. Refleja la realidad y no las declaraciones de los comerciales
+
+Herramienta con llamadas y datos ilimitados, compatible con iOS y Android
+
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+\- No sabe si su equipo comercial devuelve las llamadas no atendidas
+
+\- Pérdida de posibles ventas por llamadas no atendidas
+
+\- No puede hacer seguimiento cuantitativo y cualitativo de la actividad telefónica entrante y saliente
+
+## Como funciona
+
+**Paso 1**: El cliente visita la página web y se interesa por un coche
+
+**Paso 2**: Realiza una llamada a la concesión para informarse por ese coche
+
+**Paso 3**: El comercial puede o no atender esa llamada
+
+**Paso 4**: De no haberla podido atender, el sistema le recuerda que tiene que devolver la llamada
+
+**Paso 5**: Se produce un registro de la actividad telefónica con el cliente
+
+**Paso 6**: El comercial puede editar y completar los datos del cliente y crear una ficha
+
+**Paso 7**: Se genera una ficha del perfil del cliente
+
+**Paso 8**: Se monitoriza y reporta toda la información en el sistema
+
+## Beneficios
+
+Permite conocer:
+
+* Si se han atendido o no todas las llamadas recibidas por la concesión de clientes potenciales  
+* Si la llamada no ha podido ser atendida en el momento, sabes si ha sido devuelta y cuándo lo fue  
+* Quién es el comercial que ha atendido (¡¡¡o no\!\!\!) cada llamada  
+* Indicadores cualitativos sobre la llamada: tiempo total, para el análisis de actividad y efectividad  
+* Vinculación de la llamada con toda la información relativa al coche por el que el cliente se interesó  
+* Conocerás en tiempo real si los clientes de tu concesión son atendidos en tiempo y forma  
+* Podrás ver la actividad telefónica de tu equipo comercial: ¡¡¡Ni una llamada de un cliente sin contestar\!\!\!  
+* Dashboard configurable en tiempo real  
+* Evita pérdida de ventas por llamadas no atendidas
+
+# CLASIFICADOS
+
+## Identificación de necesidades
+
+Este servicio es ideal cuando el cliente menciona:
+
+- Paga mucho por publicar en portales externos  
+  - Le gustaría pagar solo por los leads que recibe
+
+## Lo que nos hace diferentes
+
+* Completamos tus anuncios con todo detalle sólo con matrícula y/o bastidor  
+* Te generamos un "microsite" con todo tu stock actualizado  
+* Dispondrás de información en tiempo real sobre los prospectos de llamadas y formularios de contacto generados por tus anuncios  
+* Te enviamos prospectos seleccionados exclusivamente para ti adaptados a tu stock
+
+## Como funciona
+
+**Paso 1: Publicación**
+
+Publicación anuncios en motorflash.com: Pasarela/Perfil privado (manual)
+
+**Paso 2: Completado de información**
+
+Completamos la información de tus coches incorporando todos los extras
+
+Los coches que contienen toda la información sobre los extras tienen más y mejor visibilidad
+
+**Paso 3: Monitorización**
+
+Monitorización de los anuncios: Envío personalizado de informes ejecutivos periódicos (leads, visitas, alertas de búsqueda, llamadas)
+
+## Opciones Upgrade
+
+Tendrás opción a más y mejores Leads con las opciones “Upgrade”
+
+CUSTOMER MANAGER: Cualificación de los prospectos convirtiéndolos en leads
+
+MOTORFLASH EXCLUSIVE: Site exclusivo para marcas y concesionarios oficiales que publiquen su stock VO y VN
+
+Exclusividad marca/región
+
+Site totalmente adaptado al “look & feel” del cliente
+
+Más barato y rentable que la publicación del stock en sites externos
+
+Cualificación a través de nuestro CUSTOMER MANAGER
+
+## Motorflash exclusive
+
+Binomio exclusividad marca/zona
+
+Con Motorflash EXCLUSIVE, dispondrás de una zona exclusiva donde sólo se publica tu stock (VN y VO)
+
+* Site exclusivo para marcas y concesionarios oficiales que publiquen su stock VO y VN  
+* Exclusividad marca/región  
+* Site totalmente adaptado al "look & feel" del cliente  
+* Más barato y rentable que la publicación del stock en sites externos  
+* Cualificación a través de nuestro CUSTOMER MANAGER
+
+# IA
+
+Tres soluciones, tres formas de conversar
+
+## IA en WhatsApp
+
+Canal directo y familiar: el cliente ya usa WhatsApp, sin barreras ni descargas.
+
+Conversación libre, natural y disponible 24/7: la IA responde sin depender de agentes humanos.
+
+Personalización real: recuerda el contexto, aprende de cada conversación y se adapta.
+
+Más conversión: mejora la experiencia y aumenta la probabilidad de venta.
+
+Accesibilidad y Alcance:
+
+El cliente ya tiene WhatsApp instalado en su móvil. No necesita entrar en tu web ni descargar nada. Puedes seguir la conversación incluso días después de la primera interacción.
+
+Ventaja: Estás donde el cliente ya está, en su canal de confianza.
+
+Flexibilidad de la conversación:
+
+La IA entiende preguntas libres, se adapta a la forma de hablar del cliente y puede resolver dudas inesperadas (ejemplo: “¿Tenéis SUV híbridos con entrega inmediata?”)
+
+Ventaja: El cliente siente que habla con una persona real, no con un formulario disfrazado.
+
+Relación y seguimiento:
+
+Permite continuar el contacto: enviar recordatorios, compartir fotos, enviar una oferta personalizada, o dar seguimiento a un presupuesto.
+
+Ventaja: Se convierte en un canal de relación continua, no en un punto de contacto aislado.
+
+Conversación y cercanía:
+
+Cercano y humano. El cliente confía más porque recibe atención directa, en un canal donde habla con su familia y amigos.
+
+más confianza \= más ventas.
+
+Coste de oportunidad:
+
+Puedes seguir conversando, nutrir al cliente con información y cerrar la venta aunque ya no esté en tu página web.
+
+Ventaja: No pierdes leads valiosos por un “abandono” de página
+
+## Chat web con flujo cerrado
+
+Integrado en la web: capta al usuario mientras navega.
+
+Interacción guiada: sin errores de comprensión, con botones y rutas definidas.
+
+Ideal para tareas concretas: formularios, reservas, FAQs o cotizaciones.
+
+Sin integraciones externas: más fácil y rápido de implementar.
+
+Accesibilidad y Alcance:
+
+El usuario solo puede interactuar mientras está dentro de tu página web.
+
+Si cierra la pestaña, la conversación se pierde y debes volver a atraerlo.
+
+Flexibilidad de la conversación:
+
+El usuario solo puede seguir los pasos predefinidos (ejemplo: elegir ciudad → elegir coche → enviar datos).
+
+Si tiene una duda fuera del guión, el chat se bloquea o no sabe responder.
+
+Relación y seguimiento:
+
+La relación termina cuando el usuario abandona la web. No puedes
+
+retomar la conversación.
+
+Conversación y cercanía:
+
+Frío y limitado. El cliente siente que está rellenando un formulario más.
+
+Coste de oportunidad:
+
+Solo captas al usuario que está en ese momento en tu web. Si se va, lo pierdes.
+
+## IA de Voz
+
+Asistente de voz inteligente.
+
+Comunicación inmediata: el cliente llama y recibe atención personalizada.
+
+Ideal para concertar citas, resolver dudas rápidas o completar procesos iniciados por chat.
+
+Integra análisis, transcripción y puntuación automática de llamadas para mejorar la atención y la venta.
+
+## Tarifas 
+
+Contratando las dos soluciones juntas (IA en WhatsApp \+ Chat web con flujo cerrado) se aplica un 20% de descuento
+
+## IA en WhatsApp
+
+210 €/mes \+ 30 €/mes por consumo (Tarifa plana revisable mensualmente)
+
+Puesta en marcha:
+
+1,5 h. (onboarding \+ alta WhatsApp \+ configuración IA)
+
+Set up incluye:
+
+* Primera configuración de comportamiento de IA  
+* Carga automática del stock a la IA dos veces al día para tenerlo actualizado  
+* Interfaz para consultar las conversaciones en tiempo real  
+* Incluye un usuario humano para poder supervisar/seguir con las conversaciones
+
+No se incluye:
+
+* Modificación del comportamiento de IA después de la primera configuración  
+* Si se quiere actualizar el stock más de dos veces al día.  
+* Precio de los cambios 60€/hora
+
+## Chat web con flujo cerrado
+
+350 €/mes \+ 350 € setup
+
+Puesta en marcha:
+
+4,5 h. (onboarding \+ configuración de flujo)
+
+Set up incluye:
+
+* Configuración de un flujo completo (preguntas sobre el interés, preguntas de cualificación y recogida de datos del cliente)  
+* Configuración para recibir los leads por mail.
+
+No se incluye:
+
+* Si se quieren más flujos o flujos dinámicos (ej: personalizado por coche)  
+* No hay interfaz para supervisar las conversaciones en tiempo real.  
+* Cambios del flujo después de la primera configuración  
+* Precio de los cambios 60€/hora
+
+## IA de Voz
+
+One off 250 €
+
+Prompt 300 €
+
+Conversación 0,15 €/minuto
+
+Incluye: 5 llamadas en simultáneo
+
+Integración otras plataformas:
+
+* One off: 60 €/hora  
+* Mantenimiento: 150 €/mes
+
+Quality Monitoring: 50 €/mes
 
