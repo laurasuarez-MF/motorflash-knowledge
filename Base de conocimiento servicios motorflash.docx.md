@@ -149,18 +149,6 @@ Dia 1 – Formación
 
 Listo, puedes empezar a utilizar CRM4YOU
 
-## Tarifas sencillas y sin letra  pequeña
-
-Set Up:  350 €/one off
-
-Licencia: 72 €/mes
-
-SIM Traking: 18 €/mes
-
-WhatsApp: 18 €/mes
-
-API con terceros: 100 €/one off
-
 # EXPERIENCIA DE MOTORFLASH
 
 Motorflash es Partner de Google
@@ -412,48 +400,6 @@ Dia 3 a 7 \- Cualificación Stock (opcional)
 Semana 2:
 
 Dia 1 a 3 \- Cualificación Stock (opcional)
-
-## Tarifas
-
-Precios sin IVA
-
-| Precios sin IVA | XS 15 a 50 vehículos | S 51 a 100 vehículos | M 101 a 150 vehículos  | L 151 a 250 vehículos | XL 251 a 500 vehículos | XXL 501 a 1.000 vehículos |
-| :---- | ----- | :---- | :---- | :---- | :---- | :---- |
-|  | Mensual |  |  |  |  |  |
-| Cargador: Creación publicación básica | 12 € | 24 € | 36 € | 48 € | 60 € | 72 € |
-| Dashboard | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Temperatura de mercado | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Importación/fichero Excel | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Calculadora Santander CF | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Gestión anuncios y edición de percha | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Exportación Motorflash.com (10 leads gratis) | Incluido | Incluido | Incluido | Incluido | Incluido | Incluido |
-| Exportación coches.net (∞ cuentas) | 24 € | 36 € | 0,48 € coche | 0,48 € coche | 0,48 € coche | 0,48 € coche |
-| Exportación a portales verticales (∞ cuentas) | 24 € | 36 € | 0,48 € coche | 0,48 € coche | 0,48 € coche | 0,48 € coche |
-| Total mensual | 60 € | 96 € |  |  |  |  |
-| Parking exceso coches 0,24 €/coche | ≤ 120 | ≤180 | ≤300 | ≤420 | ≤720 | ≤1320 |
-| Opcionales | Mensual |  |  |  |  |  |
-| Feed de datos CON exportaciones (∞ ficheros) | 120 € | 120 € | 120 € | 120 € | 120 € | 120 € |
-| Feed de datos SIN exportaciones (∞ ficheros) |  |  | 0,96 € / coche | 0,96 € / coche | 0,96 € / coche | 0,96 € / coche |
-| Creación publicación avanzada | 0,72 € / coche | 0,72 € / coche | 0,72 € / coche | 0,72 € / coche | 0,72 € / coche | 0,72 € / coche |
-| Creación publicación premium | 3,00 € / coche | 3,00 € / coche | 3,00 € / coche | 3,00 € / coche | 3,00 € / coche | 3,00 € / coche |
-| Licencia módulo tasación de vehículos | 50 € | 50 € | 50 € | 50 € | 50 € | 50 € |
-| Tasador vehículos | 0,60 € / coche | 0,60 € / coche | 0,60 € / coche | 0,60 € / coche | 0,60 € / coche | 0,60 € / coche |
-| Marcas de agua. Creación | 120 €/ pago único |  |  |  |  |  |
-| Marcas de agua. Mantenimiento | 24 € | 24 € | 24 € | 24 € | 24 € | 24 € |
-
-Condiciones:
-
-* Permanencia mínima: 6 meses.
-
-* Se facturará por bastidores únicos acumulados y enviados durante el mes.
-
-Notas
-
-1. Publicación básica: Creación de anuncios de forma manual. Requiere introducir la fecha de matriculación o fecha de fabricación. Seleccionar el tipo de vehículo, marca, modelo, versión, combustible, puertas, carrocería, cambio y extras.
-
-2. Publicación avanzada: Creación de anuncios mediante la consulta por matrícula. Al agregar la matrícula, se completan automáticamente los datos básicos, quedando pendiente la selección de la versión y los extras. Incluye Publicación Básica.
-
-3. Publicación premium: Creación de anuncios mediante la consulta por bastidor del coche (VIN). Al agregar el VIN, se completa automáticamente la información básica y se incluye la versión del coche y los extras. Incluye Publicación Avanzada.
 
 # MESSAGE
 
@@ -716,26 +662,6 @@ Dia 2 a 7 \- Integración con terceros (opcional)
 Semana 2:
 
 Dia 1 a 7 – Integración con terceros (opcional)
-
-## Tarifas 
-
-|  Costes de establecimiento de servicio (una sola vez) |  |  |
-| :---- | :---- | :---- |
-| Set-up | 180 € | Una sola vez a la firma del contrato. Incluye costes de configuración de línea con Meta, configuración inicial del servicio MF Message y piloto de un mes. Es descontable en la primera factura del servicio*.* |
-
-| Costes recurrentes del servicio Message (mensual) |  |
-| :---- | :---- |
-| Licencia de uso | 180 € Mensual |
-| Coste por línea | 72 € Mensual |
-| Agentes activos (1-100) | 18 € Mensual |
-| Agentes activos (101-200) | 15 € Mensual |
-| Agentes activos (201 en adelante) | 10 € Mensual |
-
-| Costes repercutidos por tráfico Meta (mensual sin recargo) |  |  |
-| :---- | :---- | :---- |
-| Coste por plantilla tráfico saliente | 0,0509 € | Conversación que se inicia desde una empresa que envía un mensaje a un usuario fuera de la franja de servicio al cliente de 24 horas. Estos mensajes que inician una conversación iniciada por la compañía requerirán una plantilla de mensaje. |
-| Coste por conversación entrante | \*0,0305 € | Conversación que se inicia en respuesta a un mensaje del usuario. Cada vez que una empresa responde a un usuario dentro de la franja de servicio al cliente de 24 horas, ese mensaje se asociará con una conversación iniciada por el usuario. |
-| \*1.000 primeras al mes gratuitas |  |  |
 
 ## Descripción técnica MF Message
 
@@ -1125,36 +1051,6 @@ Opcional: se trata de una funcionalidad que se puede añadir y debe valorarse po
 
 11\. Segundo idioma (Catalán)
 
-## Tarifas
-
-|   Servicio | Platinum | Silver | Única |
-| :---- | :---- | :---- | :---- |
-| Configuración inicial | 800 € | 300 € |  |
-| Cuota mensual | 420 €/mes | 100 €/mes | 60 €/mes |
-| Permanencia | 24 meses | 24 meses |  |
-| Total según permanencia | 10.880 € | 2.700 € |  |
-
-|  Otras opciones | Platinum | Silver | Única |
-| :---- | :---- | :---- | :---- |
-| Pago al contado (Descuento 4 meses en Platinum y Silver, 2 en Única.) | 9.200 €/dos años | 2.300 €/dos años | 600 €/año |
-| Descuento | 1.680 € | 400 € | 120 € |
-| % descuento | 15,4% | 14,8% | 16,7% |
-| Upgrade web Silver a Web Platinum | 500 € |  |  |
-
-Condiciones:
-
-1. Los precios son por mundo/marca.
-
-2. Hacer un upgrade de la web Silver a Platinum implica un coste de configuración inicial de 500 € y la cuota mensual se actualiza a la del producto nuevo.
-
-3. Pasados 24 meses se podrá cancelar el servicio con un preaviso de tres meses.
-
-4. Una vez vencidos los 24 meses de permanencia, las tarifas serán revisadas anualmente conforme variaciones del IPC.
-
-5. La cuota mensual incluye el alojamiento del site, mantenimiento permanente de los servidores, actualizaciones de producto y medidas de seguridad.
-
-6. Las peticiones hechas por el cliente deben valorarse como desarrollos aparte, a menos de que se traten de incidencias.
-
 # AGENCIA DIGITAL
 
 Motorflash Solutions, consultora de negocio digital especializada en el sector de automoción
@@ -1243,7 +1139,6 @@ Realizar una auditoría gratuita del tráfico de tu site
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | Tipología | MarcasCompra-venta muy grandes | Grupos concesionariosCompra-venta Grandes | Concesionarios grandesCompra-venta medianos | Concesionarios mediadosCompra-venta pequeños | Concesionarios pequeños |
 | Stock vehículos | \> 2.000 | 500 | 200 | 50 a 200 | \< 50 |
-| Inversión/mes | 50.000 – 100.000 € | 12-000 – 20.000 € | 8.000 – 12.000 € | 3.000 – 8.000 € | Hasta 3.000 € |
 | Distribución de la inversión  |  |  |  |  |  |
 | SEO | 8% | 14% | 18% | 20% | 25% |
 | SEA | 64% | 60% | 55% | 55% | 50% |
@@ -1281,17 +1176,7 @@ Esto es lo que haremos para mejorar el tráfico SEO de tu site:
 |   | Grupo 1 | Grupo 2 | Grupo 3 | Grupo 4 | Grupo 5 |
 | :---- | :---: | :---: | :---: | :---: | :---: |
 | Stock vehículos | \> 2.000 | Entre 500 y 2.000 | Entre 200 y 500 | Entre 50 y 200 | \< 50 |
-| Ámbito de ventas | 100% nacional | 75% nacional | 50% nacional | 25% nacional | 100% local |
-|  |  | 25% local | 50% local | 75% local |  |
-| Inversión/mes | 5.000 € | ± 2.500 €  | Entre 1.500 y 2.500 € | En torno a 1.200 € | Hasta 1.000 € |
-
-#### *¿Qué debo esperar del SEO?*
-
-|   | Inicio | Desarrollo | Maduración |
-| :---- | :---: | :---: | :---: |
-| Meses | 1-jun | jun-24 | A partir de 24 |
-| Coste por lead | En torno a 100 € | ↓ a partir de 100 € | \< a 5 € |
-| Aportación al negocio | ↓ 10% | ↑ a partir del 10% | Mínimo 50% |
+| Ámbito de ventas | 100% nacional | 75% nacional y 25% local | 50% nacional y 50% local | 25% nacional y 75% local | 100% local |
 
 #### *Contenido informe SEO*
 
@@ -1322,13 +1207,6 @@ No debe preocuparnos, comprar barato, sino que el tráfico que se compre genere 
 Por eso, cada empresa en función de: volumen de stock, entorno competitivo, objetivos tácticos, etc., tiene su óptimo de inversión.
 
 Nosotros lo llamamos el PRO (Punto de Retorno Óptimo)
-
-#### *¿Qué debo esperar del SEA? *
-
-|   | Inicio | Desarrollo | Maduración |
-| :---- | :---: | :---: | :---: |
-| Meses | 1 | 2-mar | A partir del 3 |
-| Coste por lead | Período de optimización inicial de campañas |  | Rango 20-40 € |
 
 #### *¿Qué recorrido SEA te proponemos? *
 
@@ -1375,13 +1253,6 @@ RR.SS 3 a 6 meses
 
 SEO y SEA 0-3 meses
 
-#### *¿Qué debo esperar de las RR.SS?*
-
-|   | Inicio | Desarrollo | Maduración |
-| :---- | :---: | :---: | :---: |
-| Meses | 1 | 2-mar | A partir del 3 |
-| Coste por lead | Período de optimización inicial de campañas |  | Rango 10 € |
-
 #### *¿Qué recorrido en Redes Sociales te proponemos?*
 
 1. Recibir un briefing inicial de tus objetivos.  
@@ -1390,26 +1261,6 @@ SEO y SEA 0-3 meses
    4. Briefing continuo: hablaremos contigo cuantas veces sea. Cuanta más información tengamos de tu negocio y tus necesidades puntuales, mejor haremos nuestro trabajo.  
    5. Hacer una optimización continua de las campañas. Cada campaña se revisa, mínimo una vez cada tres días  
    6. Enviarte un informe mensual
-
-## Tarifas
-
-* SEO
-
-Antes de pasarte un presupuesto, haremos un análisis previo de tu web, para valorar el potencial de crecimiento en tráfico orgánico. Definiremos objetivos de crecimiento a 6,12,18 y 24 meses y estimaremos las horas de dedicación y recursos necesarios
-
-* SEA
-
-15 % de la inversión destinada a campañas, con un mínimo de 750 €/mes y un máximo de 1.800 €/mes
-
-* Campañas RR.SS
-
-Contratación conjunta con SEA:
-
-15 % de la inversión destinada a campañas (SEA \+ Redes sociales), con un mínimo de 900 €/mes y un máximo de 1.800 €/mes
-
-Contratación individual de campañas en Redes sociales:
-
-15 % de la inversión destinada a campañas (Redes sociales), con un mínimo de 300 €/mes y un máximo de 1.800 €/mes 
 
 # CONTACT CENTER
 
@@ -1447,7 +1298,7 @@ WhatsApp Business API: Motorflash es la única empresa en el mercado que cuenta 
 
 Emails & Click to Call: Integramos todos los formularios de contacto procedentes de cualquier canal web
 
-Chats, Redes Sociales: Respondemos con inmediatez a las dudas de tus clientes en cualquier matera técnica o de ventas
+Chats, Redes Sociales: Respondemos con inmediatez a las dudas de tus clientes en cualquier materia técnica o de ventas
 
 ## Equipo multidisciplinar
 
@@ -1505,41 +1356,6 @@ Informes detallados de toda la actividad por “leads por medios”, “leads po
 
 KPI de conversión a venta: La gestión de los contactos por parte de nuestros agentes permite conocer al detalle toda la actividad comercial del concesionario.
 
-## Tarifas
-
- La más competitiva del sector 
-
-|   | Cuota mensual | Set Up |
-| :---- | ----- | :---: |
-| Licencia |  desde  150 € | 50 €\* |
-| Licencia WhatsApp | 180 € |  |
-| Llamada | 0,62 € minuto |  |
-| Email | 0,55 € email |  |
-| Teléfono virtual | 5,35 € línea |  |
-| \* Por integración portal con el que se trabaja IVA y otros impuestos no incluidos. |  |  |
-
-| Simulación tipo | Minutos | Costes |
-| :---: | ----- | ----- |
-| 500 Prospectos(Límite máximo de atención por llamada de 3,5 TMC) | 500 x 2,5 (Prom)= 1.250 minutos | 1.250 x 0,62= **775 €/mes** |
-
-Consideraciones a la propuesta económica:
-
-* Consideraciones a la propuesta económica
-
-* La presente propuesta económica supone la mejor oferta a la que Motorflash puede acceder.
-
-* Adicionalmente a las tarifas mencionadas arriba, a todas las facturas se añadirá el correspondiente IVA vigente en el momento de facturación.
-
-* Cualquier cambio, modificación o alcance funcional diferente de lo detallado expresamente en la presente propuesta deberá ser objeto de valoración adicional, que será presentada al Cliente para su aprobación.
-
-* Los importes se actualizarán con el IPC anual sector servicios. La actualización se aplicará una vez publicado el dato relevante en el INE, pero con efectos retroactivos a la fecha de comienzo de cada año natural.
-
-* Los Servicios se facturarán mensualmente. 
-
-* El vencimiento de las facturas, y consecuente pago, se efectuará 30 días después de la fecha de factura. 
-
-* En caso de cancelación del servicio, se deberá notificar con al menos 30 días de antelación.
-
 # LEAD FACTORY
 
 Es un servicio a disposición de los profesionales para la compra de vehículos VO procedentes de particulares
@@ -1594,7 +1410,7 @@ Este servicio es ideal cuando el cliente menciona:
 
 \- No puede hacer seguimiento cuantitativo y cualitativo de la actividad telefónica entrante y saliente
 
-## Como funciona
+## Cómo funciona
 
 **Paso 1**: El cliente visita la página web y se interesa por un coche
 
@@ -1642,7 +1458,7 @@ Este servicio es ideal cuando el cliente menciona:
 * Dispondrás de información en tiempo real sobre los prospectos de llamadas y formularios de contacto generados por tus anuncios  
 * Te enviamos prospectos seleccionados exclusivamente para ti adaptados a tu stock
 
-## Como funciona
+## Cómo funciona
 
 **Paso 1: Publicación**
 
@@ -1700,31 +1516,31 @@ Personalización real: recuerda el contexto, aprende de cada conversación y se 
 
 Más conversión: mejora la experiencia y aumenta la probabilidad de venta.
 
-Accesibilidad y Alcance:
+**Accesibilidad y Alcance:**
 
-El cliente ya tiene WhatsApp instalado en su móvil. No necesita entrar en tu web ni descargar nada. Puedes seguir la conversación incluso días después de la primera interacción.
+El cliente ya tiene WhatsApp instalado en su móvil. No necesitas entrar en tu web ni descargar nada. Puedes seguir la conversación incluso días después de la primera interacción.
 
 Ventaja: Estás donde el cliente ya está, en su canal de confianza.
 
-Flexibilidad de la conversación:
+**Flexibilidad de la conversación:**
 
 La IA entiende preguntas libres, se adapta a la forma de hablar del cliente y puede resolver dudas inesperadas (ejemplo: “¿Tenéis SUV híbridos con entrega inmediata?”)
 
 Ventaja: El cliente siente que habla con una persona real, no con un formulario disfrazado.
 
-Relación y seguimiento:
+**Relación y seguimiento:**
 
 Permite continuar el contacto: enviar recordatorios, compartir fotos, enviar una oferta personalizada, o dar seguimiento a un presupuesto.
 
 Ventaja: Se convierte en un canal de relación continua, no en un punto de contacto aislado.
 
-Conversación y cercanía:
+**Conversación y cercanía:**
 
 Cercano y humano. El cliente confía más porque recibe atención directa, en un canal donde habla con su familia y amigos.
 
 más confianza \= más ventas.
 
-Coste de oportunidad:
+**Coste de oportunidad:**
 
 Puedes seguir conversando, nutrir al cliente con información y cerrar la venta aunque ya no esté en tu página web.
 
@@ -1740,29 +1556,29 @@ Ideal para tareas concretas: formularios, reservas, FAQs o cotizaciones.
 
 Sin integraciones externas: más fácil y rápido de implementar.
 
-Accesibilidad y Alcance:
+**Accesibilidad y Alcance:**
 
 El usuario solo puede interactuar mientras está dentro de tu página web.
 
 Si cierra la pestaña, la conversación se pierde y debes volver a atraerlo.
 
-Flexibilidad de la conversación:
+**Flexibilidad de la conversación:**
 
 El usuario solo puede seguir los pasos predefinidos (ejemplo: elegir ciudad → elegir coche → enviar datos).
 
 Si tiene una duda fuera del guión, el chat se bloquea o no sabe responder.
 
-Relación y seguimiento:
+**Relación y seguimiento:**
 
 La relación termina cuando el usuario abandona la web. No puedes
 
 retomar la conversación.
 
-Conversación y cercanía:
+**Conversación y cercanía:**
 
 Frío y limitado. El cliente siente que está rellenando un formulario más.
 
-Coste de oportunidad:
+**Coste de oportunidad:**
 
 Solo captas al usuario que está en ese momento en tu web. Si se va, lo pierdes.
 
@@ -1775,66 +1591,3 @@ Comunicación inmediata: el cliente llama y recibe atención personalizada.
 Ideal para concertar citas, resolver dudas rápidas o completar procesos iniciados por chat.
 
 Integra análisis, transcripción y puntuación automática de llamadas para mejorar la atención y la venta.
-
-## Tarifas 
-
-Contratando las dos soluciones juntas (IA en WhatsApp \+ Chat web con flujo cerrado) se aplica un 20% de descuento
-
-## IA en WhatsApp
-
-210 €/mes \+ 30 €/mes por consumo (Tarifa plana revisable mensualmente)
-
-Puesta en marcha:
-
-1,5 h. (onboarding \+ alta WhatsApp \+ configuración IA)
-
-Set up incluye:
-
-* Primera configuración de comportamiento de IA  
-* Carga automática del stock a la IA dos veces al día para tenerlo actualizado  
-* Interfaz para consultar las conversaciones en tiempo real  
-* Incluye un usuario humano para poder supervisar/seguir con las conversaciones
-
-No se incluye:
-
-* Modificación del comportamiento de IA después de la primera configuración  
-* Si se quiere actualizar el stock más de dos veces al día.  
-* Precio de los cambios 60€/hora
-
-## Chat web con flujo cerrado
-
-350 €/mes \+ 350 € setup
-
-Puesta en marcha:
-
-4,5 h. (onboarding \+ configuración de flujo)
-
-Set up incluye:
-
-* Configuración de un flujo completo (preguntas sobre el interés, preguntas de cualificación y recogida de datos del cliente)  
-* Configuración para recibir los leads por mail.
-
-No se incluye:
-
-* Si se quieren más flujos o flujos dinámicos (ej: personalizado por coche)  
-* No hay interfaz para supervisar las conversaciones en tiempo real.  
-* Cambios del flujo después de la primera configuración  
-* Precio de los cambios 60€/hora
-
-## IA de Voz
-
-One off 250 €
-
-Prompt 300 €
-
-Conversación 0,15 €/minuto
-
-Incluye: 5 llamadas en simultáneo
-
-Integración otras plataformas:
-
-* One off: 60 €/hora  
-* Mantenimiento: 150 €/mes
-
-Quality Monitoring: 50 €/mes
-
