@@ -341,7 +341,7 @@ Puedes contactar con nosotros a través del siguiente correo: [helpdesk.message
 
 ## ¿Hay una guía o tutorial para aprender a usar Whanmo?
 
-Sí, contamos con un manual de uso con toda la información que necesites para sacar el máximo partido a la herramienta
+Sí, contamos con un manual de uso con toda la información que necesites para sacar el máximo partido a la herramienta. Lo puedes consultar en nuestra sección de “Recursos”.
 
 ## ¿Whanmo ofrece soporte 24/7?
 
