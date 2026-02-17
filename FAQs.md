@@ -15,7 +15,7 @@
 * **¿Cuál es la capacidad máxima de ocupantes?** La capacidad máxima está homologada en la ficha técnica, siendo generalmente de 5 plazas en turismos estándar.  
 * **¿El coche incluye sistema de frenado?** Sí, todos nuestros coches disponen de sistemas de frenos de servicio y de estacionamiento garantizados por el fabricante.  
 * **¿Para qué sirven los espejos retrovisores?** Están diseñados para permitir al conductor la visibilidad de la zona trasera y lateral del vehículo durante la circulación.  
-* **¿Qué es un coche "Km 0"?** Es un vehículo que ya ha sido matriculado por el concesionario pero que no ha circulado, teniendo un kilometraje mínimo de transporte.  
+* **¿Qué es un coche "Kilometro 0"(km 0)?** Es un vehículo que ya ha sido matriculado por el concesionario pero que no ha circulado, teniendo un kilometraje mínimo de transporte.  
 * **¿Por qué son redondos los neumáticos?** Es el diseño técnico necesario para permitir la rotación y el desplazamiento eficiente del vehículo sobre el asfalto.  
 * **¿Cuál es la función del maletero?** Es el espacio destinado exclusivamente para el transporte de equipaje y carga ligera, respetando siempre el peso máximo autorizado.  
 * **¿Se mantiene el brillo de la pintura sin mantenimiento?** Para conservar el acabado estético, es necesario realizar lavados periódicos y evitar exposiciones prolongadas a agentes corrosivos.  
@@ -126,5 +126,32 @@
 * **¿Qué tipo de vehículos vendéis?** En Facilitea somos especialistas exclusivos en el sector de la automoción de ocasión, ofreciendo tanto coches como motos verificados.  
 * **¿Dónde están ubicadas vuestras oficinas centrales?** Nuestra sede se encuentra en Gran Via de les Corts Catalanes, 159, pl. 8, 08014 Barcelona.  
 * **¿Qué requisitos hay para devolver un vehículo?** Debe comunicarlo dentro de los 14 días naturales posteriores a la entrega. El vehículo debe devolverse en las mismas condiciones físicas y mecánicas en las que se entregó.  
-* **¿Tiene algún coste el cambio de titularidad?** No, el trámite de cambio de nombre está incluido en el servicio de Facilitea, por lo que el cliente no debe pagar tasas adicionales por esta gestión.
+* **¿Tiene algún coste el cambio de titularidad?** No, el trámite de cambio de nombre está incluido en el servicio de Facilitea, por lo que el cliente no debe pagar tasas adicionales por esta gestión.  
+* **¿Qué es el Plan MOVES?** Es un programa de ayudas del Gobierno de España para la compra de vehículos eficientes. La gestión de la ayuda depende de la Comunidad Autónoma donde esté empadronado el comprador.  
+* **¿Vuestros vehículos de ocasión pueden acogerse al Plan MOVES?** Sí, pero con condiciones. Para que un vehículo de ocasión en Facilitea reciba la ayuda, debe cumplir:  
+1. **Tipo de motor**: Debe ser 100% Eléctrico (EV) o Híbrido Enchufable (PHEV).  
+2. **Antigüedad**: Solo se aplica a vehículos de ocasión con una **antigüedad máxima de 12 meses** desde su primera matriculación (generalmente modelos 0 kilometros o seminuevos).  
+3. **Vendedor**: El vehículo debe ser vendido por un concesionario o profesional (como Facilitea).  
+* **¿Cuál es la cuantía de la ayuda con el Plan MOVES?**
 
+  \-          **Coches Eléctricos (EV)**: Hasta **4.500 €** (o **7.000 €** si entregas un coche de más de 10 años para chatarra).
+
+  \-          **Híbridos Enchufables (PHEV)**: Entre **2.500 €** y **5.000 €** (según si hay achatarramiento y la autonomía eléctrica del coche).
+
+  \-          **Motos Eléctricas**: Hasta **1.100 €** (o **1.300 €** con achatarramiento).
+
+**Datos importantes para el cliente:**
+
+\-          **Límite de precio**: El coche no puede costar más de **45.000 €** (antes de IVA), o **53.000 €** si es un coche de 8 o 9 plazas.
+
+\-          **Tributación**: Es importante informar al cliente que esta ayuda **tributa en el IRPF** como ganancia patrimonial (deberá declararla en su declaración de la renta el año siguiente).
+
+\-          **Solicitud**: El cliente debe solicitar la ayuda tras la compra a través de la sede electrónica de su Comunidad Autónoma.
+
+* **¿Tengo que declarar la ayuda del Plan MOVES?** Sí, esta subvención se considera una ganancia patrimonial y debe incluirse en la declaración del IRPF del año siguiente a su recepción.  
+* **¿El precio de los coches eléctricos incluye la batería?** Sí, en todos nuestros vehículos de ocasión la batería es propiedad del vehículo y está incluida en el precio de venta, sin cuotas de alquiler mensuales.  
+* **¿Viene el cable de carga incluido con el vehículo eléctrico**? Sí, todos nuestros coches eléctricos y enchufables se entregan con el cable de carga estándar para que pueda utilizarlo desde el primer día.  
+* **¿Qué ventajas tiene la etiqueta "Cero" de la DGT?** Permite circular libremente por las Zonas de Bajas Emisiones (ZBE), aparcar gratuitamente en zonas reguladas (SER) de muchas ciudades y obtener bonificaciones en peajes.  
+* **¿Puedo cargar el coche eléctrico en un enchufe convencional de casa**? Sí, es posible realizar una carga lenta en un enchufe doméstico (Schuko), aunque recomendamos la instalación de un punto de carga Wallbox para mayor rapidez y seguridad.  
+* **¿Si compro un coche eléctrico, me ayudáis con el punto de carga?** Podemos asesorarle sobre la instalación; además, el Plan MOVES III también ofrece ayudas de hasta el 70% del coste de la instalación del punto de carga en su hogar.  
+* **¿Es necesario contratar un seguro específico para coches eléctricos?** No es obligatorio que sea específico, pero nuestro seguro MyBox ofrece coberturas adaptadas a vehículos eléctricos, manteniendo el precio fijo durante 3 años.
