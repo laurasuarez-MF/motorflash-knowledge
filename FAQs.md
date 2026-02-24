@@ -112,7 +112,7 @@
 * **¿También gestionan la venta y alquiler de motos?** Sí, en nuestra sección específica podrá encontrar una flota de motos verificadas bajo las mismas garantías de transparencia que nuestros coches.  
 * **¿Qué servicios adicionales ofrecen?** Además de la compra y el alquiler, facilitamos la contratación de seguros y el asesoramiento personalizado para elegir el vehículo que mejor se adapte a sus necesidades.  
 * **¿Puedo financiar el 100% del vehículo?** Sí, a través de nuestro acuerdo con CaixaBank, ofrecemos financiación del 100% del importe del coche o moto sin necesidad de entrada.  
-* **¿Cuáles son las condiciones de la financiación?** Ofrecemos un TIN fijo del 9,5% (TAE 9,925%) con un plazo de hasta 96 meses (8 años). Estas condiciones se mantienen fijas durante toda la vida del préstamo. Deberás contactar con un asesor para ver disponibilidad de financiación.  
+* **¿Cuáles son las condiciones de la financiación?** Ofrecemos un TIN fijo del 9.500022788902918% (TAE 9,925%) con un plazo de hasta 96 meses (8 años). Estas condiciones se mantienen fijas durante toda la vida del préstamo. Deberás contactar con un asesor para ver disponibilidad de financiación.  
 * **¿Tengo que pagar comisiones por el préstamo?** No, la financiación con CaixaBank a través de nuestra plataforma no incluye comisiones de apertura ni de gestión.  
 * **¿Cómo sé si mi financiación ha sido aprobada?** La aprobación está sujeta al análisis de solvencia por parte de CaixaBank. El proceso es ágil y se realiza íntegramente de forma online.  
 * **¿Qué ocurre con los 200€ de la reserva?** Ese importe no es un cargo, sino una retención temporal en su tarjeta durante 7 días para bloquear el vehículo. Tras ese periodo, el importe se libera automáticamente.  
