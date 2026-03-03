@@ -1502,9 +1502,93 @@ Con Motorflash EXCLUSIVE, dispondrás de una zona exclusiva donde sólo se publi
 * Más barato y rentable que la publicación del stock en sites externos  
 * Cualificación a través de nuestro CUSTOMER MANAGER
 
-# IA
+# SPYNE
 
-Tres soluciones, tres formas de conversar
+Llamada Spyne o Carlens, es la solución de inteligencia artificial para transformar tus imágenes de manera sencilla y rápida, logrando resultados de alta calidad para tus catálogos de coches.  
+Haz la foto en cualquier parte, y después ¡escoge el fondo que más te guste\!
+
+## Spin 360°
+
+Revoluciona la manera de mostrar tu producto: Crea vídeos 360° que venden por ti.
+
+## Vídeo Promocional
+
+Para presentar los coches con todo lujo de detalle
+
+## Funcionalidades
+
+\+50 de funcionalidades y correcciones automáticas  
+\+100 de funcionalidades de transformación 
+
+* Clasificador de coches  
+* Tipo de coche  
+* Detección y reemplazo de matrículas  
+* Identificación de imágenes cortadas  
+* Reconocimiento de desenfoque  
+* Identificación de inclinación  
+* Detección de exposición  
+* Categorización de fotografías  
+* Clasificador de neumáticos  
+* Detección de barro en neumáticos  
+* Detección del ángulo de posición  
+* Reconocimiento de distancias  
+* Identificación de reflejos  
+* Clasificador de tonos  
+* Categorizador de interiores  
+* Logo del concesionario en el fondo y en la matricula  
+* Eliminación de reflejos  
+* Estudio virtual y plataforma giratoria  
+* Generación de sombras y reflejos  
+* Banners que logran atraer la atención ¡presentan los coches de forma ordenada más fácil\!  
+* Sustitución de Fondos con inteligencia artificial reemplazandolos por un fondo profesional.  
+* Generación de plataforma  
+* Tintado de Lunas: Cubre las ventanas para obtener mejores imágenes  
+* Visión a través de las ventanas: Nos aseguramos de que no se vea nada a través de las ventanas  
+* Mejora la imagen del interior cubriendo exteriores y corrigiendo la inclinación de las imágenes  
+* Mejora la resolución de imágenes dando más nitidez y enfocando  la imagen original automáticamente  
+* Permite ajustar el tamaño de la imagen para cumplir con las necesidades de cada concesionario
+
+## Cómo usar Carlens 360°
+
+Tenemos distintos canales para concesionarios
+
+1. Integración DMS
+
+No necesitas cambiar tus procesos  
+La subida de fotos es automática y se acopla al sistema de los concesionarios  
+Nos integramos al workflow que estéis utilizando.
+
+- Concesionario  
+- CRM / DMS  
+- Proveedor de laweb  
+- Web
+
+2. App / SDK
+
+Sencilla aplicación para hacer fotos tanto en iOS como en Android.   
+No es necesario tener conocimientos técnicos para hacer las fotos.
+
+3. API
+
+Desde nuestra consola puedes actualizar todo tu inventario.
+
+4. Consola
+
+Desde la consola tienes acceso a todas tus fotos y proyectos.
+
+## Tabla Comparativa: Competidores vs Carlens
+
+| Empresa | Creación 360º (Exterior) | Creación 360º (Interior) | Cambio de fondo | Integración con webs | Edición de fotografía | Etiquetado interactivo | Extras |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **CARLENS** | Fotos y vídeos / Fotos 2D | Foto, fotos 180º y vídeos | Muchas opciones personalizables y simulador de concesionarios | Puedes subir un vídeo en línea o RRSS, con música | Mejorado con IA | Lo hace para reconocer daños y destacados | Corrige fotos viejas del catálogo / Auditoría automática |
+| **Optipix** | Fotos y Fotos 2D | Fotos próximamente fotos 180º | Personalización media | Solo puede subirse desde el ordenador | Mejorado con IA | Próximamente: lo usarán para reconocer daños y solo texto | Corrige fotos viejas del catálogo / Auditoría automática |
+| **CitNOW** | Fotos y vídeos | Fotos y vídeos | Sí, pero sin ejemplos | Puedes subir un vídeo en línea o RRSS, con música | Mejorado con IA | NO | Corrige fotos viejas del catálogo / Auditoría automática |
+| **VC 360** | Fotos y vídeos | Fotos y vídeos | Personalización básica | Solo puede subirse desde el ordenador | NO | Sí, pero solo texto | NO |
+| **AutosOnShow** | Fotos y vídeos | Fotos y vídeos | Solo cambia el fondo, no el suelo | No indica nada. Solo dispone en iPhone | NO | Lo tienen, pero solo con ampliación de imagen | NO |
+| **CarCutter** | Fotos y vídeos / Fotos 3D | Fotos | Personalización media | Imágenes en línea directamente | Mejorado con IA | Próximamente | Corrige fotos viejas del catálogo |
+| **Autofox** | Fotos | Fotos | Personalización básica | Imágenes en línea directamente | Mejorado con IA | NO | NO |
+
+# IA
 
 ## IA en WhatsApp
 
@@ -1516,69 +1600,69 @@ Personalización real: recuerda el contexto, aprende de cada conversación y se 
 
 Más conversión: mejora la experiencia y aumenta la probabilidad de venta.
 
-**Accesibilidad y Alcance:**
+* **Accesibilidad y Alcance:**
 
 El cliente ya tiene WhatsApp instalado en su móvil. No necesitas entrar en tu web ni descargar nada. Puedes seguir la conversación incluso días después de la primera interacción.
 
 Ventaja: Estás donde el cliente ya está, en su canal de confianza.
 
-**Flexibilidad de la conversación:**
+* **Flexibilidad de la conversación:**
 
 La IA entiende preguntas libres, se adapta a la forma de hablar del cliente y puede resolver dudas inesperadas (ejemplo: “¿Tenéis SUV híbridos con entrega inmediata?”)
 
 Ventaja: El cliente siente que habla con una persona real, no con un formulario disfrazado.
 
-**Relación y seguimiento:**
+* **Relación y seguimiento:**
 
 Permite continuar el contacto: enviar recordatorios, compartir fotos, enviar una oferta personalizada, o dar seguimiento a un presupuesto.
 
 Ventaja: Se convierte en un canal de relación continua, no en un punto de contacto aislado.
 
-**Conversación y cercanía:**
+* **Conversación y cercanía:**
 
 Cercano y humano. El cliente confía más porque recibe atención directa, en un canal donde habla con su familia y amigos.
 
 más confianza \= más ventas.
 
-**Coste de oportunidad:**
+* **Coste de oportunidad:**
 
-Puedes seguir conversando, nutrir al cliente con información y cerrar la venta aunque ya no esté en tu página web.
+Puedes seguir conversando, nutrir al cliente con información y cerrar la venta, aunque ya no esté en tu página web.
 
 Ventaja: No pierdes leads valiosos por un “abandono” de página
 
-## Chat web con flujo cerrado
+## Webchat IA
 
 Integrado en la web: capta al usuario mientras navega.
 
-Interacción guiada: sin errores de comprensión, con botones y rutas definidas.
+Texto y voz en un solo canal: interacción escrita o hablada según prefiera el usuario.
 
-Ideal para tareas concretas: formularios, reservas, FAQs o cotizaciones.
+Interacción natural: el chat se adapta a cada usuario, no al revés.
 
-Sin integraciones externas: más fácil y rápido de implementar.
+Integrable con otros sistemas: permite consultar y gestionar datos externos
 
-**Accesibilidad y Alcance:**
+* **Accesibilidad y Alcance:**
 
 El usuario solo puede interactuar mientras está dentro de tu página web.
 
 Si cierra la pestaña, la conversación se pierde y debes volver a atraerlo.
 
-**Flexibilidad de la conversación:**
+* **Flexibilidad de la conversación:**
 
 El usuario solo puede seguir los pasos predefinidos (ejemplo: elegir ciudad → elegir coche → enviar datos).
 
 Si tiene una duda fuera del guión, el chat se bloquea o no sabe responder.
 
-**Relación y seguimiento:**
+* **Relación y seguimiento:**
 
 La relación termina cuando el usuario abandona la web. No puedes
 
 retomar la conversación.
 
-**Conversación y cercanía:**
+* **Conversación y cercanía:**
 
 Frío y limitado. El cliente siente que está rellenando un formulario más.
 
-**Coste de oportunidad:**
+* **Coste de oportunidad:**
 
 Solo captas al usuario que está en ese momento en tu web. Si se va, lo pierdes.
 
@@ -1591,3 +1675,13 @@ Comunicación inmediata: el cliente llama y recibe atención personalizada.
 Ideal para concertar citas, resolver dudas rápidas o completar procesos iniciados por chat.
 
 Integra análisis, transcripción y puntuación automática de llamadas para mejorar la atención y la venta.
+
+## Quality monitoring
+
+Transcribe todas las llamadas de los asesores.
+
+Analiza puntos clave de la conversación.
+
+Categoriza todas las llamadas por el interés del cliente.
+
+Puntuación automática de llamadas para mejorar la atención y la venta.
