@@ -221,6 +221,7 @@ Innovamos en soluciones de comunicación para que nuestros clientes conecten de 
 * Clientes: \+300 empresas confían en nuestra plataforma que no solo soporta WhatsApp, sino que también integra múltiples canales de comunicación, permitiendo una gestión centralizada y eficiente de todas las interacciones con los clientes.  
 * Diferenciador: Plataforma multicanal con gestión centralizada, enfoque en resultados medibles y mejora continua  
 * Primer cliente: DasWeltAuto (sector automotriz) \- gestión de WhatsApp con equipo de \+30 profesionales integrado con CRM
+* Número de WhatsApp para contacto: +34 910 788 309
 
 # FAQ (Frequently Asked Questions)
 
