@@ -683,7 +683,7 @@ Es una plataforma de alta disponibilidad (HA) en todas las capas:
 
 Permite embeber la aplicación en cualquier CRM para una integración mediante un autologin del agente.
 
-# MF V3.0
+# PLATINUM
 
 Adaptables a todas las identidades
 
@@ -776,7 +776,15 @@ Mantenimiento web: Actualizaciones de producto y medidas de seguridad.
 
 Alojamiento web: Espacio en nuestros servidores pasa su funcionamiento
 
-### Proyecto Platinum:
+El orden económico del más caro al más barato es:
+
+1. Web Platinum → más caro
+
+2. Web Silver
+
+3. Web Única → menos caro
+
+### Web Platinum:
 
 Web de concesionario
 
@@ -896,7 +904,7 @@ Dia 27 a 28 \- Briefing subida a producción
 
 Dia 29 a 30 \- Subida a producción
 
-### Proyecto Web Silver
+### Web Silver
 
 Integra tu stock en cualquier página web
 
@@ -924,7 +932,7 @@ Integraciones con todas las soluciones de Motorflash:
 
 * CRM4YOU
 
-### Proyecto Web Única
+### Web Única
 
 Secciones Web Única:
 
