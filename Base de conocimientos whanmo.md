@@ -122,6 +122,8 @@ JsonLead:
 
 - El chatbot captura y envía automáticamente los leads a tu sistema.
 
+# AUTOMATIZACIONES QUE PUEDES INCLUIR CON NUESTROS SERVICIOS
+
 ## IA en whatsapp
 
 Estamos trabajando para implementar una innovadora funcionalidad que permitirá asignar un agente virtual basado en IA a cada grupo de WhatsApp de manera personalizada. Este agente no humano será altamente configurable y podrá ser optimizado para cumplir con las necesidades específicas de cada grupo. Desde la interfaz individual de cada grupo, los administradores podrán configurar el agente IA con precisión, incluyendo el uso de claves API específicas y el comportamiento del agente en diferentes escenarios, como conversaciones entrantes, mensajes fuera de horario, o solicitudes de información específicas.
