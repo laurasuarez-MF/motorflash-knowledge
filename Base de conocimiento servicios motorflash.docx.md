@@ -407,7 +407,9 @@ La solución perfecta para potenciar la relación con el cliente y proporcionar 
 
 Una plataforma multiagente con la que comunicarse con los clientes potenciales, y difundir contenidos rápidamente
 
-Un sistema cuantitativo con el que valorar la calidad de los contactos realizados
+Un sistema cuantitativo con el que valorar la calidad de los contactos realizados.
+
+MESSAGE se basa en WhatsApp Business Platform, lo que significa que utiliza la API de WhatsApp Business. Esto permite una integración más profunda y funcionalidades avanzadas que no están disponibles en la aplicación de WhatsApp Business normal, como el acceso multiagente, la automatización y la integración con CRM.
 
 ## Identificación de necesidades
 
@@ -451,30 +453,20 @@ Incluye:
 ### WhatsApp Business App PARA AUTÓNOMOS
 
 Incluye:
-
 * Aplicación para móvil
-
 * Mensajería gratuita
-
 * Perfil de negocio verificado
-
 * Automatización light
 
   No incluye:
-
 * Plantillas
-
+* Seguimiento de actividad comercial (Tracking)
 * Seguimiento
-
 * Integración con CRM
-
 * Acceso múltiple  
   (1 cuenta/varios usuarios)
-
 * Adaptado a la RGPD
-
 * Dashboard
-
 * Módulo de Campañas
 
 ### WhatsApp Business Platform PARA EMPRESAS
@@ -509,30 +501,20 @@ Incluye:
 ### MF Message (Basado en Whatsapp Business Platform) nuestro servicio ofrecido
 
 Incluye:
-
 * Aplicación para móvil
-
 * Perfil de negocio verificado
-
 * Plantillas
-
 * Seguimiento de actividad
-
 * Abierto a automatización
-
 * Integración con CRM
-
 * Acceso múltiple  
   (1 cuenta/varios usuarios)
-
 * Adaptable a la RGPD
-
 * Dashboard
-
 * Módulo de Campañas
+* Coexistence (Sincronización API)
 
   No incluye:
-
 * Mensajería gratuita
 
 ## Funcionalidades más importantes de MF Message
@@ -550,6 +532,7 @@ Incluye:
 * Provisión de plantillas de conversación y respuestas rápidas.  
 * Compatibilidad con archivos multimedia, fotos, vídeos, audio, proporcionando todos los formatos permitidos por META.  
 * Sistema multilenguaje (actualmente en español, inglés, alemán y francés, italiano y portugués)
+* Coexistence
 
 Automatización y autogestión:
 
@@ -682,6 +665,11 @@ Es una plataforma de alta disponibilidad (HA) en todas las capas:
 * Capa bbdd (cluster de base de datos)
 
 Permite embeber la aplicación en cualquier CRM para una integración mediante un autologin del agente.
+
+### Coexistence
+MF Message cuenta con la funcionalidad de Coexistence, que consiste en la sincronización de WhatsApp Business con la API.
+
+Es importante destacar que MF Message funciona con la API, que es una solución robusta diseñada para empresas. A diferencia de la aplicación de WhatsApp Business (que es para uso individual), nuestra plataforma permite el seguimiento total de la actividad. Para que los mensajes de un comercial sean 'trackeados' o gestionados, el comercial deberá usar siempre la interfaz de MF Message, que es la que está conectada a la API.
 
 # PLATINUM
 
