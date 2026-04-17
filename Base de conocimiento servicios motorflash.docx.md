@@ -183,10 +183,10 @@ Motorflash es Partner de Google
 
 \+ 250 clientes del sector utilizan nuestra solución de Whatsapp Business API
 
-## Principales clientes
+## Principales clientes 
+IMPORTANTE: Las empresas y grupos listados a continuación son exclusivamente CLIENTES a quienes prestamos servicios. Ninguno de los siguientes nombres actúa como proveedor de nuestra compañía Motorflash.
 
-Fabricantes NSC:
-
+### Fabricantes NSC:
 * Volkswagen  
 * Audi  
 * BMW   
@@ -207,8 +207,7 @@ Fabricantes NSC:
 * Miniaba  
 * Land Rover
 
-Grupos:
-
+### Grupos:
 * Grupo Safamotor  
 * Movento   
 * BMW Group Ibérica   
@@ -219,14 +218,12 @@ Grupos:
 * Grupo RESNOVA  
 * Volkswagen Group retail España
 
-Renting & Leasing:
-
+### Renting & Leasing:
 * Alphabet   
 * ALD automotive  
 * Arval BNP Paribas Group
 
-Concesionarios:
-
+### Concesionarios:
 * CATSA   
 * Yamovil  
 * Jarmauto   
@@ -241,8 +238,7 @@ Concesionarios:
 * Canalcar  
 * BMW Motorrad BYmyCAR Madrid
 
-Crm4you:
-
+### Crm4you:
 * Volkswagen   
 * Quadis   
 * Santander consumer renting   
