@@ -149,7 +149,17 @@ Dia 1 – Formación
 
 Listo, puedes empezar a utilizar CRM4YOU
 
-# EXPERIENCIA DE MOTORFLASH
+# INFORMACIÓN GENERAL DE MOTORFLASH
+
+Ubicación: C. de Basauri, 17, Edificio Oasis. Módulo B, Moncloa - Aravaca, 28023 Madrid, España
+
+Teléfono de contacto: 910784381 o 913728790
+
+Teléfono de whatsapp: +34910787259
+
+Correo electrónico de contacto: comercial@motorflash.com
+
+Horario de atención: Lunes a Viernes 9:00 - 20:00
 
 Motorflash es Partner de Google
 
@@ -648,7 +658,7 @@ Dia 1 a 7 – Integración con terceros (opcional)
 
 ## Descripción técnica MF Message
 
-MF Message es un SASS alojado en el cloud de Motorflash en el proveedor Arsys (Logroño).
+MF Message es un SASS alojado en el cloud de Motorflash en el proveedor Arsys.
 
 Está desarrollado como una plataforma web multicanal, multiempresa y multiagente.
 
