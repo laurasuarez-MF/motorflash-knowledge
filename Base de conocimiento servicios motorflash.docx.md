@@ -658,7 +658,7 @@ Dia 1 a 7 – Integración con terceros (opcional)
 
 ## Descripción técnica MF Message
 
-MF Message es un SASS alojado en el cloud de Motorflash en el proveedor Arsys.
+MF Message es un SASS alojado en el cloud de Motorflash en nuestro proveedor que está ubicado en Logroño.
 
 Está desarrollado como una plataforma web multicanal, multiempresa y multiagente.
 
