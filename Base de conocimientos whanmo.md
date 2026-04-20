@@ -16,6 +16,25 @@ Acceso desde cualquier dispositivo. Disponible para móvil:
 - La misma funcionalidad que la aplicación de escritorio en el móvil.  
 - Ideal para procesos de ventas y atención al cliente.
 
+### ¿En qué se diferencia Whanmo de otras modalidades de WhatsApp?
+
+WhatsApp Business normal está diseñado para pequeñas empresas y se gestiona manualmente desde la aplicación. Whanmo WhatsApp, al basarse en la API de Meta, ofrece funciones avanzadas como automatización, integraciones y escalabilidad para negocios más grandes. Además, no hay límites de usuarios que gestionan una línea, al contrario que WhatsApp personal o Business normal, los cuales solo pueden estar activos en un dispositivo (en el caso del personal) y 5 en el caso del Business (uno como principal y 4 vinculados).
+
+| Característica | WhatsApp Personal | WhatsApp Business App | WhatsApp Business Platform | Whanmo |
+|---|---|---|---|---|
+| Aplicación para móvil | ✅ | ✅ | ❌ | ✅ |
+| Mensajería gratuita | ✅ | ✅ | ❌ | ❌ |
+| Perfil de negocio verificado | ❌ | ✅ | ✅ | ✅ |
+| Plantillas | ❌ | ❌ | ✅ | ✅ |
+| Automatización | ❌ | Light | Light | Completa |
+| Integración con CRM | ❌ | ❌ | ✅ | ✅ |
+| Acceso múltiple (1 cuenta/varios usuarios) | ❌ | ❌ | ❌ | ✅ |
+| Adaptado a la RGPD | ❌ | ❌ | ❌ | ✅ |
+| Dashboard | ❌ | ❌ | ❌ | ✅ |
+| Módulo de Campañas | ❌ | ❌ | ❌ | ✅ |
+| Seguimiento de actividad comercial | ❌ | ❌ | ❌ | ✅ |
+| Coexistence (Sincronización API) | ❌ | ❌ | ❌ | ✅ |
+
 ### Funcionalidades
 
 Autogestión:
@@ -32,13 +51,13 @@ Autogestión:
 
 Conversaciones:
 
-- Ver conversaciones   
+- Ver conversaciones   
 - Filtrar conversaciones por teléfono  
 - Filtrar conversaciones por activas o archivadas, leídas o no leídas  
 - Asignar y reasignar conversaciones a un agente/usuario  
 - Recopilación automática o manual del GDPR  
 - Capacidad para escalar conversaciones a otro número de teléfono compartiendo el historial  
-- Enviar y recibir mensajes multimedia con fotos, documentos, vídeos, pegatinas, ubicación, vCard  
+- Enviar y recibir mensajes multimedia: fotos, documentos, vídeos, pegatinas, ubicación, vCard, audios y llamadas de voz y videollamadas  
 - Marcar como leído/no leído  
 - Añadir notas internas a las conversaciones  
 - Archivar y desarchivar conversaciones
@@ -49,6 +68,7 @@ Campañas:
 - Importación de la lista de contactos para el envío de campañas  
 - Creación de mensajes de campaña con imágenes y vídeos  
 - Informes de campaña para medir el rendimiento
+- Segmentación de clientes según historial de compras, ubicación o comportamiento
 
 Informes:
 
@@ -63,6 +83,10 @@ Control de contactos:
 - Abrir el historial de conversaciones con los contactos y los diferentes grupos  
 - Exportar lista de contactos en formato CSV
 
+### Coexistence (Sincronización API)
+
+Whanmo cuenta con la funcionalidad de Coexistence, que consiste en la sincronización de WhatsApp Business con la API. Es importante destacar que Whanmo funciona con la API, que es una solución robusta diseñada para empresas. A diferencia de la aplicación de WhatsApp Business (que es para uso individual), nuestra plataforma permite el seguimiento total de la actividad. Para que los mensajes de un comercial sean trackeados o gestionados, el comercial deberá usar siempre la interfaz de Whanmo, que es la que está conectada a la API.
+
 ## Webchat
 
 Descubre nuestro WebChat, la solución perfecta para brindar atención al cliente en tiempo real desde tu página web. Con nuestra herramienta, podrás interactuar con tus visitantes de manera rápida y eficiente, resolviendo sus dudas o guiándolos en su proceso de compra sin que tengan que abandonar tu sitio.
@@ -71,7 +95,7 @@ Ofrecemos un servicio personalizado que incluye chatbots para automatizar respue
 
 Nuestro WebChat es la solución ideal para interactuar con tus clientes en tiempo real y mejorar su experiencia en tu sitio web. No solo permite atender consultas rápidamente, sino que también genera leads que pueden integrarse directamente con el CRM de tu empresa, garantizando un flujo de trabajo más eficiente y organizado.
 
-¡Potencia tu atención al cliente con nuestro WebChat y mantén a tus clientes conectados siempre\!
+¡Potencia tu atención al cliente con nuestro WebChat y mantén a tus clientes conectados siempre!
 
 ### Funcionalidades
 
@@ -134,6 +158,8 @@ Además, el sistema permitirá que los agentes humanos tomen la iniciativa y se 
 
 La funcionalidad también incluye herramientas para entrenar y mejorar continuamente el desempeño de los agentes IA, garantizando que la interacción sea cada vez más efectiva. Actualmente, estamos trabajando en la maqueta de esta solución y hemos asignado la tarea a Pedro para avanzar en el diseño de esta innovadora interfaz.
 
+Tenemos disponible un agente con IA llamado Claudia que puedes poner en marcha para que sea tu primera línea de atención. Además, ya trabajamos con los llamados "Flows": formularios de WhatsApp que puedes automatizar para enviar al cliente y recoger toda la información que necesites sin tener que estar escribiendo una por una. ¡Eficiencia ante todo!
+
 ## Bot Assistant en webchat
 
 Además, este asistente virtual está equipado para manejar interacciones en múltiples idiomas, garantizando una experiencia inclusiva y global. En caso de consultas que requieran atención especializada, el Bot Assistant está configurado para transferir sin problemas la conversación a un agente humano, asegurando que cada usuario reciba el nivel adecuado de atención.
@@ -154,13 +180,13 @@ Con nuestras integraciones, puedes automatizar la transferencia de datos entre s
 
 Además, nuestras integraciones son escalables, lo que significa que crecen junto con tu empresa. Con soporte para APIs modernas y estructuras robustas de intercambio de datos, te aseguramos que los sistemas conectados funcionen sin interrupciones, permitiéndote centrarte en lo que realmente importa: impulsar tus resultados.
 
-Ya sea que trabajes con herramientas líderes del mercado o con soluciones internas desarrolladas a medida, nuestras integraciones están diseñadas para ofrecerte el máximo rendimiento y confiabilidad. Transformamos la complejidad técnica en una ventaja competitiva para tu negocio.
+Las integraciones con herramientas externas son el pan nuestro de cada día. Disponemos desde una integración vía Iframe, para integrarla por completo, hasta una API de comunicación utilizando Webhooks con diferentes eventos que envían todo lo que está pasando en tiempo real. Ya sea que trabajes con herramientas líderes del mercado o con soluciones internas desarrolladas a medida, nuestras integraciones están diseñadas para ofrecerte el máximo rendimiento y confiabilidad.
 
 # Casos de éxito
 
 ## Prima Prix
 
-Carlos González Amado Manager de Operaciones describe la solución como “Un producto integral que genera resultados desde el primer día”.
+Carlos González Amado Manager de Operaciones describe la solución como "Un producto integral que genera resultados desde el primer día".
 
 **Sector:** Retail
 
@@ -212,20 +238,41 @@ Carlos González Amado Manager de Operaciones describe la solución como “Un p
 - Seguros y financiero: 74% consumidores prefieren comunicación digital con entidades financieras  
 - Comunicaciones: 59% de los consumidores prefieren interactuar con las empresas a través de mensajería instantánea.
 
+# Seguridad y Privacidad
+
+Whanmo cumple con todas las normativas de protección de datos y facilita a todos sus usuarios su cumplimiento, incluyendo la RGPD. Los mensajes enviados a través de la API de WhatsApp están cifrados extremo a extremo, garantizando privacidad y seguridad. Nuestros servidores están ubicados en Logroño, España, y la información de WhatsApp pasa por Alemania, por lo que podemos asegurar que ningún byte de información sale de la UE.
+
+En caso de que un cliente solicite que se elimine su información, se procederá a anonimizar todos sus datos. No es posible bloquear usuarios desde la API, ya que Meta no tiene habilitada esa función.
+
+# Precios
+
+El coste de Whanmo se basa en estos pilares:
+
+1. **Coste de licencia** por activarte como cliente nuestro: 150€ mensuales
+2. **Coste por agente**: 15€ mensuales. Podrás tener acceso a todas las líneas que quieras sin incurrir en más gastos. (Este coste aplica hasta 100 agentes; si hay más, ajustamos el precio.)
+3. **Coste por línea**: Cada línea tiene un coste mensual de 60€
+4. **Coste de Meta**: Este coste viene por el uso que le des y proviene directamente de Meta. No aplicamos ningún tipo de markup ni coste añadido. Generalmente Meta cobra por "ventanas de conversación" (24 horas), y el coste varía según el tipo de mensaje (promocional o de servicio) y el país. Son costes muy bajos que tienden a abaratarse.
+5. **Coste de Setup**: Difiere en cada cliente y la configuración inicial que quieras. Si prefieres volar por libre, el coste inicial de setup será de 150€. Si quieres que lo dejemos todo configurado, variará dependiendo de la complejidad de tu negocio y las automatizaciones que quieras tener.
+
+Ofrecemos planes de prueba con un coste muy bajo. Si te interesa, puedes contactarnos.
+
 # Sobre nosotros
 
 Innovamos en soluciones de comunicación para que nuestros clientes conecten de forma efectiva con su audiencia. Nos enfocamos en la **medición y mejora continua**, bajo la premisa de que cada interacción cuenta y lo que no se mide, no se optimiza.
 
 * Experiencia: Más de 10 años en el mercado  
 * Especialización: Soluciones de comunicación empresarial vía WhatsApp y canales digitales  
-* Clientes: \+300 empresas confían en nuestra plataforma que no solo soporta WhatsApp, sino que también integra múltiples canales de comunicación, permitiendo una gestión centralizada y eficiente de todas las interacciones con los clientes.  
+* Clientes: +300 empresas confían en nuestra plataforma que no solo soporta WhatsApp, sino que también integra múltiples canales de comunicación, permitiendo una gestión centralizada y eficiente de todas las interacciones con los clientes.  
 * Diferenciador: Plataforma multicanal con gestión centralizada, enfoque en resultados medibles y mejora continua  
-* Primer cliente: DasWeltAuto (sector automotriz) \- gestión de WhatsApp con equipo de \+30 profesionales integrado con CRM
+* Primer cliente: DasWeltAuto (sector automotriz) - gestión de WhatsApp con equipo de +30 profesionales integrado con CRM
 * Número de WhatsApp para contacto: +34910788309
 * Ubicación: C. de Basauri, 17, Edificio Oasis. Módulo B, Moncloa - Aravaca, 28023 Madrid, España
 * Correo electrónico de contacto: comercial@whanmo.com
+* Soporte técnico: helpdesk.message@motorflash.com
+* Horario de atención: 9 a 18h de lunes a domingo. En caso de caída del servicio, disponemos de un servicio de emergencia 24/7.
+* Nuestra herramienta es escalable: si tu negocio crece, estamos preparados para agregar más usuarios, funciones o capacidad según tus necesidades. Nuestro equipo técnico trabaja regularmente para incorporar mejoras y nuevas funcionalidades.
 
-# FAQ (Frequently Asked Questions)
+# FAQ
 
 ## ¿Qué es Whanmo WhatsApp?
 
@@ -233,159 +280,36 @@ Es una herramienta basada en WhatsApp Business API que permite a las empresas ge
 
 ## ¿Cómo funciona Whanmo WhatsApp con WhatsApp Business API?
 
-Utilizamos la tecnología de META para construir, alrededor de la API de WhatsApp Business, una poderosa herramienta de comunicación con la que podrás interactuar con tus clientes vía WhatsApp. No hay límites en las líneas que quieras estar dado de alto. Tampoco hay límites en los usuarios que pueden estar contestando a la vez en una línea, de esa manera no perderás ningún cliente.
-
-## ¿En qué se diferencia Whanmo WhatsApp de WhatsApp Business normal?
-
-WhatsApp Business normal está diseñado para pequeñas empresas y se gestiona manualmente desde la aplicación. Whanmo WhatsApp, al basarse en la API de Meta, ofrece funciones avanzadas como automatización, integraciones y escalabilidad para negocios más grandes. Además, como mencionamos anteriormente, no hay límites de usuarios que gestionan una línea, al contrario que WhatsApp personal o Business normal, los cuales solo pueden estar activos en un dispositivo (en el caso del personal) y 5 en el caso del Business (uno como principal y 4 vinculados)
+Utilizamos la tecnología de META para construir, alrededor de la API de WhatsApp Business, una poderosa herramienta de comunicación con la que podrás interactuar con tus clientes vía WhatsApp. No hay límites en las líneas que quieras estar dado de alta. Tampoco hay límites en los usuarios que pueden estar contestando a la vez en una línea, de esa manera no perderás ningún cliente.
 
 ## ¿Es necesario tener una cuenta verificada de WhatsApp Business para usar Whanmo?
 
-Sí, es muy recomendable tener la cuenta verificada. Para verificarla a veces es necesario presentar alguna documentación a meta, es un proceso sencillo que puede tardar unos días.
+Sí, es muy recomendable tener la cuenta verificada. Para verificarla a veces es necesario presentar alguna documentación a Meta, es un proceso sencillo que puede tardar unos días.
 
 ## ¿Qué industrias pueden beneficiarse de Whanmo?
 
 Cualquier industria que use WhatsApp para comunicarse con clientes puede beneficiarse, como retail, e-commerce, salud, turismo, servicios financieros, y más.
 
-## ¿Cómo puedo comenzar a usar Whanmo WhatsApp
+## ¿Cómo puedo comenzar a usar Whanmo WhatsApp?
 
-¡Es muy sencillo\! Basta con tener la línea que queremos dar de alta (podemos proporcionarla nosotros) y mediante un formulario, ir completando la información que nos piden (nombre de la empresa, actividad principal, BusinessManager…) Una vez terminado este proceso, nuestro equipo dará de alta la línea en nuestro sistema y ya estará todo preparado para su uso.
+¡Es muy sencillo! Basta con tener la línea que queremos dar de alta (podemos proporcionarla nosotros) y mediante un formulario, ir completando la información que nos piden (nombre de la empresa, actividad principal, BusinessManager…). Una vez terminado este proceso, nuestro equipo dará de alta la línea en nuestro sistema y ya estará todo preparado para su uso.
 
-## ¿Necesito conocimientos técnicos para configurar Whanmo WhatsApp
+## ¿Necesito conocimientos técnicos para configurar Whanmo WhatsApp?
 
-No necesitas conocimientos técnicos, la herramienta es muy sencilla de utilizar y cuentas con nuestro **soporte** técnico para ayudarte en la configuración.
+No necesitas conocimientos técnicos, la herramienta es muy sencilla de utilizar y cuentas con nuestro **soporte** técnico para ayudarte en la configuración.
 
 ## ¿Puedo usar Whanmo WhatsApp con mi número de WhatsApp actual?
 
-Sí y no, lo explicamos. El número que se utilice no puede estar dado de alta en dos plataformas a la vez ya sea WhatsApp personal, Business o Business API. Por lo tanto, si puedes utilizar cualquier número para darlo de alta en la API, pero solo puede estar activo en una de las plataformas.
-
-## ¿Cómo puedo integrar Whanmo WhatsApp con mi CRM u otras herramientas
-
-Las integraciones con herramientas externas son “El pan nuestro de cada día”. Disponemos desde una integración vía Iframe, para integrar lo por completo, hasta una API de comunicación utilizando Webhooks con diferentes eventos que envían todo lo que está pasando a tiempo real.
-
-## ¿Whanmo WhatsApp permite la automatización de respuestas?
-
-Sí, una de las principales ventajas de herramientas basadas en WhatsApp API es la capacidad de automatizar respuestas mediante mensajes predefinidos.
-
-## ¿Qué tipo de mensajes puedo enviar con Whanmo WhatsApp?
-
-Puedes enviar mensajes de texto, imágenes, vídeos, documentos, enlaces y plantillas aprobadas por WhatsApp.
-
-## ¿Puedo programar mensajes automáticos?
-
-¿Buscas automatizaciones? Con Whanmo tendrás todo tipo de mensajes automáticos programados. ¡Disponemos desde un mensaje de bienvenida fuera de horario, en horario de trabajo y otro mensaje que salta para recoger la RGPD\! Así te quitas un paso a la hora de recoger información.  
-Además, ya trabajos con los llamados “Flows”; formularios de WhatsApp que puedes automatizar para enviar al cliente y recoger así toda la información que necesites sin tener que estar escribiendo una por una ¡Eficiencia ante todo\!
-
-## ¿Whanmo WhatsApp ofrece un chatbot integrado?
-
-Tenemos disponible un agente con IA que puedes poner en marcha para que sea tu primera línea en la batalla ¡Claudia no defrauda a nadie\!
-
-## ¿Se pueden segmentar a los clientes para enviar campañas específicas?
-
-Sí, es posible segmentar a los clientes según diferentes criterios como historial de compras, ubicación o comportamiento.
-
-## ¿Es posible realizar análisis y obtener estadísticas desde Whanmo WhatsApp?
-
-Si, nuestra herramienta incluye un apartado de análisis de datos para poder aseguraros de que estáis sacando el máximo partido a los equipos comerciales ofreciendo un excelente servicio al cliente. Te proponemos un Dashboard con los KPIs más importantes. Si aún así te quedas con ganas de más, podrás descargarte toda la información de lo sucedido filtrando la fecha de interacción.
-
-## ¿Whanmo WhatsApp cumple con las normativas de privacidad como GDPR?
-
-Sí, cumplimos todas las normativas de protección de datos y facilitamos a todos nuestros usuarios su cumplimiento.
-
-## ¿Mis datos y los de mis clientes están seguros?
-
-Sí, cumplimos con altos estándares de seguridad, incluyendo cifrado y almacenamiento seguro de datos.
-
-## ¿Qué pasa si un cliente solicita que se elimine su información?
-
-En ese caso, se procederá a anonimizar toda la información de ese cliente.
+Sí y no, lo explicamos. El número que se utilice no puede estar dado de alta en dos plataformas a la vez, ya sea WhatsApp personal, Business o Business API. Por lo tanto, puedes utilizar cualquier número para darlo de alta en la API, pero solo puede estar activo en una de las plataformas.
 
 ## ¿Puedo bloquear a usuarios desde Whanmo WhatsApp?
 
-No, no es posible bloquear usuarios desde la API, Meta no tiene esa función.
-
-## ¿Los mensajes enviados a través de Whanmo están cifrados?
-
-Los mensajes enviados a través de la API de WhatsApp están cifrados extremo a extremo, garantizando privacidad y seguridad.
-
-## ¿Dónde reside la información?
-
-Nuestros servidores están ubicados en Logroño, España y la información de WhatsApp pasa por Alemania. Por lo que podemos asegurar que ningún bite de información sale de la UE.
-
-## ¿Cuánto cuesta usar Whanmo WhatsApp?
-
-El coste se basa en estos pilares:
-
-1. Coste de licencia por activarte como cliente nuestro. Son 150€ mensuales
-
-2. Coste por agente\*. Son 15€ mensuales y podrás tener acceso a todas las líneas que quieras sin incurrir en más gastos
-
-3. Coste por línea. Cada línea tiene un coste mensual de 60€
-
-4. Coste de Meta. Este coste viene por el uso que le des y proviene de Meta. Nosotros no aplicamos ningún tipo de mark up ni coste añadido.
-
-5. Coste de Set up, difiere en cada cliente y la configuración inicial que quieras. Si no quieres mucha ayuda inicial y prefieres volar por libre, el coste inicial de set up será de 150€. Si quieres que te dejemos todo configurado nosotros variará dependiendo de la complejidad que tenga tu negocio y las automatizaciones que quieras tener.
-
-\*Este coste es hasta 100 agentes, si hay más de 100 agentes ajustamos el precio.
-
-## ¿Hay un plan gratuito o de prueba?
-
-Ofrecemos planes de prueba con un coste muy bajo, si te interesa puedes contactarnos.
-
-## ¿Cómo se calculan los costes por mensaje?
-
-Generalmente, Meta cobra por “ventanas de conversación” (24 horas), y el coste varía según el tipo de mensaje (promocional o de servicio) y el país. Son costes muy bajos que tienden a abaratarse y se pasan directamente al cliente.
-
-## ¿Qué hago si tengo problemas con mi cuenta de Whanmo?
-
-Puedes contactar al equipo de soporte técnico para recibir ayuda, estaremos encantados de resolver tus dudas.
-
-## ¿Cómo puedo contactar al soporte técnico? ¿Hay un plan gratuito o de prueba?
-
-Puedes contactar con nosotros a través del siguiente correo: [helpdesk.message@motorflash.com](mailto:helpdesk.message@motorflash.com)
-
-## ¿Hay una guía o tutorial para aprender a usar Whanmo?
-
-Sí, contamos con un manual de uso con toda la información que necesites para sacar el máximo partido a la herramienta. Lo puedes consultar en nuestra sección de “Recursos”.
-
-## ¿Whanmo ofrece soporte 24/7?
-
-Nuestro horario de 9 a 18 de lunes a domingo.  
-Si hubiera una caída del servicio, no te preocupes que tenemos un servicio de emergencia 24/7.
-
-## ¿Whanmo WhatsApp se actualiza automáticamente con las mejoras de WhatsApp Business API?
-
-Sí, todas la actualizaciones y mejoras se actualizan automáticamente en Whanmo WhatsApp.
+No, no es posible bloquear usuarios desde la API. Meta no tiene esa función habilitada.
 
 ## ¿Qué pasa si mi negocio crece y necesito más funcionalidades?
 
 Nuestra herramienta es escalable y si lo necesitas estamos preparados para agregar más usuarios, funciones o capacidad según las necesidades de tu negocio.
 
-## ¿Ofrecen nuevas funciones regularmente?
-
-Sí, nuestro equipo técnico trabaja regularmente para incorporar mejoras y nuevas funcionalidades que permitan optimizar la herramienta.
-
-## ¿Cómo puede ayudarme Whanmo WhatsApp a mejorar la atención al cliente?
-
-Te permite responder rápidamente, personalizar la atención y automatizar procesos, mejorando la experiencia del cliente.
-
-## ¿Se puede usar Whanmo WhatsApp para enviar campañas promocionales?
-
-Sí, puedes enviar campañas a través de mensajes masivos o segmentados, siempre cumpliendo con las políticas de Meta.
-
-## ¿Es posible realizar ventas directamente desde WhatsApp usando Whanmo?
-
-A día de hoy, Meta no permite ventas directas, pero está en su mapa de desarrollos y no tardaremos en verlo funcionando.
-
-## ¿Cómo puede Whanmo WhatsApp ayudarme a recuperar clientes inactivos?
-
-Puedes automatizar mensajes personalizados o enviar promociones específicas a usuarios que no han interactuado en un tiempo.
-
-## ¿Qué resultados puedo esperar al usar Whanmo WhatsApp en mi negocio?
-
-Mayor eficiencia en la comunicación, mejor experiencia del cliente y, potencialmente, un aumento en ventas y fidelización.
-
 ## ¿Todavía tiene alguna pregunta?
 
-Si no encuentra respuesta a su pregunta en nuestras FAQ (*Frequently Asked Questions*), siempre puede ponerse en contacto con nosotros. Le responderemos en breve.
-
+Si no encuentra respuesta a su pregunta en nuestras FAQ (Frequently Asked Questions), siempre puede ponerse en contacto con nosotros. Le responderemos en breve.
