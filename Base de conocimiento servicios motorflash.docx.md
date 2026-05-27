@@ -364,6 +364,17 @@ Este servicio es ideal cuando el cliente menciona:
 - Los anuncios publicados no contienen todo el equipamiento del coche (incluyendo extras)  
 - No puede publicar coches con todo su equipamiento simplemente introduciendo la matrícula
 
+### Portales de publicación
+
+Motorflash cuenta con integración directa con los principales portales de compraventa de vehículos en España:
+
+- coches.net
+- Sumauto
+- Autocasión
+- coches.com
+- Wallapop
+- todos los portales especializados y de nicho que operen por API.
+
 ### Pilares
 
 Exportamos todo tu stock de forma automática con el fin de solucionar la necesidad de publicar un mismo vehículo en varias plataformas, unificando así la información en todos los portales, además de enriquecer el anuncio con las herramientas de Motorflash.
