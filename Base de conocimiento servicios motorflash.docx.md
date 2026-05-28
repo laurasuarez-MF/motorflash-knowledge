@@ -1,12 +1,10 @@
 # CRM4YOU
 
-Un CRM para TODO y más.
+Un CRM para TODO y más. Posicionamiento: "El CRM #1 para profesionales de la automoción. El verdadero 360º. Todo, en un solo lugar."
 
 La experiencia nos demuestra que cada empresa tiene una necesidad distinta y por eso nuestra plataforma está concebida para ser adaptada según se requiera. 
 
-Gracias a nuestro equipo de acompañamiento y consultoría. 
-
-Somos capaces de desarrollar la solución, flujo y modelo de datos que se requiera.
+Gracias a nuestro equipo de acompañamiento y consultoría. Somos capaces de desarrollar la solución, flujo y modelo de datos que se requiera.
 
 Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta automáticamente. Está desarrollado íntegramente con tecnología propia y exclusiva.
 
@@ -15,6 +13,10 @@ Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta au
 1. CONTROL TOTAL: Con el CRM 4you podrás tener un control completo de tus clientes y cómo se gestionan, además de darle herramientas de comunicación a tu equipo.  
 2. REPORTES AUTOMÁTICOS: Nuestra herramienta acaba con los reportes declarativos de la actividad del comercial, ya que todo se registra de forma automática.  
 3. EN TIEMPO REAL: Con la agenda del CRM 4you tendrás las tareas pendientes, recordatorios y citas del equipo comercial en tiempo real.
+   
+## Áreas de trabajo
+CRM4YOU cubre todas las áreas del negocio en una sola herramienta:
+Ventas, Compras, Tasaciones, Comunicaciones, Gestión de equipos, Rentabilidad e IA.
 
 ## Identificación de necesidades
 
@@ -123,6 +125,8 @@ El único CRM del mercado creado por y para los concesionarios y multimarcas.
 * Integración de correo electrónico.  
 * Vcard (datos de contacto del cliente integrados en el móvil)  
 * Copiloto de IA para análisis de la actividad comercial
+* Vcard: Datos de contacto del cliente integrados en el móvil
+* **Todo en un sitio**: Leads, estadísticas y análisis detallado de toda la actividad comercial realizada
 
 ## Seguimiento exhaustivo – todo en un sitio
 
@@ -169,17 +173,17 @@ Motorflash es Partner de Google
 
 \+10 millones de euros de facturación en 2024
 
-\+ 500 Web desarrolladas 
+\+ 300 Web desarrolladas 
 
 \+950 Licencias CRM implantadas en el primer año de la plataforma
 
-1500 clientes usan nuestra herramienta dealer 
+1400 clientes usan nuestra herramienta dealer 
 
 30000 vehículos de segunda mano generados al mes 
 
-3000000 de coches exportados al mes a otros portales
+40000 de coches exportados al mes a otros portales
 
-70000 llamadas al mes atendidas por nuestro Contact Center
+190000 llamadas al mes atendidas por nuestro Contact Center
 
 \+ 250 clientes del sector utilizan nuestra solución de Whatsapp Business API
 
@@ -435,6 +439,10 @@ Este servicio es ideal cuando el cliente menciona:
 - No ha integrado WhatsApp Business como vía de comunicación con clientes  
 - Necesita agilidad en la comunicación con clientes  
 - No puede conversar con varios clientes a la vez
+- 
+### Adopción de WhatsApp en España
+31.980.000 usuarios de WhatsApp en España (Fuente: Statista 2022). 
+Es el canal de mensajería más usado en el país.
 
 ## Diferencias entre modalidades de WhatsApp
 
@@ -593,6 +601,14 @@ MF Message compite en el mercado con otras soluciones, pero…
 
 * Al ser una plantación especializada, el precio también es más competitivo frente a soluciones que ofrecen múltiples funcionalidades no necesarias. Además, podemos ajustar nuestra propuesta económica a configuraciones no estándar requeridas por el cliente
 
+### Ventajas de Motorflash Message
+- Configuración a medida: agentes y grupos
+- Integrable con todos los CRMs del mercado
+- Centralita de distribución de mensajes y módulo de reporting interactivo
+- Utilización en contact center o departamentos comerciales
+- Ficha completa de cliente
+- Acceso directo al catálogo de productos
+
 ## Módulos de MF MESSAGE
 
 Módulo conversacional:
@@ -711,7 +727,7 @@ Este servicio es ideal cuando el cliente menciona:
 
 \- Pago mensual durante 24 meses. Sin inversión inicial
 
-\- Disponible en 30 días desde confirmación del pedido
+\- Disponible en 45 días desde confirmación del pedido
 
 \- Posibilidad de desarrollos a medida: configurador VN, Reserva Online, Módulo de tasación
 
@@ -907,7 +923,7 @@ Dia 25 a 27 – Formación CMS
 
 Dia 27 a 28 \- Briefing subida a producción
 
-Dia 29 a 30 \- Subida a producción
+Dia 29 a 45 \- Subida a producción
 
 ### Web Silver
 
@@ -1114,7 +1130,38 @@ Tu propia web debe de ser la vía desde la que se genere más del 80% de tu nego
 
 Tu web necesita TRÁFICO que genere LEADS y, por lo tanto, VENTAS
 
-¿Cómo llega el tráfico a tu web?
+### Analítica de negocio digital y Funnel de conversión
+
+La analítica de negocio digital se estructura en 3 capas, cada una midiendo un tramo del funnel de conversión:
+
+**1. Analítica WEB** — ¿Las acciones que hago para llevar tráfico a mi web están funcionando?
+→ 10.000 visitas a coches → 2% conversión → 200 prospectos
+
+**2. Analítica de PRODUCTO** — ¿Cómo están influyendo factores como los precios o el stock publicados en la generación de leads?
+→ 200 prospectos → 65% conversión → 130 leads
+
+**3. Analítica de GESTIÓN COMERCIAL** — ¿Se están gestionando correctamente los leads para convertirlos en ventas?
+→ 130 leads → 15% conversión → 20 ventas
+→ Inversión: 4.000€ | Coste por lead: 31€ | Coste por venta: 205€
+
+### Funnel comparativo: Web Propia vs Portales Externos
+
+| | Web Propia | Portales Externos |
+|---|---|---|
+| Visitas a coches | 10.000 | 65.000 |
+| Conversión visita→prospecto | 2% | 0,6% |
+| Prospectos | 200 | 390 |
+| Conversión prospecto→lead | 65% | 60% |
+| Leads | 130 | 234 |
+| Conversión lead→venta | 15% | 7% |
+| Ventas | 20 | 16 |
+| Inversión | 4.000€ | 12.000€ |
+| Coste por lead | 31€ | 51€ |
+| Coste por venta | 205€ | 733€ |
+
+Los portales externos aportan el 43% de las ventas totales pero a un coste por venta 3,5 veces mayor (733€ vs 205€). Si no conoces estos datos, estás gestionando tu negocio a ciegas.
+
+### ¿Cómo llega el tráfico a tu web?
 
 EL TRÁFICO QUE TE BUSCA:
 
@@ -1284,8 +1331,8 @@ SEO y SEA 0-3 meses
 Este servicio es ideal cuando el cliente menciona:
 
 - No sabe cuántas llamadas de clientes interesados pierde  
-  - Recibe muchas llamadas y formularios de baja calidad  
-  - No sabe cuántos contactos recibe de cada portal de publicación
+- Recibe muchas llamadas y formularios de baja calidad  
+- No sabe cuántos contactos recibe de cada portal de publicación
 
 ## Motor Lead Management
 
@@ -1321,7 +1368,7 @@ Ofrecemos un servicio de Atención al Cliente integral gestionando las relacione
 
 * Atención en Recepción: \>90%
 
-* Atención Emisión: \<10 minutos contacto
+* Tiempo medio de respuesta en formularios: inferior a 10 minutos
 
 Externalización de servicios
 
@@ -1343,7 +1390,7 @@ Reporting
 
 * Customizado a todos los niveles (portal, comercial, vehículo, etc.)
 
-Trabajamos de lunes a sábado en horario ininterrumpido, con posibilidad de ampliación de horario en fin de semana
+Lunes a viernes de 9 a 20h / Sábados de 9 a 14h, con posibilidad de ampliación de horario según necesidades
 
 **50** AGENTES
 
@@ -1391,6 +1438,28 @@ Este servicio es ideal cuando el cliente menciona:
 
 **SEGMENTACIÓN:** Máxima capacidad de segmentación tanto de leads de tasación como lead de compra
 
+## Cómo funciona el proceso
+
+El Contact Center propio de Motorflash es quien contacta y cualifica al particular ANTES de pasar el lead al equipo comercial del concesionario. El proceso es:
+
+1. Motorflash capta al particular interesado en vender su vehículo
+2. El Contact Center llama al particular e identifica sus necesidades:
+   - Si tiene interés en multipublicación
+   - Si quiere vender a concesionarios
+   - Si busca comprar un vehículo nuevo (VN) o de ocasión (VO)
+   - Qué coche quiere vender y qué coche quiere comprar
+3. Una vez cualificado, el lead se entrega al concesionario
+
+**IMPORTANTE**: No es el concesionario quien llama en frío al particular. Motorflash ya ha cualificado el lead previamente.
+
+## Cómo se accede a los leads — Herramientas de la plataforma
+
+La plataforma dispone de tres herramientas de acceso:
+
+1. **Buscador dinámico**: con filtros por interés de compra, provincia, días publicado, marca, modelo, versión, precio, año y kilómetros
+2. **Buscador manual**: búsqueda directa de contactos
+3. **Gestión de alertas**: permite parametrizar alertas sobre leads, tanto alerta de compra como alerta de venta
+
 ## Distribución inventario de leads por zonas
 
 El servicio cubre todo el territorio nacional dividido en 7 zonas geográficas:
@@ -1411,17 +1480,15 @@ Toda la información procedente de las tarjetas SIM se vuelca en tiempo real en 
 
 Se evita tener que preparar informes declarativos. Refleja la realidad y no las declaraciones de los comerciales
 
-Herramienta con llamadas y datos ilimitados, compatible con iOS y Android
+Herramienta con llamadas y datos ilimitados, compatible con iOS y Android. Increíble pero real: por fin existe la posibilidad de que tu equipo comercial use su iPhone para el seguimiento de llamadas
 
 ## Identificación de necesidades
 
 Este servicio es ideal cuando el cliente menciona:
-
-\- No sabe si su equipo comercial devuelve las llamadas no atendidas
-
-\- Pérdida de posibles ventas por llamadas no atendidas
-
-\- No puede hacer seguimiento cuantitativo y cualitativo de la actividad telefónica entrante y saliente
+- No sabe si su equipo comercial devuelve las llamadas no atendidas
+- Pérdida de posibles ventas por llamadas no atendidas
+- No puede hacer seguimiento cuantitativo y cualitativo de la actividad telefónica entrante y saliente
+- Seguimiento cuantitativo y cualitativo de toda la actividad telefónica entrante y saliente
 
 ## Cómo funciona
 
@@ -1455,7 +1522,7 @@ Permite conocer:
 * Dashboard configurable en tiempo real  
 * Evita pérdida de ventas por llamadas no atendidas
 
-# CLASIFICADOS
+# CLASIFICADOS Y EXCLUSIVE
 
 ## Identificación de necesidades
 
@@ -1524,13 +1591,13 @@ Haz la foto en cualquier parte, y después ¡escoge el fondo que más te guste\!
 
 Revoluciona la manera de mostrar tu producto: Crea vídeos 360° que venden por ti.
 
-## Vídeo Promocional
+## Vídeo Promocional - Video 360°
 
 Para presentar los coches con todo lujo de detalle
 
 ## Funcionalidades
 
-\+50 de funcionalidades y correcciones automáticas  
+Spyne tiene una puntuación de 4.4/5 en Trustpilot basada en 11 opiniones.
 \+100 de funcionalidades de transformación 
 
 * Clasificador de coches  
@@ -1550,7 +1617,7 @@ Para presentar los coches con todo lujo de detalle
 * Categorizador de interiores  
 * Logo del concesionario en el fondo y en la matricula  
 * Eliminación de reflejos  
-* Estudio virtual y plataforma giratoria  
+* Estudio virtual y plataforma gratuita  
 * Generación de sombras y reflejos  
 * Banners que logran atraer la atención ¡presentan los coches de forma ordenada más fácil\!  
 * Sustitución de Fondos con inteligencia artificial reemplazandolos por un fondo profesional.  
