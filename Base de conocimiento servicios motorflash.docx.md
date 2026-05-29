@@ -324,21 +324,16 @@ Este servicio es ideal cuando el cliente menciona:
 
 ### Pilares
 
-CON UN CLIC: Conocerás el estado de tu stock en tiempo real
-
-BÚSQUEDA DE STOCK: Segmentación de búsqueda de stock y generación de acciones comerciales
-
-INFORMES: Informes personalizados y descarga en tiempo real de la información en el formato que necesites
+- CON UN CLIC: Conocerás el estado de tu stock en tiempo real
+- BÚSQUEDA DE STOCK: Segmentación de búsqueda de stock y generación de acciones comerciales
+- INFORMES: Informes personalizados y descarga en tiempo real de la información en el formato que necesites
+- Integraciones Adhoc para cualquier servicio específico: pasarelas de pago, reserva online, intranets...
 
 ### Beneficios clave
-
-CONTROLA TU NEGOCIO: Una única herramienta para controlar el stock de vehículos
-
-TERMÓMETRO DE MERCADO: Ofrece información en tiempo real del posicionamiento económico de los vehículos en stock frente al mercado
-
-PRECIO ESTIMADO: Análisis completo de la oferta actual VO para poder ofrecer un valor de mercado real y preciso
-
-ALTA CALIDAD DE PUBLICACIÓN
+- **CONTROLA TU NEGOCIO**: Una única herramienta para controlar el stock de vehículos
+- **TERMÓMETRO DE MERCADO**: Información en tiempo real del posicionamiento económico de los vehículos en stock frente al mercado
+- **PRECIO ESTIMADO**: Análisis completo de la oferta actual VO para poder ofrecer un valor de mercado real y preciso
+- **ALTA CALIDAD DE PUBLICACIÓN**
 
 ## Exportaciones
 
@@ -370,13 +365,17 @@ Este servicio es ideal cuando el cliente menciona:
 
 ### Portales de publicación
 
-Motorflash cuenta con integración directa con los principales portales de compraventa de vehículos en España:
+Motorflash tiene el sistema de multipublicación y exportación con mayor número de integraciones con portales del sector. Con un clic envías tu anuncio a todos los portales trasladando la información con la mayor calidad y detalle. Motorflash cuenta con integración directa con los principales portales de compraventa de vehículos en España:
 
 - coches.net
 - Sumauto
 - Autocasión
 - coches.com
 - Wallapop
+- Milanuncios
+- niw.es
+- AutoScout24
+- heycar
 - todos los portales especializados y de nicho que operen por API.
 
 ### Pilares
@@ -389,16 +388,11 @@ Exportamos todo tu stock de forma automática con el fin de solucionar la necesi
 
 ### Beneficios
 
-CREACIÓN:
-
-- Importación de todo tu stock desde cualquier plataforma  
-- Creación del vehículo con consulta en tiempo real a la DGT
-
-BASE DE DATOS: Único proveedor de servicios en unificar ambas BBDD (JATO, EUROTAX)
-
-ENRIQUECIMIENTO DE DATOS: Motorflash cuenta con distintas soluciones para obtener y completar cada anuncio de la forma más adecuada
-
-CONTROL DE CALIDAD: Te damos la posibilidad de realizar controles de calidad del anuncio y fotografías
+- **CREACIÓN**: Importación de todo el stock desde cualquier plataforma. 
+  Creación del vehículo con consulta en tiempo real a la DGT
+- **BASE DE DATOS**: Único proveedor de servicios en unificar ambas BBDD (JATO y EUROTAX)
+- **ENRIQUECIMIENTO DE DATOS**: Distintas soluciones para obtener y completar cada anuncio de la forma más adecuada
+- **CONTROL DE CALIDAD**: Posibilidad de realizar controles de calidad del anuncio y fotografías
 
 ## Plan de trabajo
 
