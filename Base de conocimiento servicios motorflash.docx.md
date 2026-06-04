@@ -187,6 +187,10 @@ Motorflash es Partner de Google
 
 \+ 250 clientes del sector utilizan nuestra solución de Whatsapp Business API
 
+## Certificaciones
+- ISO 9001 — Gestión de calidad
+- ISO 27001 — Seguridad de la información
+
 ## Principales clientes 
 IMPORTANTE: Las empresas y grupos listados a continuación son exclusivamente CLIENTES a quienes prestamos servicios. Ninguno de los siguientes nombres actúa como proveedor de nuestra compañía Motorflash.
 
@@ -1759,3 +1763,11 @@ Analiza puntos clave de la conversación.
 Categoriza todas las llamadas por el interés del cliente.
 
 Puntuación automática de llamadas para mejorar la atención y la venta.
+
+# DESARROLLO ADHOC
+
+¿Necesitas una solución que no encuentras en el mercado?
+
+Motorflash es una casa de desarrollo de software especializada en el sector de la automoción. Además de nuestros productos propios, ofrecemos servicios de desarrollo de soluciones y proyectos a medida, adaptados exactamente a las necesidades de tu negocio.
+
+Si tienes un proyecto específico en mente, nuestro equipo puede desarrollarlo para ti.
