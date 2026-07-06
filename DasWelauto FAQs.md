@@ -1,5 +1,146 @@
 * **¿Qué es Das WeltAuto?** Es la marca de vehículos de ocasión certificados del Grupo Volkswagen, presente en más de 26 países. En Das WeltAuto encontrarás coches de todas las marcas que se comercializan en España, revisados y garantizados bajo los estándares de calidad del Grupo Volkswagen, junto con una serie de servicios exclusivos pensados para darte total tranquilidad.
 * **¿Qué marcas de coches puedo encontrar en Das WeltAuto?** Vehículos de todas las marcas que se comercializan en España, no solo las del Grupo Volkswagen. Todos pasan por la misma revisión certificada y cuentan con las mismas garantías, independientemente de la marca.
+* **¿Dónde están los concesionarios Das WeltAuto?** Puedes encontrarnos en las siguientes ubicaciones:
+  - **AUTOCENTER BARCELONA**
+  Calle A, 51 (Pol. Ind. Zona Franca), Barcelona 08040 | Tel: 930450574
+  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **LETAMENDI MOTOR**
+  Calle Diputació, 175, Barcelona 08011 | Tel: 931221484
+  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
+
+  - **MARTORELL MOTOR**
+  Av. de Pau Claris, 44, Martorell 08760, Barcelona | Tel: 931221402
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **TAES MOTOR**
+  Passeig Valldaura, 120, Barcelona 08042 | Tel: 931221484
+  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
+
+  - **MARESME LESSEPS**
+  Carretera Barcelona, 40-42, Mataró 08302, Barcelona | Tel: 931221386
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **ABADALONA**
+  Calle de l'Acer (Pol. Ind. Les Guixeres), 10-12, Badalona 08915, Barcelona | Tel: 931221370
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **ABLANES**
+  Carretera Accés Costa Brava, 38, Blanes 17300, Girona | Tel: 972011725
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **LESSEPS MOTOR**
+  Avda. Vallcarca, 77-79, Barcelona 08023 | Tel: 931225502
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **CATALUNYA MOTOR**
+  Pol. Ind. de la Zona Franca, Calle A, 51, Barcelona 08040 | Tel: 931221904
+  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **MOGADEALER** (2 ubicaciones)
+  Passeig de Guayaquil, 5, Barcelona 08030 | Tel: 931227849
+  Avda. Maresme, 30-40, Mataró 08302, Barcelona | Tel: 931227849
+  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:30-14:00 | Domingo: Cerrado
+
+  - **M-AUTOMOCION**
+  Paseo de Guayaquil, 5-9, Barcelona 08030 | Tel: 931221418
+  Lunes - viernes: 10:00-13:30 / 16:00-20:30 | Sábado: Sin horario definido | Domingo: Cerrado
+
+  - **BAIX MOTOR** (4 ubicaciones)
+  Ronda Ibérica, 33, Sant Boi de Llobregat 08830, Barcelona | Tel: 930452148
+  Lunes - viernes: 09:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  Carretera Santa Creu de Calafell, 7, Sant Boi de Llobregat 08830, Barcelona | Tel: 931221355
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  Avda. Barcelona, 242-244, Molins de Rei 08750, Barcelona | Tel: 931221354
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Avinguda de la Muntanyeta, 2, El Vendrell 43700, Tarragona | Tel: 930452148
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **LAMPIS AUTOMOCIÓ** (2 ubicaciones)
+  Carretera de Santa Creu de Calafell, 1, Sant Boi de Llobregat 08830, Barcelona | Tel: 931221417
+  Lunes - viernes: 10:00-13:00 / 17:00-20:00 | Sábado: Sin horario definido | Domingo: Cerrado
+
+  Av. Barcelona, 123, Molins de Rei 08750, Barcelona | Tel: 931221417
+  Lunes - viernes: 10:00-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **MOVENTO SARSA MOTOR SKODA** (3 ubicaciones)
+  Calle Jiloca, 8, Sant Cugat del Vallès 08172, Barcelona | Tel: 931224141
+  Calle Pare Rodamilans, 30, Sant Cugat del Vallès 08172, Barcelona | Tel: 931224141
+  Carretera de la Roca, km 17, La Roca del Vallès 08430, Barcelona | Tel: 931224081
+  Lunes - viernes: 09:00-13:30 / 16:00-20:00 | Sábado: 10:00-13:30 | Domingo: Cerrado
+
+  - **ONDINAUTO** (5 ubicaciones)
+  Av. del Riu Ripoll, 35, Ripollet 08291, Barcelona | Tel: 931221461
+  Lunes - viernes: 09:00-13:00 / 15:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Carretera de Barcelona, 48, Barberà del Vallès 08210, Barcelona | Tel: 931221450
+  Lunes - viernes: 09:00-13:00 / 15:30-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Carretera de Rubí, 22-26, Sant Cugat del Vallès 08174, Barcelona | Tel: 931224280
+  Lunes - viernes: Sin horario definido | Sábado: Sin horario definido | Domingo: Cerrado
+
+  Carretera de Terrassa, 114, Rubí 08191, Barcelona | Tel: 931227365
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Carretera de Vic, 257-263, Manresa 08243, Barcelona | Tel: 931225550
+  Lunes - viernes: Sin horario definido | Sábado: Sin horario definido | Domingo: Cerrado
+
+  - **FECOSAUTO**
+  Avda. Rabassaires, 22-26, Mollet del Vallès 08100, Barcelona | Tel: 931221353
+  Lunes - viernes: 09:00-13:00 / 16:00-20:30 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **DALMAU MOTOR** (4 ubicaciones)
+  P.I. El Segre, Calle Josep Baró i Travé, 117 bis, Lleida 25191 | Tel: 930452293
+  Lunes - viernes: 09:15-13:30 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Calle Alemanya, 17, Igualada 08700, Barcelona | Tel: 930452293 / 973500910
+  Lunes - viernes: 09:15-13:30 / 16:00-19:30 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Avda. Barcelona, 19, Lleida 25001 | Tel: 973013710
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  Avda. Cementiri Vell, sin número, Tàrrega 25300, Lleida | Tel: 973500910
+  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **AUTOPODIUM** (3 ubicaciones)
+  Carretera Sta. Coloma de Farnés, 59-65, Girona 17005 | Tel: 972011724
+  Avda. de Roses, 10, Figueres 17600, Girona | Tel: 972011766
+  Carretera de Blanes, 100, Girona 17005 | Tel: 972011724
+  Lunes - viernes: 09:00-13:00 / 15:00-19:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **PROAUTO** (2 ubicaciones)
+  Carretera de Santa Coloma, 59-65, Girona 17005 | Tel: 972011796
+  Avda. de Roses, 4, Figueres 17600, Girona | Tel: 972011766
+  Lunes - viernes: 09:00-13:00 / 15:00-19:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+
+  - **MOVENTO SARSA**
+  Carretera Terrassa, 101-103, Sabadell 08205, Barcelona | Tel: 931224081
+  Lunes - viernes: 09:00-13:30 / 16:00-20:00 | Sábado: 10:00-13:30 | Domingo: Cerrado
+
+  - **MAAS PRAGAUTO** (2 ubicaciones)
+  Carretera de Vic, 257, Manresa 08243, Barcelona | Tel: 931227897
+  Carretera N-152-A, km 25,5, Granollers 08403, Barcelona | Tel: 931227897
+  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **AUTOCAM**
+  Carretera Sant Jaume, 3, Vilafranca del Penedès 08720, Barcelona | Tel: 931221277
+  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **OSONA AUTOMOCIÓ**
+  Calle de Cantonigròs, 2 (Pol. Industrial Malloles), Vic 08500, Barcelona | Tel: 931221466
+  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+
+  - **BAYCAR**
+  Carretera de Valencia, km 248, Tarragona 43006 | Tel: 877050066
+  Lunes - viernes: 08:45-13:30 / 15:30-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
+
+  - **BARIAUTO**
+  Carretera Valencia, km 248, Tarragona 43006 | Tel: 977033408
+  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  
 * **¿Qué antigüedad y kilometraje máximo tienen los coches de Das WeltAuto?** Se venden vehículos con hasta **7 años de antigüedad** y un máximo de **150.000 km**.
 * **¿Cuál es la diferencia entre un coche de Selección, Ocasión y Oportunidad en Das WeltAuto?** Das WeltAuto clasifica sus vehículos en tres categorías según antigüedad y kilometraje: **Selección** (menos de 24 meses o menos de 30.000 km), **Ocasión** (entre 2 y 5 años o entre 30.000 y 100.000 km) y **Oportunidad** (entre 5 y 7 años, hasta 150.000 km). Las condiciones de garantía varían según la categoría.
 * **¿En qué consiste la revisión certificada de 126 puntos de Das WeltAuto?** Antes de ponerse a la venta, cada vehículo pasa un exhaustivo chequeo de **126 puntos** realizado por técnicos especializados del Servicio Oficial, que cubre aspectos mecánicos, eléctricos y estéticos. Si se detecta algún problema durante la revisión, se repara antes de la venta. Solo los vehículos que superan este proceso reciben la certificación Das WeltAuto.
