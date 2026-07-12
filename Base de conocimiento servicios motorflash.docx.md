@@ -1,1773 +1,750 @@
-# CRM4YOU
+# SERVICIOS
+## Dealer + Multipublicación
 
-Un CRM para TODO y más. Posicionamiento: "El CRM #1 para profesionales de la automoción. El verdadero 360º. Todo, en un solo lugar."
+### ¿Qué es Dealer + Multipublicación?
+Es una plataforma que unifica la gestión inteligente del vehículo de ocasión (VO) y la publicación multi-portal. Permite importar, crear, revisar y publicar tu stock desde un único entorno, con integración por API con los principales portales del sector.
 
-La experiencia nos demuestra que cada empresa tiene una necesidad distinta y por eso nuestra plataforma está concebida para ser adaptada según se requiera. 
+### ¿En cuántos portales puedo publicar y cuáles son?
+El servicio conecta con más de 50 portales, con un 99 % de integración por API. El diagrama de la web muestra específicamente: 
+* Coches.net
+* AutoScout24
+* Sumauto
+* Wallapop
+* Autocasión
+* Coches.com
+* Google Ads/Merchant
+* Motorflash.com
+* además de "muchos más" portales del sector.
 
-Gracias a nuestro equipo de acompañamiento y consultoría. Somos capaces de desarrollar la solución, flujo y modelo de datos que se requiera.
+### ¿Cómo funciona el proceso de publicación?
+Subes el vehículo una vez a Motorflash (representado en la web como "Motorflash → Publica · 1 clic → Envía a → portales") y el sistema replica el anuncio en tiempo real al resto de portales conectados. La sincronización es automática 24/7 y publicar tarda menos de 5 minutos.
 
-Nuestro CRM está enfocado a un uso NO declarativo. Es decir, todo se reporta automáticamente. Está desarrollado íntegramente con tecnología propia y exclusiva.
+### ¿Qué cifras destaca Motorflash sobre este servicio?
+Más de 1.000 clientes publicando diariamente con el Multipublicador, más de 2.500 exportaciones de stock cada día desde la plataforma, más de 150 importaciones nativas con DMS del mercado (más servicios Ad Hoc para casos específicos), y 1 millón de vehículos exportados al mes a portales del sector.
 
-3 pilares:
+### ¿Qué diferencia a Motorflash de otros multipublicadores?
+Su principal diferenciador es la Creación Premium por VIN: identifican automáticamente la versión exacta y el equipamiento opcional real de cada vehículo a partir del número de bastidor. Mientras otros multipublicadores estiman los datos por matrícula, Motorflash publica información verificada directamente del fabricante, mejorando la fiabilidad del anuncio, el SEO en portal y la conversión. Beneficios: versión y variante exactas por VIN sin errores de interpretación, extras y equipamiento opcional desglosados uno a uno, anuncios con fiabilidad de fábrica (menos devoluciones y disputas), y máxima densidad de información para posicionar mejor en cada portal.
 
-1. CONTROL TOTAL: Con el CRM 4you podrás tener un control completo de tus clientes y cómo se gestionan, además de darle herramientas de comunicación a tu equipo.  
-2. REPORTES AUTOMÁTICOS: Nuestra herramienta acaba con los reportes declarativos de la actividad del comercial, ya que todo se registra de forma automática.  
-3. EN TIEMPO REAL: Con la agenda del CRM 4you tendrás las tareas pendientes, recordatorios y citas del equipo comercial en tiempo real.
-   
-## Áreas de trabajo
-CRM4YOU cubre todas las áreas del negocio en una sola herramienta:
-Ventas, Compras, Tasaciones, Comunicaciones, Gestión de equipos, Rentabilidad e IA.
+### ¿Qué modos de creación de anuncios existen?
+Hay cuatro modos, según el nivel de fiabilidad y tiempo que se quiera invertir:
 
-## Identificación de necesidades
+- **Creación Premium (por VIN) · Únicos en el mercado:** se introduce el bastidor y se obtiene automáticamente la versión exacta y el equipamiento opcional real de esa unidad concreta. Incluye la creación avanzada.
+- **Creación avanzada (por matrícula):** se introduce la matrícula y el sistema autocompleta los datos básicos; solo hay que seleccionar versión y extras. Incluye la creación básica.
+- **Creación básica (manual):** el usuario crea el anuncio desde una interfaz intuitiva basada en JATO (fecha de matriculación, tipo, marca, modelo, versión, combustible, puertas, carrocería, cambio y extras).
+- **Creación delegada en Motorflash:** el equipo de expertos de Motorflash crea los anuncios por el cliente.
 
-Este servicio es ideal cuando el cliente menciona:
+### ¿Se integra con mi DMS actual?
+Sí, la plataforma está conectada con más de 150 DMS del mercado, entre ellos Keyloop, Autoline, Aswin, Incadea, Pymecar, Nextlane, Quiter, Bee2link e Inventario.pro. También ofrecen servicios Ad Hoc para necesidades específicas.
 
-- Su CRM no integra información de todos los canales de comunicación  
-- No tiene herramienta para monitorizar la actividad del equipo comercial en tiempo real  
-- No sabe si sus clientes reciben seguimiento correcto  
-- No sabe por qué no mejora su conversión de leads a ventas
+### ¿Cómo se gestionan las fotos de los vehículos?
+El sistema importa automáticamente las imágenes desde múltiples plataformas para mantener el stock actualizado. Incluye además "Carlens 360", una herramienta de personalización visual de fotografías sin necesidad de photocall, y la posibilidad de crear marcas de agua propias o gestionadas por Motorflash para que la marca sea visible en cada foto publicada.
 
-## Claves
+### ¿Qué herramientas incluye la gestión de stock (Dealer)?
 
-* \+1.750 Grupos, concesionarios y multimarcas.  
-* Diseñado exclusivamente para el sector de la automoción \+ de 30.000 horas de desarrollo propio.  
-* Hasta 4.000 KPIs. Sí, 4.000. Aunque solo uses 20 ahora mismo.  
-* Toda la gestión de tu negocio en tiempo real
+- **Dashboard intuitivo de stock:** antigüedad de stock, días sin cambio de precio y análisis de precio en una sola pantalla.
+- **Precio estimado vs. mercado:** comparativa instantánea con unidades similares anunciadas en los principales portales españoles.
+- **Tasador integrado:** precio recomendado de compra y venta introduciendo solo la matrícula.
+- **Temperatura de mercado:** visualización de qué modelos están "calientes" en cada momento.
+- **Calculadora de financiación:** integrada con entidades como Banco Santander, CaixaBank y Cetelem, entre otras.
+- **Perchas y ofertas personalizadas:** generación a medida para cada cliente desde la ficha del vehículo, en un clic.
 
-## Qué nos hace diferentes
+### ¿Puedo decidir a qué portales se publica cada vehículo?
+Sí, la publicación puede ser masiva, selectiva o mixta: decides qué anuncios se exportan y a qué portal, con control total desde un dashboard de exportaciones que muestra qué vehículo está publicado dónde y en qué estado.
 
-* Pioneros en la gestión del stock. Multipublica, comercializa y vende en UNA sola herramienta.  
-* Único CRM del sector 100% adaptable a tu negocio. Es decir, lo customizamos según tu necesidad. Crea flujos de trabajo, automatismos y campañas. Todo apoyado con nuestra IA.  
-* Somos la única plataforma pensada en la gestión de un GRUPO de concesionarios. Imputas datos en una sola plataforma independiente a las marcas con las que trabajes.  
-* Gestor documental crea ofertas, reservas, contratos, mandato, factura proforma, documento de garantía, todo con un click. Además. toda la Integración con herramientas de financiación.  
-* Integración automática de la información procedente de todos canales de comunicación con los clientes: WhatsApp, Emails, llamadas y tráfico de exposición
+### ¿Qué significa "enriquecimiento del anuncio"?
+A diferencia de otros multipublicadores, Motorflash exporta cada anuncio con el equipamiento extra de cada unidad perfectamente desglosado, ayudando a destacar frente a la competencia.
 
-6 funcionalidades donde Motorflash tiene TODO incluido vs competencia que NO tiene nada:
+### ¿Motorflash.com está incluido?
+Sí, tu stock se publica también en motorflash.com, e incluye los primeros 10 leads gratis al mes en cualquier tarifa.
 
-1. Producto completo: BBDD Jato Dynamics incluida  
-2. Mejor Precio: Un precio que agrupa todas las funcionalidades  
-3. Videollamadas: Videollamada en Full HD integrada  
-4. WhatsApp Business: Dashboard integrado de conversaciones  
-5. SIM Tracking\*\*: Control y encuestas de contacto (bajo demanda del proyecto)  
-6. Integración con Marcas: MF cuenta con la integración con las marcas más representativas del sector
+### ¿Las cuentas de los portales tienen límite?
+No, a partir de los tiers "S" en adelante las cuentas son ilimitadas en Coches.net, Sumauto y otros portales verticales. Se paga una tarifa por toda la red, no por cuenta.
 
-## Overview \- Obtenibles con CRM4YOU
+### ¿Cuánto tiempo se tarda en empezar a publicar?
+El proceso completo dura aproximadamente 2 semanas, en 4 fases:
 
-* Ratio de conversión por comercial, portal, fuente de tráfico y concesionario.  
-* Coste por lead, Coste por venta. Real y sin interpretaciones.    
-* Informe de ventas, rotación y stock.  
-* Control de tiempo de respuesta a clientes.  
-* Trazabilidad de campañas de marketing hasta la venta.   
-* Módulo de atención para tus equipos de Postventa.  
-* Módulo de tasación integrado.  
-* Visión de clientes de forma consolidada o por leads generados.  
-* Control completo de todas las solicitudes de financiación realizadas.  
-* Análisis de mercado de tu stock al alcance de un clic, compara con todos los vehículos similares publicados.
+1. **Firma de contrato y kickoff:** se firma el contrato y en la sesión inicial se recogen los datos de las cuentas en portales y los detalles de las tiendas.
+2. **Creación de cuenta y tiendas:** se da de alta la cuenta en Multipublicador y se configuran tiendas y usuarios según la estructura del cliente.
+3. **Importación de stock:** se conecta el DMS o se sube el Excel inicial para traer todo el stock al sistema; a partir de aquí los datos se sincronizan automáticamente.
+4. **Exportaciones y arranque:** se activan las exportaciones a los portales correspondientes, con la opción de hacer una revisión de calidad del stock desde el día 1.
 
-1. Tu flujo de venta  
-2. Evolutivos  
-3. Multitud de datos del vehículo   
-4. Gráficos de stock   
-5. Agenda comercial  
-6. Analítica de inversiones  
-7. Analítica de producto  
-8. Módulo Financiero  
-9. Una o múltiples oportunidades en una sola ficha  
-10. Módulo de automatismos y marketing  
-11. Informe de Ventas  
-12. Toda la documentación necesaria con un click
+### ¿Hay permanencia mínima o costes ocultos?
+Sí, existe una permanencia mínima de 6 meses, sin sorpresas en la factura ni costes ocultos.
 
-## Funcionalidades
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, se puede integrar con el resto del ecosistema Motorflash: CRM4YOU (CRM para grupos de concesionarios), Contact Center (atención omnicanal), Photocall IA/Spyne (fotografía y vídeo con IA), WhatsApp Business (conversaciones inteligentes con IA), Motor-Chat (IA que atiende chats de Coches.net y Wallapop), Motorflash IA (IA conversacional 24/7), Servicios Web (webs y marketplaces en 3 niveles, de Única a Platinum) y Marketing Digital (SEO, SEA y Social Ads).
 
-COMUNICACIÓN:
+---
 
-* Reporte automático de la actividad del commercial  
-* Envío automático de ofertas y pedidos  
-* Atención automatizada y centralizada por WhatsApp API
+## CRM4YOU
 
-REPORTING:
+### ¿Qué es CRM4YOU?
+Es el CRM creado por y para concesionarios y multimarcas. Unifica en una sola plataforma la gestión de stock, leads, comunicación, financiación, documentación y reporting. Su reporting no es declarativo: los datos se generan solos, sin que nadie tenga que introducirlos manualmente. Motorflash lo posiciona como "el CRM #1 para profesionales de la automoción. El verdadero 360º. Todo, en un solo lugar" — o, de forma más directa, "un CRM para TODO y más".
 
-* Histórico de ventas por concesionario  
-* Dashboard KPIS de CRM aplicados con información de importancia (informe ejecutivo)  
-* Histórico en fichas de cliente \+ encuestas de valoración  
-* Informe de contactos por leads de concesionario
+### ¿En qué 3 pilares se apoya CRM4YOU?
+- **Control total:** control completo de los clientes y de cómo se gestionan, con herramientas de comunicación para todo el equipo.
+- **Reportes automáticos:** acaba con los reportes declarativos de la actividad comercial, porque todo se registra de forma automática.
+- **En tiempo real:** la agenda de CRM4YOU muestra tareas pendientes, recordatorios y citas del equipo comercial en tiempo real.
 
-CTI CRM:
+### ¿Qué áreas del negocio cubre CRM4YOU?
+Ventas, Compras, Tasaciones, Comunicaciones, Gestión de equipos, Rentabilidad e IA — todo desde una sola herramienta.
 
-* Teléfono voz IP  
-* Sala de videollamadas para cita virtual WhatsApp/Enreach  
-* Tarjeta SIM  
-* Calltracking/mailtracking
+### ¿Cuándo conviene contratar CRM4YOU?
+Cuando el CRM actual no integra la información de todos los canales de comunicación, cuando no hay forma de monitorizar la actividad del equipo comercial en tiempo real, cuando no se sabe si los clientes están recibiendo el seguimiento correcto, o cuando no está claro por qué no mejora la conversión de leads a ventas.
 
-LAYOUT:
+### ¿Qué cifras avalan a CRM4YOU?
+La plataforma está implantada en más de 1.750 grupos, concesionarios y multimarcas, ofrece 4.000 KPIs disponibles (aunque el cliente solo use 20), cuenta con más de 30.000 horas de desarrollo propio y es 100 % adaptable al sector de la automoción.
 
-* Gestión de calendario  
-* KPIS intuitivos e interactivos del panel de control  
-* WhatsApp Business para conversaciones desde el CRM (embedded)  
-* Llamada telefónica desde el SDK (embedded)
+### ¿Qué lo diferencia de un CRM genérico?
+Llevan 4 años adaptando la plataforma a los requerimientos reales de concesionarios y grupos: el CRM se adapta al equipo, no al revés. Motorflash cuenta además con un equipo propio de acompañamiento y consultoría capaz de desarrollar la solución, el flujo y el modelo de datos que cada cliente necesite — su filosofía es que Motorflash son especialistas en software, y quienes usan CRM4YOU son especialistas en vender y comprar coches y motos. Sus diferenciadores principales son:
 
-  CRM4YOU incluye un Panel de Comunicaciones centralizado que integra todas las interacciones con clientes en tiempo real.
+- **Pioneros en gestión de stock:** multipublicas, comercializas y vendes desde una sola herramienta, sin saltar entre sistemas.
+- **100 % adaptable al negocio:** es el único CRM del sector totalmente customizable, con flujos de trabajo, automatismos y campañas apoyados en IA.
+- **Pensado para grupos:** única plataforma diseñada para grupos de concesionarios, permitiendo imputar datos en un solo sitio independientemente de las marcas con las que se trabaje.
+- **Gestor documental al clic:** ofertas, reservas, contratos, mandato, factura proforma y garantía, con integración de herramientas de financiación incluida.
+- **Integración automática de canales:** toda la información procedente de WhatsApp, emails, llamadas y tráfico de exposición se integra de forma automática, sin que nadie tenga que volcarla a mano.
 
-## Destacado
+### ¿En qué se compara CRM4YOU frente a la competencia?
+Motorflash destaca 6 funcionalidades que incluye de fábrica y que la competencia habitualmente no ofrece o cobra aparte: producto completo con la base de datos Jato Dynamics incluida, un único precio que agrupa todas las funcionalidades (frente a módulos vendidos por separado), videollamada en Full HD integrada, dashboard de WhatsApp Business integrado, SIM Tracking (control y encuestas de contacto, bajo demanda del proyecto), e integración con las marcas más representativas del sector.
 
-Todo lo que debería hacer tu CRM y mas.
+### ¿Qué datos e informes puedo obtener con CRM4YOU?
+- Ratio de conversión por comercial, portal, fuente de tráfico y concesionario.
+- Coste por lead y por venta, calculado de forma real, sin interpretaciones ni hojas de Excel.
+- Informes de ventas, rotación y stock en tiempo real, exportables y comparables.
+- Tiempo de respuesta a clientes: cuánto tarda cada comercial en contestar a cada lead.
+- Trazabilidad de campañas, desde marketing hasta la venta, con atribución real.
+- Módulo de Postventa con atención dedicada.
+- Tasación integrada, con módulo de tasación nativo dentro del CRM.
+- Visión consolidada de clientes, por cliente o por leads generados.
+- Control de financiaciones: todas las solicitudes en un solo sitio.
+- Análisis de mercado del stock, comparando cada vehículo con similares publicados en portales.
 
-La política de Motorflash es que somos especialistas en software, pero los usuarios que usan CRM4YOU son especialistas en vender/comprar coches y motos.
+### ¿Qué incluyen las "12 piezas" de la plataforma?
+CRM4YOU cubre todo el proceso, desde la captura del lead hasta la entrega del coche, con estas piezas: flujo de venta configurado a medida etapa a etapa; evolutivos con roadmap continuo del producto basado en las necesidades del cliente; datos del vehículo con campos nativos y personalizables; gráficos de stock (rotación, antigüedad y mix por marca/modelo en directo); agenda comercial con citas, llamadas y tareas centralizadas; analítica de inversiones (ROI por marca, proveedor y canal de captación); analítica de producto (qué se vende, a quién y por qué, sin reportes manuales); módulo financiero con solicitudes, ofertas y seguimiento con financieras; gestión de una o múltiples oportunidades (varios coches y deals en una sola ficha de cliente); automatismos y marketing (campañas y secuencias que se ejecutan solas); informe de ventas configurable por comercial, concesionario, marca o mes; y documentación al clic (ofertas, contratos, mandatos, facturas y garantías generados automáticamente).
 
-Por eso hemos adaptado la plataforma los últimos 4 años a sus requerimientos.
+### ¿Qué canales de comunicación integra el CRM?
+Cuenta con un sistema de comunicación propio para que el cliente escriba por donde quiera y el equipo responda desde un solo sitio: WhatsApp Business API más app móvil, telefonía VoIP con DDI y gestión de centralita, GSM móvil con grabaciones en tiempo real, app de tracking de llamadas, integración de correo electrónico, Vcard con el contacto del cliente integrado en el móvil, y un copiloto de IA que analiza la actividad comercial. A nivel más técnico (CTI), esto se apoya en telefonía voz IP, salas de videollamada para citas virtuales (compatibles con WhatsApp y Enreach), tarjeta SIM para el tracking de llamadas móviles, y sistemas de calltracking/mailtracking. Todo queda centralizado en un Panel de Comunicaciones que integra todas las interacciones con clientes en tiempo real.
 
-El único CRM del mercado creado por y para los concesionarios y multimarcas.
+### ¿Qué nivel de seguimiento ofrece sobre clientes, comerciales y stock?
+Todo queda registrado y disponible para análisis: por cliente (todos sus leads, interacciones y evolución en el tiempo), por comercial (toda la actividad de cada agente en tiempo real), por vehículos (estadísticas nativas y en vivo de cada coche en stock), y por costes y ventas (análisis detallado y evolutivo por concesión y por marca).
 
-## Potente sistema de comunicación propio
+### ¿Cuánto tiempo se tarda en implementar CRM4YOU?
+El proceso completo dura 2 semanas, sin migraciones eternas:
 
-* WhatsApp Business API \+ APP MOVIL.  
-* Soluciones de telefonía a medida. Telefonía VOZ IP, DDI, gestión de centralita. Conexión GSM móvil y grabaciones en tiempo real. APP tracking de llamadas.  
-* Integración de correo electrónico.  
-* Vcard (datos de contacto del cliente integrados en el móvil)  
-* Copiloto de IA para análisis de la actividad comercial
-* Vcard: Datos de contacto del cliente integrados en el móvil
-* **Todo en un sitio**: Leads, estadísticas y análisis detallado de toda la actividad comercial realizada
+- **Semana 1:** firma de contrato (día 1), recogida de datos/usuarios y configuración (día 2), y configuración de CRM4YOU, canales y licencias (días 3 a 5).
+- **Semana 2:** formación al equipo (día 1) y arranque, quedando listo para vender desde CRM4YOU.
 
-## Seguimiento exhaustivo – todo en un sitio
+### ¿Qué experiencia y equipo respaldan el producto?
+Motorflash cuenta con 17 años en el sector, más de 950 licencias CRM implantadas en un año, más de 100 especialistas IT y más de 350 webs desarrolladas.
 
-* Cliente: todos sus LEADS y evolución.  
-* Comercial: TODA la actividad realizada.  
-* Vehículos: Estadísticas nativas y en vivo.  
-* Costes y ventas: análisis detallado y evolutivo
+### ¿Cómo puedo probar o solicitar el servicio?
+Mediante los botones "Solicitar Demo" o "Solicitar Demo Personalizada", donde se ofrece una demo de 30 minutos con un caso real de un grupo de tamaño similar, mostrando cómo se configura, cómo se reporta y cuánto tarda en estar operativo.
 
-## Plan de trabajo
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, Contact Center, Photocall IA (Spyne), WhatsApp Business y Motor-Chat, entre otros servicios.
 
-Cada semana se divide en 7 días
+---
 
-Semana 1:
+## Contact Center
+### ¿Qué es el servicio Contact Center de Motorflash?
+Es un servicio de Contact Center exclusivo del sector de la automoción. Atiende el 100 % de los leads en todos los canales (voz, WhatsApp, email, chat y redes sociales) con plataformas propias, equipo especializado y reporting en tiempo real. Su lema es "lo que no se mide, no se puede mejorar".
 
-Dia 1 \- Firma de contrato
+### ¿Cuándo conviene contratar este servicio?
+Cuando el concesionario no sabe cuántas llamadas de clientes interesados está perdiendo, cuando recibe muchas llamadas y formularios de baja calidad, o cuando no tiene visibilidad de cuántos contactos le llegan desde cada portal de publicación.
 
-Dia 2 \- Recogida de datos, usuarios y configuración
+### ¿Qué lo hace diferente de un Contact Center generalista?
+Llevan 7 años dedicados exclusivamente al sector del motor, y destacan seis razones diferenciales: Motor Lead Management (su servicio estrella en gestión de leads para automoción), tecnología propia desarrollada por ellos mismos, un equipo especializado de 50 agentes formados en el sector, reporting en tiempo real personalizable por portal, origen, canal, producto y comercial, una propuesta competitiva con tarifa ajustada y modelo de pago por uso real, y una cartera consolidada de más de 400 clientes y 2.000 concesionarios.
 
-Dia 3 a 5 \- Configuración de CRM4YOU, canales de publicación y licencias
+### ¿Qué canales de contacto atienden?
+Cuatro grandes vías: llamadas entrantes y salientes (atendiendo el 100 % de las llamadas con infraestructura cloud y plataformas propias), WhatsApp Business API (con desarrollo propio para medir la conversión del canal — según Motorflash, la única empresa del mercado con un desarrollo tan eficiente en este punto), emails y click-to-call (integrando formularios de contacto de cualquier canal web), y chats y redes sociales (respondiendo con inmediatez a dudas técnicas o comerciales).
 
-Semana 2:
+### ¿Cómo garantizan el cumplimiento normativo y la conversión?
+Graban todas las llamadas y las conservan hasta 5 años conforme al RGPD, recogen consentimientos para acciones de remarketing posteriores, y mantienen el stock publicado en todos los canales para apoyar estrategias de precios y conversión a venta.
 
-Dia 1 – Formación 
+### ¿Qué horario de atención ofrecen y qué KPIs garantizan?
+Trabajan de lunes a sábado en horario ininterrumpido: de lunes a viernes de 9:00 a 20:00 y los sábados de 9:00 a 14:00, sin cierre a mediodía, con posibilidad de ampliar el horario según necesidades, incluida la extensión a fines de semana. Sus indicadores destacados son: más del 90 % de atención en recepción, menos de 10 minutos de tiempo de contacto en emisión (y un tiempo medio de respuesta a formularios también inferior a 10 minutos), 195.000 llamadas al mes atendidas y 100 % de respuestas garantizadas.
 
-Listo, puedes empezar a utilizar CRM4YOU
+### ¿Qué equipo y experiencia respaldan el servicio?
+Cuentan con 50 agentes especializados, más de 400 clientes, 7 años de experiencia en el sector y 2.000 concesionarios atendidos.
+
+### ¿Qué tareas cubre el servicio, desde el lead hasta la postventa?
+Un flujo completo que incluye: recepción y emisión (cualificación de contacto y RGPD desde el primer minuto), cualificación de temperatura (filtrado de leads según la intención real de compra), gestión de citas de prueba y taller (con confirmación de asistencia, incluyendo registro de citas y confirmación de asistencia a eventos), postventa y gestión (acompañamiento tras la entrega del vehículo), back office y CRM (gestión de emails, depuración de bases de datos y mystery calls para garantizar la calidad de la atención comercial), y servicio multidioma en castellano, inglés, francés, catalán y portugués.
+
+### ¿Qué información puedo consultar en el reporting en tiempo real?
+Se ofrece acceso a un gestor exclusivo con métricas de control e informes detallados, incluyendo: registro completo de contactos destacando los leads más calientes, estrategias de seguimiento "Nurturing" sobre potenciales clientes, acceso ilimitado a todas las grabaciones, reportes segmentados por portal, origen, canal, producto, departamento y comercial, y visión de la derivación equitativa de leads entre comerciales de VO (vehículo de ocasión) y VN (vehículo nuevo). El reporting está customizado a todos los niveles: por portal, por comercial y por vehículo, con KPI de conversión a venta detallado por cada gestión de contacto.
+
+### ¿Hay algún ejemplo real de resultados de gestión de leads?
+Sí, la página muestra un desglose de estados de derivación: 37 % transferidos en línea, 35 % no transferidos, 18 % en otros estados y 10 % derivados vía email. Como ejemplo real citan la gestión de 164 leads en un mes para un grupo de concesionarios, con derivación equitativa entre 5 comerciales.
+
+### ¿Qué es "el semáforo" de supervisión en tiempo real?
+Es el panel de monitorización de agentes en tiempo real que permite a los supervisores visualizar y gestionar la actividad del equipo al momento. Incluye: estado en tiempo real de cada agente (llamando, en pausa, disponible, after-call, etc.), escucha en directo de cualquier conversación con opción de intervenir sin colgar la llamada, capacidad de tomar decisiones rápidas para mantener los KPIs de recepción, tiempos y calidad, y distribución equitativa y trazable de la carga entre agentes. La página incluye una captura ilustrativa de este panel con las casillas de estado codificadas por colores (verde, amarillo, rojo).
+
+### ¿Cómo puedo solicitar más información, una demo o consultar tarifas?
+A través de los botones "Solicitar Demo" o "Solicitar Demo Personalizada", donde se ofrece contar el volumen de leads mensuales para recibir un dashboard real de un grupo de tamaño similar y conocer, en 30 minutos, el coste y el ROI estimado.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Photocall IA (Spyne), WhatsApp Business y Motor-Chat, entre otros.
+
+---
+
+## Photocall IA / Spyne
+
+### ¿Qué es Photocall IA?
+Es un servicio de fotografía y vídeo de vehículos con inteligencia artificial, desarrollado sobre la tecnología de Carlens y Spyne AI. Transforma fotos tomadas en el aparcamiento del concesionario en imágenes de estudio profesional, con más de 150 funcionalidades de IA, sin necesidad de estudio fotográfico ni fotógrafo.
+
+### ¿Por qué es importante la calidad de las fotos para vender un coche?
+Según datos citados de Google Research y Cox Automotive: el 95 % de los concesionarios publica su stock online, el 40 % de los compradores decide sin ver el coche en persona, y un comprador visita en promedio 4,2 páginas web antes de decidir su compra.
+
+### ¿Qué hace exactamente la IA con las fotos?
+Detecta el vehículo, lo recorta y reemplaza el fondo por uno profesional (de estudio virtual o personalizado), y genera automáticamente la plataforma o suelo bajo el coche para simular que la foto fue tomada en un estudio. También corrige reflejos en carrocería y cristales, genera sombras realistas, cubre o sustituye la matrícula (pudiendo colocar el logo del concesionario), tinta las lunas y corrige la inclinación o perspectiva del vehículo, todo cumpliendo con el RGPD sin pasos manuales.
+
+### ¿Qué es el Vídeo Spin 360°?
+Es un vídeo interactivo generado automáticamente que permite al comprador girar el coche desde su móvil directamente en la ficha del anuncio, aumentando el tiempo de permanencia y la conversión. Incluye vista completa desde cualquier ángulo, hotspots interactivos con detalles del coche, y funciona igual en móvil y en escritorio. Es una de las piezas que más cambia la forma de mostrar el producto: en vez de fotos estáticas, el vídeo 360° "vende por sí mismo".
+
+### ¿Qué beneficio aporta la coherencia visual del catálogo?
+Todas las fotos mantienen la misma calidad, encuadre y fondo, de forma que el catálogo se ve homogéneo e impecable en cualquier portal, sin depender de quién haya tomado la fotografía original.
+
+### ¿Cuántas funcionalidades de IA incluye el servicio?
+Más de 150 funcionalidades de IA en total, con más de 100 transformaciones y más de 50 detecciones automáticas por foto. Entre ellas: sustitución de fondos, generación de plataforma giratoria, vídeo Spin 360°, corrección de reflejos y sombras, cobertura de matrícula, tintado de lunas, corrección de inclinación, incrustación de logo, mejora de interior (corrigiendo el interior y cubriendo exteriores visibles por las ventanas), mejora de resolución (auditoría automática de fotos antiguas con más nitidez), y ajuste automático de tamaño por portal y red social.
+
+Dentro de las detecciones automáticas por foto se incluyen, entre otras: clasificador de tipo de coche, detección y reemplazo de matrículas, identificación de imágenes cortadas, reconocimiento de desenfoque, identificación de inclinación, detección de exposición, clasificador de neumáticos y detección de barro en ellos, detección del ángulo de posición y reconocimiento de distancias, identificación de reflejos, clasificador de tonos, y categorización de interiores. También genera banners pensados para captar la atención y presentar el stock de forma más ordenada.
+
+### ¿Cómo se integra Photocall IA con mi forma de trabajar actual?
+Ofrece 5 formas de integración, que pueden combinarse en paralelo: app iOS/Android con guía paso a paso para hacer las fotos desde el aparcamiento (sin necesidad de conocimientos técnicos), consola web Carlens360 con todas las fotos, proyectos y reglas de IA, API para subir el inventario completo automáticamente desde el DMS, SDK para integrar el flujo en la propia app del fabricante o grupo, e integración DMS que conecta todo el workflow desde el concesionario hasta la web y los portales (sin que el concesionario tenga que cambiar sus procesos: la subida de fotos es automática y se acopla al flujo existente entre concesionario, CRM/DMS, proveedor de la web y la web final).
+
+### ¿Cómo se compara Carlens frente a otras soluciones del mercado?
+Frente a competidores como Optipix, CitNOW, VC 360, AutosOnShow, CarCutter y Autofox, Carlens destaca por: creación 360° tanto de exterior como de interior (fotos, fotos 180° y vídeo — varios competidores solo ofrecen fotos, o anuncian el 360° de interior como "próximamente"), cambio de fondo con muchas opciones personalizables e incluso un simulador de concesionario (frente a personalización básica o media en la mayoría de competidores), posibilidad de integrar el resultado en webs y redes sociales con música (varios competidores solo permiten subir desde ordenador), edición de fotografía mejorada con IA, etiquetado interactivo capaz de reconocer daños y destacados (la mayoría de competidores no lo tiene, o solo con texto), y corrección/auditoría automática de fotos antiguas del catálogo como funcionalidad extra que varios competidores no ofrecen.
+
+### ¿Qué resultados destaca Motorflash sobre el impacto del servicio?
+Señalan más de 150 funcionalidades de IA disponibles, hasta 5 veces más clics en el portal, procesamiento de cada foto en cuestión de segundos, y un incremento de más del 30 % en la conversión a lead.
+
+### ¿Cómo puedo probar el servicio o solicitar una demo?
+A través de los botones "Probar Demo Gratis" o "Solicitar Demo Personalizada". La propia página incluye también un visor 360° interactivo de ejemplo para probar la experiencia que verían los compradores.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Contact Center, WhatsApp Business y Motor-Chat, entre otros.
+
+---
+
+## WhatsApp Business / MF Message
+### ¿Qué es MF Message?
+Es la solución de WhatsApp Business para empresas del sector del automóvil, con IA integrada desde el primer contacto. Permite gestionar conversaciones reales, concertar citas y dar seguimiento a los clientes sin depender de horarios, conectada con el CRM y adaptada al 100 % a la normativa RGPD. El precio parte desde 20 €/usuario/mes, con un piloto inicial de 4 semanas. Se basa en WhatsApp Business Platform (la API oficial de WhatsApp Business), lo que permite funcionalidades que la app estándar no tiene: acceso multiagente, automatización e integración profunda con el CRM.
+
+### ¿Por qué es tan importante la velocidad de respuesta a un lead?
+Cerca del 75 % de los compradores compra en el primer concesionario que responde. Un lead pierde eficacia 30 minutos después de haberse generado. Además, el 65 % de los leads de formulario no recibe respuesta en 24 horas, y entre el 25 % y el 42 % de los leads telefónicos nunca se atienden eficazmente. Si se responde en menos de 1 minuto, la conversión puede alcanzar el 60 %. WhatsApp es, además, el canal de mensajería más usado en España y la mayoría de clientes prefiere recibir un mensaje antes que una llamada.
+
+### ¿Qué diferencia a MF Message del WhatsApp que ya ofrecen los portales?
+Los portales verticales lanzaron WhatsApp como un simple chat web: un bot básico, sin transferencia a comercial, sin analítica y sin trazabilidad de cierre. MF Message resuelve ese vacío ofreciendo WhatsApp empresarial real con IA, coexistencia con la app que ya usa el comercial, y enrutamiento a escala, incluso entre cientos de concesionarios.
+
+### Comparativa de modalidades de WhatsApp
+#### ¿En qué se diferencia MF Message de usar WhatsApp personal o la app de WhatsApp Business normal?
+Existen 4 niveles de uso de WhatsApp, y MF Message es el único que lo cubre todo:
+
+- **WhatsApp personal:** solo app móvil y mensajería gratuita. No incluye perfil de negocio verificado, plantillas, seguimiento, automatización, integración con CRM, acceso múltiple, RGPD, dashboard ni campañas.
+- **WhatsApp Business App (autónomos):** añade perfil de negocio verificado y automatización ligera. Sigue sin plantillas, seguimiento de actividad, integración con CRM, acceso múltiple, RGPD, dashboard ni campañas.
+- **WhatsApp Business Platform (empresas, sin gestor):** añade plantillas, automatización ligera e integración con CRM, pero pierde la app móvil y la mensajería gratuita, y sigue sin seguimiento, acceso múltiple, RGPD, dashboard ni campañas.
+- **MF Message (basado en WhatsApp Business Platform):** es el único que lo reúne todo — app móvil, perfil verificado, plantillas, seguimiento de actividad, automatización abierta, integración con CRM, acceso múltiple (una cuenta con varios usuarios), adaptación a RGPD, dashboard, módulo de campañas y Coexistence (sincronización vía API). Lo único que no incluye es la mensajería gratuita, al ser una solución empresarial.
+
+### Funcionalidades y arquitectura
+#### ¿Cuáles son las 5 claves de la plataforma?
+- **Dashboard y analítica de datos:** KPIs en directo (conversaciones totales, transferidas, atendidas a tiempo, perdidas), tiempos de espera y SLA por canal, grupo o franja horaria, actividad por equipo y agente, etiquetado de conversaciones y exportación a Excel.
+- **Coexistencia sin barreras:** sin plantillas de Meta ni ventana de 24 horas; el equipo escribe libremente en lenguaje natural desde las líneas de WhatsApp Business que ya usa, quedando todo registrado en el panel y el CRM.
+- **Dos arquitecturas posibles:** (A) un número maestro para muchos negocios, con enrutamiento por marca, geografía, modelo o campaña (como en el caso de Das WeltAuto); o (B) muchos negocios con muchas líneas, ideal para portales que revenden la plataforma a sus dealers.
+- **IA conversacional en producción:** primera línea de respuesta que cualifica leads, agenda visitas y optimiza la conversación 24/7, escalando a un humano solo cuando se requiere criterio.
+- **API que unifica los cuatro canales:** un hub bidireccional que conecta clientes (WhatsApp directo, leads de portales, CTA web), agentes, comerciales y el CRM, con cumplimiento RGPD de extremo a extremo y entrega en tiempo real.
+
+También se destaca que la plataforma está diseñada específicamente para automoción, con estados del cliente (En conversación → Compra → Financiación → Posventa) sincronizados con el CRM.
+
+#### ¿Cómo funciona la "coexistencia" con la app de WhatsApp que ya uso?
+MF Message se conecta con la app de WhatsApp Business que el comercial ya tiene en su teléfono (línea de empresa), sin que tenga que instalar nada nuevo. Cada chat fluye al panel y al CRM en segundo plano. El proceso es "conectar → sincronizar → trabajar como siempre". Es compatible con la línea de empresa (recordando que en España un número personal está prohibido para uso profesional), usa los contactos que ya tienes en el teléfono sin migraciones, y ofrece un panel central con KPIs y SLA por agente, grupo y franja horaria. Además no requiere plantillas de Meta, no tiene ventana de 24 horas, no genera costes de plantilla (aprovecha la línea Business existente) y ofrece trazabilidad total al CRM. Técnicamente, Coexistence sincroniza WhatsApp Business con la API: para que los mensajes de un comercial queden trackeados y gestionados, ese comercial debe usar siempre la interfaz de MF Message (conectada a la API), y no la app de WhatsApp por separado.
+
+#### ¿Qué hace la IA de MF Message exactamente?
+Gestiona las conversaciones entrantes de principio a fin y solo escala a un humano cuando se requiere criterio. Sus capacidades incluyen: respuesta instantánea en menos de un segundo, 24/7; NLP multilingüe que extrae intención, entidad y sentimiento del historial completo de la conversación; cualificación automática de leads (vehículo, presupuesto, geografía e intención), agendando visitas y reservando pruebas de conducción; traspaso fluido al comercial con todo el contexto cuando la operación madura; búsqueda en toda la base de datos de stock de forma anonimizada y conforme al RGPD; y un prompt editable con retroalimentación, permitiendo ajustar y entrenar el comportamiento de la IA desde la propia herramienta.
+
+#### ¿Qué otras funcionalidades incluye la plataforma día a día?
+Enrutamiento de conversaciones a grupos de respuesta, asignación por agente, etiquetado y notas, plantillas de conversación y respuestas rápidas, compatibilidad con archivos multimedia (fotos, vídeos, audio, en todos los formatos permitidos por Meta), y un sistema multilenguaje. En cuanto a automatización y autogestión: posibilidad de automatización total o parcial mediante bots, integración con sistemas de IVR para desviar tráfico telefónico a WhatsApp (call deflection), creación de respuestas rápidas, y autogestión de agentes, grupos y mensajes de servicio (fuera de horario, vacaciones, etc.) por el propio cliente, sin depender de Motorflash para cada cambio.
+
+#### ¿Qué módulos tiene MF Message?
+- **Módulo conversacional:** recibe, asigna y gestiona las conversaciones; se organizan en grupos de agentes (incluyendo grupos de respuesta especializados), las conversaciones pueden transferirse a otro grupo o agente, y al finalizar se cierran asignando hasta tres motivos de cierre.
+- **Módulo de información y análisis:** todas las operaciones del módulo conversacional alimentan un dashboard estándar con datos de alto y medio nivel, y los datos internos están disponibles y documentados para usos específicos de cada cliente.
+- **Aplicación móvil:** disponible en Apple y Android, replica el funcionamiento de la versión de escritorio, con actualización de conversaciones en tiempo real sin necesidad de refrescar. El módulo de información y análisis, de momento, solo está disponible en escritorio.
+- **Autogestión y campañas:** toda la gestión de grupos, usuarios, plantillas y mensajes de servicio puede hacerla el propio cliente; también existe un módulo de campañas para comunicar por WhatsApp información de interés a los contactos.
+
+#### ¿Qué infraestructura técnica tiene MF Message?
+Es un SaaS alojado en el cloud de Motorflash, con proveedor ubicado en Logroño. Está desarrollado como una plataforma web multicanal, multiempresa y multiagente, centrada principalmente en WhatsApp, aunque su arquitectura permitiría añadir otros canales en el futuro (SMS, Messenger, Instagram). Es de alta disponibilidad en todas sus capas: balanceo de carga, comunicación en tiempo real (websockets + push notifications), capa web y clúster de base de datos. Permite además embeber la aplicación en cualquier CRM mediante autologin del agente.
+
+#### ¿Cómo se posiciona MF Message frente a otras soluciones del mercado?
+Es una aplicación especializada en el canal WhatsApp (junto con la voz), desarrollada íntegramente por el propio equipo de Motorflash, lo que da control total para adaptar la herramienta sin depender de terceros. La interlocución para cualquier necesidad es local, en España. Es una solución estable, con varios años en producción y una base de clientes consolidada. Al ser una solución especializada (no un CX genérico con funcionalidades no necesarias), el precio también resulta más competitivo, y permite ajustar la propuesta económica a configuraciones no estándar que pida el cliente.
+
+#### ¿Hay un caso real de uso a gran escala?
+Sí, el caso de Das WeltAuto (la operación de vehículos de ocasión certificados del Grupo Volkswagen en España), que gestiona todo su negocio de WhatsApp a través de MF Message con una única puerta de entrada para toda España. Cada consulta se enruta automáticamente al concesionario y unidad de negocio adecuados, con visibilidad total desde la central mediante paneles a nivel de grupo. El historial de conversaciones permanece en el CRM del grupo incluso si cambia el concesionario, y todo es conforme al RGPD por diseño, con consentimientos con marca temporal y cada interacción auditable. En cifras: más de 200 concesionarios bajo un único número maestro, 1 número de cara al cliente para toda España, 5 unidades de negocio enrutadas (ventas, servicio, recambios, administración y posventa), y 288 concesionarios con panel a nivel de grupo.
+
+### Contratación
+#### ¿Qué necesito para darme de alta?
+Solo dos datos: un número de teléfono que hará de "número de WhatsApp" de cara a los clientes y partners, y estar dado de alta en Facebook con un identificador de Facebook Business Manager (FBM ID) — Motorflash puede ayudar a localizarlo si no se tiene a mano. Con esos dos datos, en una sesión de unos 15 minutos se completa el alta en Meta.
+
+#### ¿Cómo es el proceso de implementación?
+Consta de 3 fases: una sesión de descubrimiento de 60 minutos (taller con el equipo de operaciones comerciales e IT para mapear la presencia actual en WhatsApp y los puntos donde se pierden leads), un piloto de 4 semanas (conectando 3-5 concesionarios para validar coexistencia, enrutamiento, IA y sincronización con el CRM en producción), y un despliegue por fases en el grupo (implantación progresiva por marcas, regiones y unidades de negocio, co-liderada por Motorflash, con onboarding del equipo y métricas activas desde el primer día).
+
+#### ¿Cómo puedo solicitar información o una demo?
+A través del botón "Solicitar información" o "Solicitar WhatsApp Business". La página también facilita un contacto directo: Andrés Tejero, correo info@motorflash.com, teléfono +34 913 728 790.
+
+#### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), Motor-Chat, Motorflash IA, Servicios Web y Marketing Digital.
+
+---
+
+## Motor-Chat
+
+### ¿Qué es Motor-Chat?
+Es un agente de IA que responde automáticamente a los chats de portales de venta de coches (Coches.net, Wallapop y Milanuncios), al instante y 24/7, entregando cada lead cualificado directamente al CRM sin que el equipo comercial tenga que intervenir manualmente. Su promesa es "cero chats sin contestar, cero leads perdidos".
+
+### ¿En qué portales funciona?
+Está conectado con tres portales: Coches.net, Wallapop y Milanuncios.
+
+### ¿Qué cifras destacan sobre su rendimiento?
+Atención 24/7 sin descanso, tiempo de respuesta inferior a 5 segundos, conexión con 3 portales y entrega directa al CRM. También se indica que ofrece 0 chats sin responder y que es 5 veces más rápido que la media del sector.
+
+### ¿Cómo funciona la bandeja de mensajes?
+Todos los chats y llamadas de los distintos portales (Coches.net, Wallapop y Milanuncios) se centralizan en una sola bandeja de entrada, evitando tener que abrir cada portal por separado. Cada lead puede filtrarse por estado (todos, sin responder, calientes) y asignarse a un comercial. La página muestra un ejemplo ilustrativo de esta bandeja con leads de muestra (nombre, vehículo, precio, estado "caliente/templado/frío" y portal de origen), y una conversación de ejemplo donde la IA sugiere una respuesta que el usuario puede revisar y enviar.
+
+### ¿Qué hace exactamente Motor-Chat por mi concesionario?
+Seis funciones principales: responde en segundos en el momento en que el cliente escribe, sin turnos ni horarios; unifica en una bandeja los mensajes y llamadas de los tres portales; ofrece una IA opcional que lee el hilo de conversación y propone una respuesta lista para revisar o enviar; cualifica al lead pidiendo los datos clave (vehículo, intención, contacto) de forma natural y genera el lead completo; entrega ese lead directamente al CRM sin doble entrada ni exportaciones manuales; y ofrece un panel de rendimiento real con chats por portal, tiempos de respuesta y leads generados.
+
+### ¿Puedo revisar las respuestas de la IA antes de enviarlas?
+Sí, la IA es opcional: puede sugerir la respuesta y el usuario decide revisarla y enviarla manualmente, o dejar que responda de forma automática.
+
+### ¿Cuánto tiempo se tarda en implementarlo?
+El proceso está diseñado para "de cero a contestar en la misma semana", sin migraciones eternas ni semanas de formación, en 4 pasos: contacto inicial (se recogen los portales y el CRM utilizados, dando de alta la cuenta en 24 horas), conexión de los portales (se enlazan de forma segura las cuentas de Coches.net, Wallapop y Milanuncios), configuración de la IA (ajustando el tono, las respuestas base y los datos a capturar de cada lead), y por último la venta (los leads cualificados entran en el CRM y el equipo se dedica a cerrar en lugar de perseguir mensajes).
+
+### ¿Cómo puedo solicitar una demo?
+A través del botón "Solicitar demo", donde se muestra cómo Motor-Chat responde los chats de portales y alimenta el CRM de leads desde el primer día.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne) y WhatsApp Business, entre otros.
+
+---
+
+## Motorflash IA
+### ¿Qué es Motorflash IA?
+Es el conjunto de soluciones de inteligencia artificial aplicadas de Motorflash: tres asistentes conversacionales (WhatsApp IA, WebChat IA y Voz IA) que atienden a los clientes 24/7 en su canal preferido, junto con un sistema de Quality Monitoring que transcribe, analiza y puntúa todas las llamadas del equipo comercial. Todo está integrado con el DMS, el CRM, Dealer, Multipublicador, Contact Center y las webs del concesionario.
+
+### ¿Qué papel juega Motorflash en este ecosistema de IA?
+Actúan como integrador, consultor y arquitecto de IA: conectan los modelos de inteligencia artificial (síntesis de voz, OpenAI, Gemini, Anthropic) con el canal adecuado (llamada, WhatsApp, email) y con los procesos de negocio del concesionario (vehículos nuevos, vehículos de ocasión, postventa, taller, renting, alquiler), de forma que cada conversación termina registrada en el CRM con todo el contexto. El ecosistema incluye Voz IA, WhatsApp IA, WebChat IA, Copilot, Quality Monitoring y un asistente de contenidos web, integrados con los sistemas de gestión del concesionario (DMS, CRM4YOU, Dealer, Multipublicador, Contact Center, Webs e integraciones API).
+
+### ¿Qué asistentes de IA ofrece Motorflash?
+Tres asistentes que comparten "el mismo cerebro de IA" pero operan en distintos canales, pudiendo funcionar por separado o como un único asistente que traspasa el contexto entre ellos:
+
+- **WhatsApp IA:** conversa sobre el canal que el cliente ya usa. Su flujo es: el cliente escribe → la IA responde → se genera una cita o seguimiento. Destaca por ser un canal directo y familiar sin barreras ni descargas, con conversación libre y disponible 24/7, personalización real (recuerda el contexto y aprende de cada conversación) y mayor conversión. Al no depender de que el cliente esté navegando en un momento concreto, permite retomar la conversación incluso días después de la primera interacción (por ejemplo, para enviar un recordatorio, compartir fotos o hacer seguimiento a un presupuesto), y entiende preguntas libres fuera de guion (por ejemplo, "¿Tenéis SUV híbridos con entrega inmediata?"), lo que hace que el cliente sienta que habla con una persona real y no con un formulario.
+- **WebChat IA:** capta y conversa con el usuario mientras navega por la web. Su flujo es: el usuario entra → hace clic en el botón del chat → se genera un formulario o cita. Está integrado en la web, permite interacción por texto o voz según prefiera el usuario, se adapta a cada usuario de forma natural, y puede integrarse con otros sistemas para consultar y gestionar datos externos. Al depender de la sesión de navegación, si el usuario cierra la pestaña la conversación se pierde y hay que volver a atraerlo; y al seguir un flujo más guiado, una duda totalmente fuera de guion puede no resolverse tan bien como en WhatsApp.
+- **Voz IA:** un asistente telefónico inteligente que atiende las llamadas. Su flujo es: el cliente llama → la IA responde → se agenda una cita y se envía la información al CRM. Atiende sin esperas, ofrece comunicación inmediata y personalizada, es ideal para concertar citas, resolver dudas rápidas o completar procesos iniciados por chat, e integra análisis, transcripción y puntuación automática de la llamada.
+
+### ¿Cómo se comparan estos 3 canales entre sí?
+*(Puntos de comparación útiles como argumentario, más allá de la descripción neutral de cada canal.)*
+
+WhatsApp IA suele salir mejor posicionado frente a WebChat IA en varios frentes: en accesibilidad (el cliente ya tiene la app instalada, no necesita entrar en la web ni descargar nada), en flexibilidad conversacional (admite preguntas libres, mientras que un webchat tiende a bloquearse fuera de su guion predefinido), en continuidad de la relación (se puede retomar la conversación días después, mientras que en un webchat la relación termina en cuanto el usuario cierra la pestaña) y en coste de oportunidad (no se pierde el lead por "abandono de página", algo que sí ocurre si el usuario simplemente cierra la web). Dicho esto, ambos canales están pensados para complementarse: el Webchat capta al usuario mientras navega activamente la web, y el WhatsApp permite seguir la relación una vez que la sesión de navegación ya terminó.
+
+### ¿Qué es el Quality Monitoring?
+Es un sistema que actúa "como lo haría tu mejor responsable comercial si pudiera escuchar todas las llamadas": transcribe, analiza, categoriza y puntúa automáticamente cada llamada para identificar qué funciona y qué hay que entrenar. Incluye transcripción automática de todas las llamadas de los asesores (disponible para revisión y análisis), análisis de puntos clave (detección automática de saludos, identificación del cliente, oferta presentada, objeciones y cierre), categorización por interés (cada conversación se etiqueta como caliente, templada o fría según el interés real del cliente), y puntuación automática (cada llamada recibe un score basado en KPIs comerciales).
+
+### ¿Qué tipo de alertas puedo recibir?
+El sistema envía avisos automáticos cuando ocurre algo relevante o se cumplen ciertas condiciones sobre las métricas, sin tener que entrar al panel a buscarlas. Algunos ejemplos mencionados son: una llamada con un cliente de scoring alto que se ha quedado sin seguimiento, un agente con una tasa de transferencia por debajo del KPI establecido, un mensaje de WhatsApp sin responder durante más de N minutos en horario laboral, o un pico de leads que supera la capacidad del equipo.
+
+### ¿Con qué modelos de IA trabaja Motorflash?
+La página menciona el uso de síntesis de voz y modelos de OpenAI, Gemini (Google) y Anthropic dentro de su ecosistema de inteligencia artificial.
+
+### ¿Cómo puedo probar cada asistente?
+Cada uno de los tres asistentes (WhatsApp IA, WebChat IA y Voz IA) tiene su propio botón "Pruébame", que enlaza al formulario de contacto con el módulo correspondiente preseleccionado (`/contacto?servicio=ia&modulo=whatsapp`, `webchat` o `voz`).
+
+### ¿Cómo puedo solicitar una demo personalizada?
+A través del botón "Solicitar Demo" o "Solicitar Demo Personalizada". En la demo se muestra un caso real adaptado al nicho del negocio (vehículo nuevo, vehículo de ocasión, taller, renting, etc.) y se conecta uno de los asistentes a una llamada o WhatsApp en vivo, para que el propio cliente valore si su cliente final hablaría con esa IA.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, se integra de forma nativa con el resto del ecosistema Motorflash: Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business y Motor-Chat.
+
+---
+
+## Fleet Manager
+
+### ¿Qué es Fleet Manager?
+Es un servicio que genera y envía vídeos comerciales personalizados con inteligencia artificial a cada cliente cuyo contrato de renting está próximo a finalizar. Cada cliente recibe un vídeo único con su nombre, su coche actual y hasta 5 propuestas reales para renovar, cambiar o quedarse con el vehículo, permitiendo cerrar ventas sin trabajo manual por parte del equipo comercial.
+
+### ¿Qué problema resuelve?
+Cada año, muchos clientes terminan su contrato de renting sin renovar porque no reciben una propuesta personalizada a tiempo: el equipo comercial no llega a todos y los emails masivos suelen ignorarse. Fleet Manager automatiza ese momento crítico, contactando al 100 % de la cartera con un vídeo personalizado justo antes de la fecha de fin de contrato, evitando que la competencia se adelante.
+
+### ¿Qué cifras destaca el servicio?
+Contacta al 100 % de la cartera con vídeo personalizado, multiplica por 5 la tasa de respuesta frente al email comercial tradicional, requiere 0 trabajo manual de creación (la IA genera todo el contenido), y ofrece un modelo 100 % white-label (el cliente ve la marca del concesionario, no la de Motorflash).
+
+### ¿Cómo es el vídeo que recibe cada cliente?
+Es una pieza personalizada que saluda al cliente por su nombre, muestra su coche actual y su cuota, y presenta hasta 5 propuestas reales (por ejemplo: renovar con un modelo nuevo, renovar con menos kilómetros o años, comprar el coche al contado o financiado, entre otras). El cliente puede responder con un solo clic sobre la opción que le interesa, o indicar que quiere devolver el vehículo o que no le interesa ninguna opción.
+
+### ¿Qué funcionalidades principales incluye?
+- **Voz IA natural en español:** voces seleccionables y ajustables por organización (con tecnología de ElevenLabs), con tono personalizable según la marca, desde sobrio hasta cercano y dinámico.
+- **Hasta 5 propuestas reales por cliente:** renovar con el mismo modelo, cambiar a otro modelo de la marca, subir de gama, renovar con condiciones reducidas, o comprar el coche al contado o financiado; las define el concesionario y la IA las personaliza para cada cliente.
+- **Botones de respuesta con un clic:** sin formularios ni llamadas previas para saber qué quiere el cliente.
+- **Branding 100 % white-label:** logo, colores corporativos y dominio propios; el cliente no ve la marca "MotorFlash" en ningún momento.
+- **Multi-canal:** el vídeo se envía por email, por WhatsApp o por ambos, según las preferencias del cliente.
+- **Multi-tenant y RGPD:** cada organización tiene su espacio aislado, con los datos del cliente alojados en servidores europeos y cumplimiento RGPD garantizado.
+
+### ¿Sirve para varios concesionarios o marcas a la vez?
+Sí, es multi-organización: si el cliente tiene varios concesionarios o brokers, cada uno puede tener su propio branding y configuración dentro de la misma plataforma.
+
+### ¿Cómo es el proceso, de la cartera de clientes a la venta cerrada?
+Consta de 4 pasos: importar la cartera (subiendo un Excel con los clientes y rentings activos, o conectando el ERP por API REST, incluyendo datos del cliente, del vehículo y las fechas de fin de contrato); configurar las propuestas (definiendo hasta 5 ofertas concretas con cuota, modelo y fotos para cada cliente o tipo de cliente); envío automático del vídeo (el sistema genera la voz IA y compone el vídeo con el branding del concesionario cuando faltan los días indicados para el fin de contrato, enviándolo por email y/o WhatsApp sin intervención del equipo); y cierre de la venta (el cliente responde con un clic y el comercial recibe al instante un email y una notificación en el CRM con la opción elegida y los datos del cliente).
+
+### ¿Fleet Manager solo sirve para el fin del contrato de renting?
+No, también incluye un motor de campañas para todo el año, con vídeos personalizados que se disparan automáticamente. Incluye: campañas estacionales (por ejemplo, neumáticos de invierno, revisión de ITV, cambio de aceite o renovación del seguro, enviadas en la fecha justa para cada cliente), campañas de fecha fija (como Black Friday, lanzamiento de un modelo nuevo o fin de año fiscal, definiendo fecha y audiencia), campañas por audiencia (dirigidas a una base de datos concreta, como clientes de cierta marca, cuota o antigüedad), e integración con el CRM/ERP mediante API REST y webhooks para sincronizar la cartera y disparar campañas.
+
+### ¿Qué métricas puedo consultar?
+Un panel de administración muestra en tiempo real los envíos, entregas, aperturas, clics, visualizaciones y respuestas por período. Incluye KPIs por rango de fechas (vídeos generados, emails abiertos, respuestas, rebotes), el embudo de conversión completo (enviado → entregado → abierto → clic → visualizado → respuesta), y una vista de todos los vídeos generados con su estado, canal, cliente y vehículo.
+
+### ¿Cómo puedo probar el servicio?
+A través del botón "Solicitar información" o "Solicitar Fleet Manager". Se ofrece una demo de 30 minutos en la que se genera un vídeo real con un caso de la propia cartera del cliente (con su autorización), se muestra el panel de respuestas y métricas, la integración con el sistema actual y un cálculo de ROI estimado. El servicio se ofrece en modalidad SaaS sin permanencia, con un plan piloto para validar antes de decidir.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business, Motor-Chat, Motorflash IA y Servicios Web.
+
+---
+
+## Lead Motorflash.com
+
+### ¿Qué es el servicio Lead Motorflash.com?
+Es un servicio de captación de leads con intención de compra real, generados a partir del tráfico orgánico del portal Motorflash.com y de la mayor base de stock e inventario del mercado. Se ofrece en dos modalidades: leads cualificados por un sistema de scoring, o prospects sin cualificar para que el equipo comercial los cualifique internamente. No hay coste de inversión publicitaria: solo se paga por los leads recibidos.
+
+### ¿De dónde proceden los leads?
+De dos fuentes de tráfico complementarias: el SEO orgánico cualificado (posicionamiento por marca y modelo, como Audi A4, Q3 o Q5, y por búsquedas con intención de compra, como "Citroen ocasión Madrid"), y el propio portal Motorflash, que cuenta con la mayor base de stock e inventario del mercado y tráfico orgánico especializado en automoción. El objetivo es que el usuario llegue ya buscando comprar, no navegando por curiosidad. En cifras: más de 70.000 vehículos publicados en el portal, más de 17.000 concesionarios trabajando con Motorflash.com, y 120.000 visitas orgánicas mensuales al portal.
+
+### ¿Cómo se capta exactamente el lead "Exclusive"?
+Nace del tráfico orgánico del portal Motorflash.com. El usuario puede filtrar por "Solo Exclusive" para ver únicamente el inventario premium de un concesionario, sin competir con clasificados de terceros, y contactar directamente desde la ficha del vehículo por WhatsApp, teléfono o formulario.
+
+### ¿Qué diferencia hay entre un lead "Cualificado" y un "Prospect"?
+El lead **Cualificado** está filtrado por el sistema de scoring propio de Motorflash: solo se entregan los leads que superan el umbral mínimo de cualificación, ofreciendo máxima calidad al equipo comercial. El **Prospect (sin cualificar)** proviene del mismo origen de tráfico pero sin el filtro de scoring, lo que da mayor volumen a cambio de que la cualificación final corra a cargo del equipo comercial del concesionario; en ambos casos se entregan sin duplicados ni repetidos.
+
+### ¿Cómo funciona el modelo de pago?
+No hay inversión publicitaria: no se paga por clics ni por campañas, solo por los leads efectivamente recibidos. Es un modelo escalable según la capacidad de gestión del equipo comercial.
+
+### ¿Qué información incluye cada lead entregado?
+Cada prospect llega con nombre, teléfono, email, el vehículo de interés (marca y modelo), la intención de compra (plazo y urgencia) y la ubicación (provincia y ciudad). Además, solo el 70 % de los leads generados supera el filtro inicial de calidad; solo se entregan los que resultan prospects válidos. La inmediatez del contacto es clave: el lead se envía al momento para maximizar la conversión con la información más caliente posible.
+
+### ¿Cómo funciona el sistema de scoring?
+Se basa en 6 variables ponderadas:
+- **Intención de compra:** menos de 1 mes, entre 1 y 3 meses, o más de 3 meses.
+- **Encaje del vehículo:** en una escala de 1 a 5 según cómo se ajusta el modelo buscado al stock del concesionario.
+- **Confirmación de ubicación:** provincia y ciudad, para confirmar que el comprador puede desplazarse al punto de venta.
+- **Interés en visitar:** disponibilidad real para acudir al concesionario, filtrando a quienes solo están explorando.
+- **Vehículo a cambio:** posibilidad de entregar su coche actual como parte del pago, generando una doble oportunidad (tasación de VO más venta de VN).
+- **Forma de pago:** financiado, al contado o por definir, aportando contexto sobre la capacidad y velocidad de cierre.
+
+### ¿Qué recibe exactamente el equipo comercial por cada lead?
+El lead llega con 3 bloques de información: datos personales del comprador potencial (nombre, teléfono, email, provincia y código postal), datos del vehículo por el que se ha interesado (marca, modelo, matrícula, bastidor, kilómetros, precio y días publicado), y el scoring de cualificación (una puntuación de 0 a 100 representada con un velocímetro, junto con el detalle de las 6 respuestas del cliente). Así, el comercial puede llamar sabiendo exactamente qué le interesa al cliente y con qué probabilidad de cierre.
+
+### ¿Hay resultados reales de algún concesionario?
+Sí, se presenta un caso real: con 230 coches publicados en el inventario activo del portal, el canal Exclusive generó 92 prospectos, de los cuales 22 leads superaron el umbral de scoring (con una puntuación media de 55/100), resultando en 2 ventas cerradas, lo que supone un ratio de conversión de lead a venta del 9 %. Se destaca que el modelo es escalable: a mayor volumen de vehículos publicados, mayor generación de leads.
+
+### ¿Cómo puedo empezar a usar este servicio?
+A través del botón "Solicitar información" o "Solicitar Lead Motorflash.com", donde el equipo comercial de Motorflash ayuda a definir la modalidad (cualificado o prospect) y el volumen adecuados para cada concesionario.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí, forma parte del ecosistema Motorflash junto a Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business, Motor-Chat, Motorflash IA y Servicios Web.
+
+---
+
+## Soluciones para Fabricantes
+
+### ¿Qué es "Soluciones para Fabricantes"?
+Es una plataforma tecnológica integral pensada específicamente para fabricantes y marcas (no para concesionarios individuales), diseñada para ayudarles a coordinar su red de concesionarios, unificar la calidad de publicación de anuncios/vehículos en todos los puntos de venta, y obtener métricas consolidadas a nivel de marca (visión global de toda la red).
+
+### ¿Está ya disponible el detalle completo de este servicio?
+No. La página indica explícitamente que este servicio está marcado como "Próximamente": "Estamos preparando el detalle de este servicio". Actualmente no se publican características técnicas, precios ni casos de uso específicos, ya que el contenido detallado todavía está en preparación.
+
+### ¿Cómo puedo conocer este servicio en profundidad si aún no está publicado el detalle?
+Motorflash invita a contactar directamente con su equipo comercial para que lo presenten en persona. La página ofrece dos llamadas a la acción con este fin: "Solicitar información" y "Hablar con un especialista" (mismo enlace de contacto).
+
+### ¿A quién va dirigido este servicio?
+A fabricantes y marcas del sector motor que gestionan o supervisan una red de concesionarios, a diferencia de otros servicios de Motorflash orientados al concesionario individual.
+
+### ¿Se puede combinar con otros servicios de Motorflash?
+Sí. Al ser parte del ecosistema Motorflash, puede combinarse con el resto de soluciones, entre ellas: Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business, Motor-Chat, Motorflash IA y Servicios Web.
+
+---
+
+## Apex by Motorflash Solutions
+
+### ¿Qué es Apex by Motorflash Solutions?
+Apex es un CRM "todo en uno" para concesionarios que centraliza inventario, leads y multipublicación en una sola plataforma. Su lema es "Vende más. Gestiona menos." Permite ir del lead al contrato sin salir de la herramienta, con multiposting en +16 portales. Ofrece alta operativa en 24 horas y sin permanencia obligatoria.
+
+### ¿En qué se estructura la plataforma?
+En tres pilares conectados, sin tecleo doble ni copiar y pegar entre herramientas:
+- **Inventario** – Stock vivo, precios, fotos y fichas técnicas.
+- **Comunicación** – Todos los leads y mensajes en un solo buzón.
+- **Operación** – Del lead al contrato sin salir de la herramienta.
+
+Además, destaca el dato de 24 h de alta operativa, sin permanencia obligatoria.
+
+### ¿Qué incluye la gestión de inventario y venta?
+- Alta de vehículos por matrícula o VIN, con ficha técnica autocompletada.
+- Multipublicación a +16 portales en un solo clic.
+- Histórico de ventas y precio de mercado integrados.
+- Factura electrónica (Régimen General y REBU) y contrato con firma digital incluidos.
+
+### ¿Cómo es el proceso completo, de la matrícula al contrato firmado?
+1. **Matrícula** – Se teclea la matrícula o el bastidor; Apex trae automáticamente la ficha técnica, equipamiento de serie y extras.
+2. **Stock vivo** – Se suben fotos y se ajusta el precio; el vehículo queda listo para publicar en inventario.
+3. **+16 portales** – Multipublicación en Facilitea, Wallapop, Coches.net, Motorflash, Tikcars y más, con un solo botón.
+4. **Inbox** – Mensajes, leads y llamadas de todos los portales llegan a una única bandeja, con pipeline Kanban.
+5. **Cierre** – Cita, contrato firmado digitalmente y factura electrónica, todo sin salir de Apex.
+
+### Funcionalidades
+
+#### ¿Qué áreas funcionales principales integra Apex?
+Cuatro áreas conectadas entre sí, donde los datos no salen de la plataforma:
+- **Inventario** – Stock, multipublicación a +16 portales, histórico de ventas, tasaciones con valoración automática y alta por matrícula o VIN con ficha técnica autocompletada.
+- **Leads y Chat** – Inbox unificado, pipeline Kanban, Chat Center con Wallapop y Coches.net integrados, captación en Wallapop, ofertas comerciales y campañas con seguimiento.
+- **Venta** – Gestión de clientes (personas físicas y jurídicas), calendario integrado de citas, contratos de compraventa con firma digital, factura electrónica (Régimen General y REBU) y sitio web del concesionario incluido.
+- **Operación** – Multiubicaciones para grupos con varias sedes, multisociedades (multi-CIF), reportes con KPIs fiscales y de stock, auditoría (quién hizo qué y cuándo) y usuarios con permisos granulares.
+
+#### ¿En qué portales publica Apex?
+Coches.net, Wallapop, AutoScout24, Coches.com, Autocasión, Carwow, Carnovo, Motorflash, Motos.net, km77, Motor.es, Tikcars, Motoreto, Maxterauto, Gremi Motor y Facilitea, entre otros. El stock se sincroniza en tiempo real: si un vehículo se vende en Apex, se retira automáticamente de todos los portales.
+
+#### ¿Qué es el Chat Center?
+Es la función que unifica las conversaciones de Wallapop y Coches.net en un chat integrado, de forma que un solo agente puede atender todos los canales en paralelo.
+
+### Grupos y seguridad
+
+#### ¿Apex está pensado para grupos con varias sociedades o sedes?
+Sí. Está diseñado para que cada CIF, cada sede y cada equipo operen en su sitio, sin cruces de datos entre sociedades del mismo grupo:
+- **Ejemplo real citado en la página:** un grupo con Sociedad A (BMW/MINI Madrid), Sociedad B (Audi/VW Valencia) y Sociedad C (Multimarca Sevilla) opera con stock, leads y chats propios e independientes en cada sociedad.
+- Reportes consolidados a nivel de grupo con KPIs fiscales, de stock y de rendimiento comercial.
+- Account manager y SLA dedicados en el plan Enterprise, para grupos con más de 120 vehículos.
+
+#### ¿Qué garantías de seguridad y control de acceso ofrece?
+- **Multisociedades** – Operación multi-CIF: cada sociedad con su facturación, stock y leads independientes.
+- **Permisos granulares** – Por ejemplo, un comercial de Madrid solo ve sus propios leads y su stock.
+- **Credenciales cifradas** – Cada cuenta de portal tiene sus propias claves, almacenadas con cifrado.
+- **Auditoría completa** – Registro de quién hizo qué, cuándo y sobre qué registro.
+
+### Contratación
+
+#### ¿Cómo se puede probar o solicitar Apex?
+Motorflash ofrece una demo de 30 minutos sobre el stock real del concesionario: cuentan la operativa actual y muestran cómo quedaría en Apex con el propio inventario, sin compromiso ni instalaciones. Contacto directo del equipo de Apex: email contacto@apexcrm.es, web apexcrm.es, teléfono +34 655 85 25 70. También se puede solicitar información desde los botones "Solicitar información" / "Solicitar Apex by Motorflash Solutions".
+
+#### ¿Apex tiene permanencia obligatoria?
+No. La plataforma se presenta explícitamente como de alta en 24 h y sin permanencia.
+
+#### ¿Se puede combinar con otros servicios de Motorflash?
+Sí. Apex forma parte del ecosistema Motorflash y puede combinarse con Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business, Motor-Chat, Motorflash IA y Servicios Web.
+
+---
+
+## Marketing Digital (SEO/SEA)
+
+### ¿Qué es el servicio de Marketing Digital de Motorflash?
+Es un servicio de estrategias digitales para vender más coches, cuyo objetivo es impulsar la visibilidad del concesionario, conectar con los clientes y aumentar las ventas online. Motorflash combina experiencia en marketing, análisis y tecnología para diseñar acciones personalizadas en SEO/GEO, SEA y Social Ads, siempre orientadas a la venta. Solo trabajan para el sector de la automoción, con equipos diferenciados para SEO/GEO, SEA, Redes Sociales y Analítica Digital.
+
+### ¿Por qué es diferente a una agencia de marketing genérica?
+Porque está especializada en el sector de la automoción: conoce las necesidades y particularidades del mercado del motor, lo que permite diseñar estrategias digitales adaptadas a cada concesionario o empresa de compraventa. Además, el equipo trabaja pegado al equipo comercial del cliente, ajustando las campañas según el funnel real del concesionario, en lugar de aplicar soluciones genéricas. Respaldan esto 14 años gestionando SEO/SEA/Redes Sociales para más de 40 clientes entre marcas, concesionarios, compra-ventas y empresas de renting.
+
+### ¿Cómo está organizado el equipo de Marketing Digital?
+En tres equipos especializados: un equipo experto en GEO (el nuevo SEO: visibilidad en Google y en buscadores de IA), un equipo dedicado exclusivamente a SEA, y un equipo centrado en Social Ads. Desarrollan y analizan campañas en GEO, SEA y redes sociales de forma continua, optimizando cada acción para maximizar el rendimiento y generar más oportunidades de venta.
+
+### Canales
+
+#### ¿Qué es el GEO y por qué sustituye al SEO tradicional?
+El GEO (Generative Engine Optimization) es la evolución del SEO. Incluye todo lo del SEO técnico de siempre (arquitectura, contenido, autoridad) y añade la optimización para motores de IA generativa como Google AI Overviews, ChatGPT, Perplexity y Gemini. El objetivo es que la marca aparezca tanto cuando un comprador busca en Google como cuando le pregunta directamente a una IA por concesionarios.
+
+#### ¿Qué incluye la estrategia de SEA (Google Ads)?
+Motorflash trabaja con las últimas incorporaciones de Google Ads específicas para automoción: Vehicle Ads (anuncios de vehículos en Google Search y Google Maps), conversiones offline (para medir ventas reales ocurridas en el concesionario, no solo clics online), Business Agent for leads, y todas las novedades que Google va lanzando para el sector, que Motorflash prueba y despliega desde el día 1, sin esperar a que se estabilicen.
+
+#### ¿Qué incluye la estrategia de Social Ads?
+Prospección en Meta y TikTok, con creatividades ajustadas al sector motor, targeting sectorial y medición de la conversión real hasta el cierre de venta. Su objetivo es llegar a compradores que aún no buscan activamente al concesionario.
+
+#### ¿Hay algún ejemplo de Google Ads en funcionamiento?
+Sí, la página incluye una sección "SEA en acción" con un vídeo demostrativo que muestra, a modo ilustrativo, cómo funciona una campaña de Google Ads para automoción (Vehicle Ads, conversiones offline y novedades desplegadas), bajo el mensaje: "Míralo funcionando antes de decidir."
+
+### Medición y estrategia
+
+#### ¿Cómo se mide el rendimiento de las campañas?
+A través de un panel claro y visual donde se visualizan los datos más importantes de las campañas, permitiendo evaluar el impacto de cada acción y tomar decisiones basadas en resultados reales (no en métricas de vanidad).
+
+#### ¿Qué diferencia hay entre "tráfico que te busca" y "tráfico que te descubre"?
+Motorflash combina ambos tipos de tráfico para maximizar resultados a corto y largo plazo:
+- **GEO / SEA** – clientes que ya buscan activamente la marca o los vehículos en Google, o le preguntan directamente a la IA. Ofrece conversión inmediata en cualquier motor de búsqueda. Es el tráfico más valioso porque responde a búsquedas ya interesadas, y aporta leads inmediatos.
+- **Social Ads** – prospectos que aún no conocen la marca. Ofrece conversión a medio plazo y a menor coste. Amplía la cobertura a un coste más bajo (redes sociales, campañas gráficas, enlaces, emailings),
+
+Puntos clave adicionales de esta estrategia combinada: SEA a la vanguardia (Vehicle Ads, conversiones offline y Business Agent for leads, con todas las novedades de Google desde el día 1), seguimiento del funnel completo (visita → lead → llamada → venta), reporting mensual con métricas reales de negocio (no de vanidad), y optimización continua basada en datos, no en suposiciones.
+
+Resumen de canales y su valor: tráfico orgánico GEO (Google + buscadores de IA, sin coste por clic), campañas SEA con Google Ads (Vehicle Ads, conversiones offline, Business Agent), Social Ads Meta/TikTok (prospección a menor coste) y reporting en tiempo real (métricas de negocio, no de vanidad).
+
+### Contratación
+
+#### ¿Cómo es el proceso de trabajo, paso a paso?
+1. **Auditoría gratuita** – Se analiza la web, el tráfico actual, la competencia y las oportunidades de mejora, sin coste ni compromiso.
+2. **Plan de acción** – Se diseña una estrategia personalizada con objetivos medibles, canales prioritarios y presupuesto recomendado.
+3. **Ejecución y reporting** – Se implementa, mide y optimiza continuamente, con informe mensual de resultados reales.
+
+#### ¿Cómo puedo solicitar este servicio?
+A través del botón "Solicitar información" / "Solicitar Marketing Digital". La propia página invita a solicitar una auditoría gratuita si la web del concesionario no está generando suficientes leads, para identificar exactamente qué está fallando y cómo solucionarlo.
+
+#### ¿Se puede combinar con otros servicios de Motorflash?
+Sí. Marketing Digital forma parte del ecosistema Motorflash y puede combinarse con Dealer + Multipublicación, CRM4YOU, Contact Center, Photocall IA (Spyne), WhatsApp Business, Motor-Chat, Motorflash IA y Servicios Web.
+
+---
+
+## Servicios Web
+
+### ¿Qué es el servicio de "Servicios Web" de Motorflash?
+Es un servicio de creación de webs y marketplaces de automoción, entregadas en 30 días, con toda la infraestructura y las integraciones de Motorflash de fábrica: SEO, analítica, CMS, pasarela de pago, calculadora financiera, CRM y Contact Center integrados. Incluye infraestructura con disponibilidad del 99,9 %, SSL, WAF y protección anti-DDoS. Motorflash ofrece también una consultoría gratuita de tu web actual antes de decidir.
+
+### ¿Cuándo conviene contratar este servicio?
+Cuando el concesionario no tiene web o la tiene anticuada, cuando la web no funciona bien técnicamente, cuando no convierte adecuadamente en leads, o cuando simplemente no cumple ya con las expectativas del negocio.
+
+### ¿Cuántos niveles o productos ofrece y para quién es cada uno?
+Existen 3 niveles ("tiers"), pensados para que el cliente entre por donde le convenga y crezca cuando quiera. Todos comparten el mismo equipo, la misma infraestructura y las mismas integraciones:
+
+**Platinum (recomendado) – Web de concesionario completa**
+Ideal para grupos y concesionarios oficiales con VO, VN, renting y postventa que quieren su web insignia sobre la infraestructura de Motorflash. Incluye: todos los departamentos (VO, VN, renting, postventa, contenidos corporativos, tasador de vehículos), multi-marca/multi-mundo (por ejemplo, Audi, VW…), publicación de stock VO y VN mediante tres vías (importación desde el DMS, creación desde el propio Dealer de Motorflash, o importación masiva vía feed de datos XML, cruzando varias bases de datos para completar al máximo la información de cada vehículo), fichas premium con vídeos, pasarelas de pago y calculadora financiera, CMS autogestionable (landings, banners, formularios), integraciones nativas (CRM4YOU, MF Message, Gestor de Leads), posibilidad de desarrollos a medida (configurador de VN, reserva online, módulo de tasación), dashboard de KPIs en tiempo real, y SEO inicial, GA4, formación CMS (3 h), mantenimiento y alojamiento incluidos.
+
+**Silver – Integra tu stock en cualquier web**
+Ideal para concesionarios con web propia que quieren un buscador de stock potente y con conversión, embebido sin rehacer nada. Incluye: URL con listado de stock para integrar en la web actual, buscador, comparativa y favoritos, fichas con fotos, vídeos, características y CTAs, TPV Virtual (Paypal, Addon Payment, Redsys, Rapid Pay), calculadora financiera (precio financiado y cuota), integraciones Motorflash (CRM4YOU, MF Message, Gestor de Leads), adaptable a la tipografía y estilos de la web del cliente (cabecera y pie ajustados a la identidad corporativa), y upgrade a Platinum disponible cuando se quiera.
+
+**Única – Web práctica para empezar**
+Ideal para concesionarios que necesitan estar online rápido, con lo esencial para captar leads sin complicarse. Entrega inmediata. Incluye: home + listados + fichas estándar, cita de taller y tasación de vehículos, ubicaciones y horarios, sección "Quiénes somos", aviso legal, privacidad y cookies, conversión (contacto general, lead desde ficha, cita taller, tasación), vinculable a CRM4YOU o a un CRM externo (email/JSONLEAD). Sin pasarela de pago, alerta de búsqueda ni renting. Permanencia corta, ideal para arrancar.
+
+### Integraciones y comparativa
+
+#### ¿Con qué otras herramientas de Motorflash se integra la web?
+La web no funciona de forma aislada, sino conectada a todo el ecosistema: los leads llegan al CRM, las llamadas al Contact Center y los chats a MF Message, sin necesidad de integradores ni proyectos a medida:
+- **Contact Center** – Atención multicanal especializada en automoción, RGPD, dashboard en tiempo real.
+- **Dealer** – Creación de vehículos desde matrícula/bastidor, análisis de precios, papelería (percha, oferta, pedido).
+- **CRM4YOU** – Gestión de clientes, comunicación, control de actividad comercial, KPIs.
+- **MF Message** – WhatsApp Business: gestión de campañas, RGPD, dashboard.
+- **CHATWEB MF** – Chat en directo + bot automático, con posibilidad de IA conversacional.
+
+#### ¿Qué APIs y desarrollos a medida están disponibles en el nivel Platinum?
+Platinum admite integraciones adicionales vía API para necesidades específicas: API de Cita Taller (Quiter), API de Calculadora de Seguros, y API de Garantías externas. También se pueden desarrollar módulos a medida como un configurador de VN, reserva online, o un módulo de tasación propio. Toda la web está además optimizada en su UX/UI específicamente para maximizar la generación de leads.
+
+### ¿Qué diferencias exactas hay entre Platinum, Silver y Única? (tabla comparativa completa)
+
+**Secciones web**
+- Varios mundos/marcas (General, Audi, VW...): Platinum ✔ / Silver ✔ / Única —
+- Home: Platinum ✔ / Silver ✔ / Única —
+- Listados de stock: Platinum ✔ / Silver ✔ / Única ✔
+- Ficha estándar: Platinum ✔ / Silver ✔ / Única ✔
+- Ficha premium (vídeos + pasarelas de pago + financiera): Platinum ✔ / Silver ✔ / Única —
+- Sección renting/alquiler: Platinum ✔ / Silver — / Única —
+- Servicio postventa: Platinum ✔ / Silver — / Única —
+
+**Conversión**
+- Reserva/compra (pasarela de pago): Platinum ✔ / Silver ✔ / Única —
+- Cita taller: Platinum ✔ / Silver — / Única ✔
+- Tasación: Platinum ✔ / Silver ✔ / Única ✔
+- Alerta de búsqueda: Platinum ✔ / Silver — / Única —
+- Calculadora de neumáticos: Platinum ✔ / Silver — / Única —
+- Renting/alquiler: Platinum ✔ / Silver — / Única —
+- "Trabaja con nosotros": Platinum ✔ / Silver — / Única —
+
+**CMS autogestionable**
+- Modificación de páginas iniciales: Platinum ✔ / Silver — / Única —
+- Creación de páginas, blogs, landings: Platinum ✔ / Silver — / Única —
+- Creación de formularios y pop-ups: Platinum ✔ / Silver — / Única —
+- Migración de contenidos: Platinum Opc. / Silver — / Única —
+
+**CRM y leads**
+- Vinculable a CRM4YOU: Platinum ✔ / Silver ✔ / Única ✔
+- Vinculable a CRM externo (email / JSONLEAD): Opcional en los 3 niveles.
+- Gestor de Leads (Contact Center): Opcional en los 3 niveles.
+- CHATWEB MF: Opcional en Platinum y Silver; no disponible en Única.
+
+**Analítica y marketing**
+- Set up inicial SEO: Platinum ✔ / Silver Opc. / Única —
+- Migración SEO: Opcional en los 3 niveles.
+- GTM / GA4 (eventos de conversión): Platinum ✔ / Silver Opc. / Única —
+- Configuración Google Ads: Opcional en Platinum y Silver.
+- Configuración Meta (píxel + eventos): Opcional en Platinum y Silver.
+- Implementación de Consent Mode: Opcional en Platinum y Silver.
+- Dashboard de seguimiento: Opcional en Platinum y Silver.
+- Mejora continua SEO (mensual): Opcional en Platinum y Silver.
+- Campañas SEA / Meta: Opcional en Platinum y Silver.
+
+**Nota:** "Opc." significa funcionalidad opcional, valorada aparte por el equipo de Motorflash. CRM4YOU requiere su propia contratación independiente.
+
+### ¿Cómo se compara Motorflash frente a otros proveedores de webs?
+Motorflash destaca 11 funcionalidades que incluye de fábrica y que la competencia habitualmente no ofrece: CMS (gestor de contenidos), gestión del listado de stock, base de datos Eurotax y Jato unificadas, look & feel adaptado al guideline de marca, stock automático sincronizado con el fabricante, posibilidad de añadir desarrollos personalizados, optimización inicial de SEO, configuración inicial de Google Analytics, calculadora financiera (contado/financiado/cuota), formulario de "coche a cambio", y disponibilidad en segundo idioma (catalán).
+
+### Proceso e infraestructura
+
+#### ¿Cuánto tarda el proyecto y cómo es el proceso, de la firma a la producción?
+El proceso completo dura 30 días, con un plan de trabajo claro, reportes semanales, briefings antes de cada hito y un único interlocutor desde el kickoff hasta la subida a producción:
+- **Día 1** – Firma de contrato + briefing kickoff.
+- **Día 5** – Documento de configuración y toma de datos.
+- **Día 10** – Puesta en marcha en desarrollo.
+- **Día 18** – Revisión y pruebas internas.
+- **Día 22** – Entrega "Pruebas" para revisión del cliente.
+- **Día 25** – Formación CMS · Configuración de GA y SEO.
+- **Día 30** – Briefing y subida a producción.
+
+#### ¿Qué infraestructura de disponibilidad tiene la web?
+- **Equipo de Sistemas 24×7** – Vigilancia continua e ininterrumpida con equipo técnico interno, que actúa de forma proactiva ante cualquier incidencia.
+- **CDN propia dedicada** – Distribución de contenidos propia que garantiza la máxima velocidad desde cualquier punto.
+- **Arquitectura redundante (99,9 %)** – Servidores redundantes, balanceo de carga automático y copias de seguridad diarias.
+
+#### ¿Qué seguridad incluye la web sin coste adicional?
+SSL, anti-DDoS y WAF activos de fábrica, sin coste adicional (a diferencia de otros proveedores que los cobran aparte):
+- **SSL** – Certificado SSL incluido: HTTPS cifrado de extremo a extremo, necesario para la confianza del navegador, requisito para Google Ads y para la protección de datos del cliente.
+- **Anti-DDoS** – Protección que filtra y absorbe ataques de denegación de servicio antes de que lleguen a la web.
+- **WAF (Firewall de aplicación)** – Análisis en tiempo real de cada petición, bloqueando inyecciones de código, accesos no autorizados y vulnerabilidades.
+
+### Funcionalidades adicionales
+
+#### ¿Qué otras funcionalidades específicas incluye la web?
+Además de los módulos ya descritos, la web incorpora: sección de ofertas y promociones dedicada, un módulo de postventa con cita de taller online y calculadora de neumáticos, información general y de empresa, equipamiento de serie y opcional detallado en cada ficha, y disponibilidad en segundo idioma (catalán), además del castellano.
+
+### Contratación
+
+#### ¿Qué cifras/estadísticas destaca Motorflash sobre este servicio?
+17 años en el sector, más de 350 webs desarrolladas y más de 100 especialistas IT. Más de 300 profesionales del sector de automoción disponen ya de una web desarrollada por Motorflash.
+
+#### ¿Cómo puedo solicitar una demo o empezar el proyecto?
+A través de los botones "Solicitar Demo", "Pedir Platinum", "Pedir Silver", "Pedir Única" o "Solicitar Demo Personalizada". Motorflash también ofrece una consultoría gratuita de tu web actual. En la demo se muestra un caso real de un concesionario del mismo tamaño que el del cliente, qué tier encaja mejor y cuánto tiempo tardaría en estar operativo.
+
+---
 
 # INFORMACIÓN GENERAL DE MOTORFLASH
 
-Ubicación: C. de Basauri, 17, Edificio Oasis. Módulo B, Moncloa - Aravaca, 28023 Madrid, España
-
-Teléfono de contacto: 910784381 o 913728790
-
-Teléfono de whatsapp: +34910787259
-
-Correo electrónico de contacto: comercial@motorflash.com
-
-Horario de atención: Lunes a Viernes 9:00 - 20:00
-
-Motorflash es Partner de Google
-
-18 Años de experiencia en el sector
-
-\+ 170 especialistas en IT y gestión en el área de la automoción
-
-\+10 millones de euros de facturación en 2024
-
-\+ 300 Web desarrolladas 
-
-\+950 Licencias CRM implantadas en el primer año de la plataforma
-
-1400 clientes usan nuestra herramienta dealer 
-
-30000 vehículos de segunda mano generados al mes 
-
-40000 de coches exportados al mes a otros portales
-
-190000 llamadas al mes atendidas por nuestro Contact Center
-
-\+ 250 clientes del sector utilizan nuestra solución de Whatsapp Business API
-
-## Certificaciones
-- ISO 9001 — Gestión de calidad
-- ISO 27001 — Seguridad de la información
-
-## Principales clientes 
-IMPORTANTE: Las empresas y grupos listados a continuación son exclusivamente CLIENTES a quienes prestamos servicios. Ninguno de los siguientes nombres actúa como proveedor de nuestra compañía Motorflash.
-
-### Fabricantes NSC:
-* Volkswagen  
-* Audi  
-* BMW   
-* Abarth  
-* Peugeot  
-* Alfa romeo  
-* Volkswagen Commercial Vehicles  
-* Seat   
-* Skoda   
-* Hyundai   
-* Porsche   
-* Jaguar   
-* Opel   
-* Renault   
-* Jeep   
-* Fiat   
-* Citroen   
-* Miniaba  
-* Land Rover
-
-### Grupos:
-* Grupo Safamotor  
-* Movento   
-* BMW Group Ibérica   
-* RRG Embracing your Mobility   
-* Estellantis   
-* ProaGrup driving dreams  
-* Motor Munich  
-* Grupo RESNOVA  
-* Volkswagen Group retail España
-
-### Renting & Leasing:
-* Alphabet   
-* ALD automotive  
-* Arval BNP Paribas Group
-
-### Concesionarios:
-* CATSA   
-* Yamovil  
-* Jarmauto   
-* Telenauto   
-* Auto Elia   
-* Gyata  
-* Carhaus   
-* Autofesa   
-* Centro Wagen   
-* Sealco motor   
-* F. Tomé   
-* Canalcar  
-* BMW Motorrad BYmyCAR Madrid
-
-### Crm4you:
-* Volkswagen   
-* Quadis   
-* Santander consumer renting   
-* Flexicar   
-* Europcar   
-* Centauro
-
-# MULTIPUBLICADOR
-
-Desde una sencilla importación de datos hasta herramientas avanzadas de creación de anuncios y personalización visual, Motorflash te ofrece fiabilidad y flexibilidad en cada paso.
-
-Supervisa tu inventario con dashboards intuitivos, ajusta precios al mercado en tiempo real y publica tus vehículos en los principales portales con información enriquecida para destacar frente a la competencia.
-
-Todo, diseñado para ahorrar tiempo y maximizar resultados.
-
-## Importación
-
-Integración sencilla: Estamos conectados con la mayoría de los DMS del mercado, lo que permite importar fácilmente los datos de su stock, sin importar dónde se encuentren. Contamos con más de 150 importaciones y servicios Ad Hoc para necesidades específicas.
-
-* Nextlane  
-* Inventario.pro   
-* Keylcop   
-* MBPlus   
-* Ouiter   
-* Bee2link   
-* Incadea
-
-Importación de fotografías: Integramos con múltiples plataformas para importar automáticamente las imágenes de los vehículos y mantener el stock actualizado.
-
-* AutosOnShow  
-* Carlens 360   
-* Opti Pix   
-* Carcutter
-
-## Creación de stock
-
-Experiencia de creación de stock ajustable a sus necesitades:
-
-* Creación por parte del cliente, desde una intuitiva interfaz de creación basada en Jato. Posibilidad de crear el anuncio de manera manual o basándose en una matrícula o bastidor.  
-* Creación por parte de Motorflash: Posibilidad de delegar en nuestro equipo de expertos la creación de su anuncio. Ahorre tiempo y gane en fiabilidad con esta opción.  
-* Fiabilidad en la publicación: Con nuestro servicio de Creación Premium, y gracias a nuestras consultas por matrícula y bastidor, estamos en disposición de garantizar la correcta publicación de su stock y detallarlo con el equipamiento opcional.  
-* Carlens 360: Personalice las fotografías de sus publicaciones sin necesidad de photocall, ganando tiempo y calidad en las publicaciones.  
-* Marcas de agua: Posibilidad de complementar sus fotografías creando marcas de agua para campañas o gestionar las que ustedes nos faciliten.
-
-## Dealer
-
-Toda la información relativa a su stock resumida de manera gráfica en un intuitivo dashboard. Consulte Antigüedad de stock, días sin cambio de precio y análisis de precio de manera rápida.
-
-Precio estimado: Compare al instante el precio de sus vehículos con el de otros vehículos similares anunciados en los principales portales de compra y venta en España.
-
-Tasaciones: Reciba un precio recomendado de compra y venta de un vehículo basado en el mercado simplemente introduciendo una matrícula en nuestra herramienta de Tasación 
-
-Calcule la financiación para sus clientes con nuestras calculadoras integradas con Banco Santander, Caixa, Cetelem, etc.
-
-Genera perchas y ofertas personalizadas para sus clientes desde la ficha de cada anuncio.
-
-Integración directa con el contact center de Motorflash
-
-Control de calidad y validación de anuncios
-
-Impresión y envío de percha, oferta, pedido, historial de precios
-
-Integración de fotos y vídeos del coche
-
-Integración directa con los DMSs de los fabricantes más importantes
-
-Integraciones Ad hoc para servicios específicos: pasarelas de pago, reserva online, intranets
-
-Telecomunicaciones integradas: call tracking y mail tracking
-
-### Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- No puede crear anuncios con toda la información del equipamiento solo con la matrícula  
-- No conoce todas las variables relacionadas con la gestión de su stock  
-- Sus coches están desposicionados en precio  
-- No sabe cuántos días lleva sin cambiar el precio de sus vehículos
-
-### Pilares
-
-- CON UN CLIC: Conocerás el estado de tu stock en tiempo real
-- BÚSQUEDA DE STOCK: Segmentación de búsqueda de stock y generación de acciones comerciales
-- INFORMES: Informes personalizados y descarga en tiempo real de la información en el formato que necesites
-- Integraciones Adhoc para cualquier servicio específico: pasarelas de pago, reserva online, intranets...
-
-### Beneficios clave
-- **CONTROLA TU NEGOCIO**: Una única herramienta para controlar el stock de vehículos
-- **TERMÓMETRO DE MERCADO**: Información en tiempo real del posicionamiento económico de los vehículos en stock frente al mercado
-- **PRECIO ESTIMADO**: Análisis completo de la oferta actual VO para poder ofrecer un valor de mercado real y preciso
-- **ALTA CALIDAD DE PUBLICACIÓN**
-
-## Exportaciones
-
-Publicación del stock de manera masiva, selectiva o mixta: Usted elige qué publicaciones quiere que se exporten a cada portal, máxima flexibilidad. Tenemos pasarela con los principales portales verticales de compraventa en España.
-
-Enriquecimiento de su publicación: A diferencia de otros multipublicadores, Motorflash puede exportar sus anuncios con el equipamiento extra de cada unidad,
-
-perfectamente desglosado, desmarcándole en este aspecto de sus competidores.
-
-Control y visualización global del stock en cada portal gracias a nuestro dashboard de 
-
-exportaciones. Sepa en cada momento qué vehículo se está publicando en cada portal donde publique.
-
-\+ 1000 clientes publican diariamente
-
-\+2500 exportaciones de stock diarias
-
-Multipublicación: Motorflash cuenta con el sistema de multipublicación y exportación con mayor número de integraciones con portales del sector
-
-\- Con un clic envías tu anuncio a todos los portales, trasladando la información del vehículo con la mayor calidad y detalle
-
-### Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- Cansancio de publicar el mismo anuncio en varias plataformas  
-- Los anuncios publicados no contienen todo el equipamiento del coche (incluyendo extras)  
-- No puede publicar coches con todo su equipamiento simplemente introduciendo la matrícula
-
-### Portales de publicación
-
-Motorflash tiene el sistema de multipublicación y exportación con mayor número de integraciones con portales del sector. Con un clic envías tu anuncio a todos los portales trasladando la información con la mayor calidad y detalle. Motorflash cuenta con integración directa con los principales portales de compraventa de vehículos en España:
-
-- coches.net
-- Sumauto
-- Autocasión
-- coches.com
-- Wallapop
-- Milanuncios
-- niw.es
-- AutoScout24
-- heycar
-- todos los portales especializados y de nicho que operen por API.
-
-### Pilares
-
-Exportamos todo tu stock de forma automática con el fin de solucionar la necesidad de publicar un mismo vehículo en varias plataformas, unificando así la información en todos los portales, además de enriquecer el anuncio con las herramientas de Motorflash.
-
-1. PUBLICA UNA SOLA VEZ: Publicas una vez en tu herramienta y en Motorflash lo importamos  
-2. ANUNCIOS ENRIQUECIDOS: Enriquecemos el anuncio: marcas de agua, equipamiento de serie, equipamiento extra y el equipamiento que quieras destacar  
-3. EXPORTACIÓN A OTRAS PLATAFORMAS: Lo exportamos a todas las plataformas de clasificados con las que trabajes y a nuestro portal motorflash.com
-
-### Beneficios
-
-- **CREACIÓN**: Importación de todo el stock desde cualquier plataforma. 
-  Creación del vehículo con consulta en tiempo real a la DGT
-- **BASE DE DATOS**: Único proveedor de servicios en unificar ambas BBDD (JATO y EUROTAX)
-- **ENRIQUECIMIENTO DE DATOS**: Distintas soluciones para obtener y completar cada anuncio de la forma más adecuada
-- **CONTROL DE CALIDAD**: Posibilidad de realizar controles de calidad del anuncio y fotografías
-
-## Plan de trabajo
-
-Cada semana se divide en 7 días
-
-Semana 1:
-
-Dia 1 \- Firma de contrato
-
-Dia 2 \- Crear cuenta y tiendas
-
-Listo, puedes empezar a utilizar el Dealer
-
-Dia 3 – Importación
-
-Dia 4 \- Exportaciones
-
-Dia 3 a 7 \- Cualificación Stock (opcional)
-
-Semana 2:
-
-Dia 1 a 3 \- Cualificación Stock (opcional)
-
-# MESSAGE
-
-La solución perfecta para potenciar la relación con el cliente y proporcionar una ágil y adecuada atención en todo momento
-
-Una plataforma multiagente con la que comunicarse con los clientes potenciales, y difundir contenidos rápidamente
-
-Un sistema cuantitativo con el que valorar la calidad de los contactos realizados.
-
-MESSAGE se basa en WhatsApp Business Platform, lo que significa que utiliza la API de WhatsApp Business. Esto permite una integración más profunda y funcionalidades avanzadas que no están disponibles en la aplicación de WhatsApp Business normal, como el acceso multiagente, la automatización y la integración con CRM.
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- No ha integrado WhatsApp Business como vía de comunicación con clientes  
-- Necesita agilidad en la comunicación con clientes  
-- No puede conversar con varios clientes a la vez
-- 
-### Adopción de WhatsApp en España
-31.980.000 usuarios de WhatsApp en España (Fuente: Statista 2022). 
-Es el canal de mensajería más usado en el país.
-
-## Diferencias entre modalidades de WhatsApp
-
-### WhatsApp PARA USO PERSONAL
-
-Incluye:
-
-* Aplicación para móvil
-
-* Mensajería gratuita
-
-  No incluye:
-
-* Perfil de negocio verificado
-
-* Plantillas
-
-* Seguimiento
-
-* Automatización
-
-* Integración con CRM
-
-* Acceso múltiple  
-  (1 cuenta/varios usuarios)
-
-* Adaptado a la RGPD
-
-* Dashboard
-
-* Módulo de Campañas
-
-### WhatsApp Business App PARA AUTÓNOMOS
-
-Incluye:
-* Aplicación para móvil
-* Mensajería gratuita
-* Perfil de negocio verificado
-* Automatización light
-
-  No incluye:
-* Plantillas
-* Seguimiento de actividad comercial (Tracking)
-* Seguimiento
-* Integración con CRM
-* Acceso múltiple  
-  (1 cuenta/varios usuarios)
-* Adaptado a la RGPD
-* Dashboard
-* Módulo de Campañas
-
-### WhatsApp Business Platform PARA EMPRESAS
-
-Incluye:
-
-* Perfil de negocio verificado
-
-* Plantillas
-
-* Automatización light
-
-* Integración con CRM
-
-  No incluye:
-
-* Aplicación para móvil
-
-* Mensajería gratuita
-
-* Seguimiento
-
-* Acceso múltiple  
-  (1 cuenta/varios usuarios)
-
-* Adaptado a la RGPD
-
-* Dashboard
-
-* Módulo de Campañas
-
-### MF Message (Basado en Whatsapp Business Platform) nuestro servicio ofrecido
-
-Incluye:
-* Aplicación para móvil
-* Perfil de negocio verificado
-* Plantillas
-* Seguimiento de actividad
-* Abierto a automatización
-* Integración con CRM
-* Acceso múltiple  
-  (1 cuenta/varios usuarios)
-* Adaptable a la RGPD
-* Dashboard
-* Módulo de Campañas
-* Coexistence (Sincronización API)
-
-  No incluye:
-* Mensajería gratuita
-
-## Funcionalidades más importantes de MF Message
-
-Solución de soporte y comunicación profesional más emergente, ideal para asistencia y ventas
-
-MF Message dispone de APP para móvil
-
-Incluye:
-
-* Enrutamiento de conversaciones a grupos de respuesta  
-* Asignación por agente  
-* Etiquetado y notas  
-* Analítica  
-* Provisión de plantillas de conversación y respuestas rápidas.  
-* Compatibilidad con archivos multimedia, fotos, vídeos, audio, proporcionando todos los formatos permitidos por META.  
-* Sistema multilenguaje (actualmente en español, inglés, alemán y francés, italiano y portugués)
-* Coexistence
-
-Automatización y autogestión:
-
-* Posibilidad de automatización total o parcial mediante la inserción de BOT’s  
-* Fácil de integrar con sistemas automáticos de llamadas (IVR’s) para desviar tráfico telefónico a Whatsapp: call deflection  
-* Incluye la posibilidad de creación de respuestas rápidas.  
-* El sistema incluye facilidades de autogestión de agentes, grupos, mensajes de servicio (fuera de horario, vacaciones…)
-
-## Beneficios inmediatos para las empresas por el uso del canal Whatsapp para sus contactos
-
-MF Message te permite al conversar con tus clientes a través de WhatsApp:
-
-* Reducción de costes  
-* Control de las operaciones  
-* Cobertura del ciclo de cliente  
-* Flexibilidad de configuración  
-* Automatizable e integrable
-
-Para la mayor parte de las aplicaciones, la mayoría clientes prefieren recibir un mensaje a recibir una llamada, lo que hace de WhatsApp el canal preferido por los usuarios finales.
-
-Ventajas:
-
-- Configuración a medida: agentes, grupos  
-- Integrable con todos los CRMs del mercado  
-- Centralita de distribución de mensajes y módulo de reporting interactivo  
-- Utilización en contact center o departamentos comerciales  
-- Ficha completa de cliente  
-- Acceso directo al catálogo de productos
-
-## ¿Cómo se posiciona MF Message con otras soluciones similares?
-
-MF Message compite en el mercado con otras soluciones, pero…
-
-* MF Message es una aplicación especializada en el canal WhatsApp. Creemos que es el canal, junto con la voz, que van a usar nuestros clientes. Dedicamos, por eso, todo el esfuerzo en mejorarlo y en hacer fácil la integración con otros sistemas.
-
-* Es una aplicación desarrollada por MF Message, por lo que disponemos de un control total sobre la misma. Podemos estudiar y realizar las adaptaciones que nos pidan los clientes sin depender de terceros. 
-
-* La interlocución para todo tipo de necesidades es local, en España.
-
-* Es una aplicación estable, 6 años en producción en más de 100 clientes.
-
-* Al ser una plantación especializada, el precio también es más competitivo frente a soluciones que ofrecen múltiples funcionalidades no necesarias. Además, podemos ajustar nuestra propuesta económica a configuraciones no estándar requeridas por el cliente
-
-### Ventajas de Motorflash Message
-- Configuración a medida: agentes y grupos
-- Integrable con todos los CRMs del mercado
-- Centralita de distribución de mensajes y módulo de reporting interactivo
-- Utilización en contact center o departamentos comerciales
-- Ficha completa de cliente
-- Acceso directo al catálogo de productos
-
-## Módulos de MF MESSAGE
-
-Módulo conversacional:
-
-* Para recibir, asignar y gestionar las conversaciones con los contactos
-
-* Se crean GRUPOS de AGENTES para facilitar la gestión de las conversaciones y, eventualmente, para crear grupos de respuesta especializados.
-
-* Las conversaciones son contestadas, con la posibilidad de transferirlas a grupos o agentes concretos
-
-* Cuando las conversaciones finalizan, se CIERRAN asignando hasta tres motivos de cierre. 
-
-Módulo de información y análisis:
-
-* Todas las operaciones que se realizan en el Módulo conversacional alimentan bases de datos internas para conseguir informes detallados de las operaciones.
-
-* Hay construido un “Dashboard” estándar para con los datos de alto y medio nivel de la gestión de conversaciones.
-
-* Los datos internos están disponibles y documentado para usos específicos de cada cliente. 
-
-Aplicaciones en el móvil:
-
-* El Módulo Conversacional se encuentra disponible en las “tiendas” de Apple y Android.
-
-* Replican exactamente el funcionamiento de la versión escritorio.
-
-* La actualización de conversaciones en on line, no necesita mecanismos de refresco específicos.
-
-* No está disponible por ahora el módulo de Información y Análisis.
-
-Otros módulos: autogestión y campañas:
-
-* La estrategia de MF Message es ser una solución digital pura.
-
-* Toda la gestión de grupos, usuarios, plantillas y mensajes de servicio puede ser realizada actualmente por el mismo usuario, evitando dependencias sin valor.
-
-* También está disponible un módulo de campañas, que permite comunicar vía Whatsapp a nuestros contactos información de su interés.
-
-## Plan de trabajo
-
-Para empezar a funcionar la empresa u organización sólo tiene que facilitar:
-
-* Un número de teléfono que será “el número WhatsApp de los interlocutores (clientes, partners…) 
-
-* Estar dado de alta en Facebook y por lo tanto poder facilitarnos un parámetro llamado Identificador de Facebook Business Manager, FBM ID. (Te podemos ayudar a encontrarlo…)
-
-* Con estos dos datos, en una sesión de 15 minutos te damos de alta en META.
-
-* Plan de trabajo:
-
-Cada semana se divide en 7 días
-
-Semana 1:
-
-Dia 1 \- Firma de contrato
-
-Para el siguiente paso es necesario contar con un Business Manager de META
-
-Dia 2 \- Alta de WhatsApp Business en tu Business Manager de META
-
-Dia 3 \- Configuración de usuarios líneas, grupos y usuarios
-
-Listo, puedes empezar a utilizar MF Message
-
-Dia 2 a 7 \- Integración con terceros (opcional)
-
-Semana 2:
-
-Dia 1 a 7 – Integración con terceros (opcional)
-
-## Descripción técnica MF Message
-
-MF Message es un SASS alojado en el cloud de Motorflash en nuestro proveedor que está ubicado en Logroño.
-
-Está desarrollado como una plataforma web multicanal, multiempresa y multiagente.
-
-Nos hemos centrado principalmente en el canal Whatsapp, pero la arquitectura permitiría añadir nuevos canales en el futuro (SMS, Messenger, Instagram…).
-
-Es una plataforma de alta disponibilidad (HA) en todas las capas:
-
-* Capa de balanceo de carga (haproxy)
-
-* Capa de comunicación en tiempo real (websockets \+ push notifications)
-
-* Capa web (servidores web apache)
-
-* Capa bbdd (cluster de base de datos)
-
-Permite embeber la aplicación en cualquier CRM para una integración mediante un autologin del agente.
-
-### Coexistence
-MF Message cuenta con la funcionalidad de Coexistence, que consiste en la sincronización de WhatsApp Business con la API.
-
-Es importante destacar que MF Message funciona con la API, que es una solución robusta diseñada para empresas. A diferencia de la aplicación de WhatsApp Business (que es para uso individual), nuestra plataforma permite el seguimiento total de la actividad. Para que los mensajes de un comercial sean 'trackeados' o gestionados, el comercial deberá usar siempre la interfaz de MF Message, que es la que está conectada a la API.
-
-# PLATINUM
-
-Adaptables a todas las identidades
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- No tiene web o está anticuada  
-- La web no funciona bien  
-- La web no convierte adecuadamente  
-- La web no cumple con sus expectativas
-
-## Propuesta de valor comercial
-
-\- Más de 300 profesionales del sector de automoción disponen de una web desarrollada por Motorflash
-
-\- Soluciones adaptadas y personalizadas para cada necesidad
-
-\- Consultoría gratuita de tu web disponible
-
-\- Pago mensual durante 24 meses. Sin inversión inicial
-
-\- Disponible en 45 días desde confirmación del pedido
-
-\- Posibilidad de desarrollos a medida: configurador VN, Reserva Online, Módulo de tasación
-
-\- Web para publicación de stock VO (Vehículos de Ocasión) y VN (Vehículos Nuevos)
-
-\- Autogestionable: CMS disponible para gestión de contenidos
-
-\- Adaptable a cada identidad corporativa de marca o concesión
-
-## Integración con las soluciones de Motorflash
-
-CONTACT CENTER:
-
-* Especialistas en Automoción
-
-* Atención 100% multicanal
-
-* Adaptación a RGPD  
-
-* Dashboard en tiempo real
-
-CRM4YOU:
-
-* Gestión de clientes
-
-* Comunicación con clientes
-
-* Control de la actividad comercial
-
-* Dashboard en tiempo real 
-
-MF MESSAGE:
-
-* Solución sobre Whastapp Business
-
-* Gestión de campañas
-
-* Adaptación a RGPD  
-
-* Dashboard en tiempo real 
-
-DEALER:
-
-* Creación de vehículos desde matrícula/bastidor
-
-* Extras
-
-* Análisis de precios vs mercado
-
-* Papelería corporativa:
-
-  - Percha  
-  - Oferta  
-  - Pedido
-
-CHATWEB MF:
-
-* Posibilidad de contestar en directo al usuario
-
-* Posibilidad de implementar un bot (automático)
-
-* Posibilidad de implementar IA
-
-## Servicios incluidos
-
-Mantenimiento web: Actualizaciones de producto y medidas de seguridad.
-
-Alojamiento web: Espacio en nuestros servidores pasa su funcionamiento
-
-El orden económico del más caro al más barato es:
-
-1. Web Platinum → más caro
-
-2. Web Silver
-
-3. Web Única → menos caro
-
-### Web Platinum:
-
-Web de concesionario
-
-Todos los departamentos:
-
-* Vehículos Nuevos  
-* Vehículos Ocasión  
-* Renting  
-* Postventa  
-* Contenidos corporativos  
-* Tasador de vehículos
-
-Publicación de stock real del concesionario VO y VN
-
-1. Tenemos tres maneras de gestionar tu stock  
-* Importación de DMS  
-* Creación desde tu Dealer Motorflash  
-* Importación masiva a través de Feed de datos XML  
-2. Cruzaremos varias bases de datos para completar al máximo la información de los vehículos.
-
-3. Listo para publicar
-
-Servicios incluidos:
-
-* SEO: Optimización inicial  
-* Google Analytics 4: Configuración inicial  
-* Formación CMS: 3 horas de formación integral
-
-  - Adaptable a todas las identidades corporativas
-
-* Concesionario oficial
-
-* Grupo de concesionarios
-
-* Compra-ventas
-
-  - CMS Gestor de Contenidos para la autogestión
-
-* Creación y modificaciones de contenidos
-
-* Generador de landing page
-
-  - Integraciones TPV Virtual para reserva Online (Paypal, Addon Payment, Redsys, Rapid pay)  
-  - Modulable con desarrollos a medida.
-
-* API Quiter Cita Taller
-
-* API Calculadora de Seguros
-
-* API Garantías externas
-
-  - UX/UI Optimizado para la generación de leads  
-  - Integraciones con todas las soluciones de Motorflash
-
-* Gestor de Leads
-
-* Motorflash Message
-
-* CRM4YOU
-
-Calculadora financiera 
-
-* Precio financiado
-
-* Cuota
-
-* Dashboard en tiempo real con los principales KPI’s
-
-Gestor de Contenidos:
-
-- Edición y creación de contenidos:
-
-* Gestor/editor de landing page 
-
-* Modificación de formularios
-
-* Banners
-
-  - Fácil e intuitivo  
-  - Formación incluida 
-
-Dashboard KPI’s:
-
-- Informes en tiempo real
-
-* Sesiones
-
-* Fuentes de tráfico
-
-* Conversiones por tipo de formulario
-
-  - Comparativas  
-  - Analiza de forma sencilla y visual  
-  - Optimiza el rendimiento de tu web
-
-Plan de trabajo:
-
-Dia 1 a 2 – Firma de contrato
-
-Dia 1 a 2 – Briefing kickoff
-
-Dia 3 a 7 – Documento de configuración y toma de datos (Marcas; Mail de recepción; Tel. de contacto; Dirección)
-
-Dia 8 a 18 – Puesta en marca en desarrollo
-
-Dia19 a 21 – Revisión y pruebas internas
-
-Dia 22 a 24 – Entrega de versión “Pruebas” para revisión del cliente
-
-Dia 19 a 24 \- Configuración GA
-
-Dia 19 a 24 \- Configuración SEO
-
-Dia 25 a 27 – Formación CMS
-
-Dia 27 a 28 \- Briefing subida a producción
-
-Dia 29 a 45 \- Subida a producción
-
-### Web Silver
-
-Integra tu stock en cualquier página web
-
-Con el proyecto Silver dispondrás de una url con el listado de tu stock, que podrás integrar en tu sitio web, sea del proveedor que sea.
-
-Dispone de buscador, comparativa de vehículos y la opción de añadir a favoritos.
-
-Desde el listado se accede a las fichas de vehículos, donde se muestran las fotos y vídeos, además de todas las características y las diferentes opciones para contactar, reservar e incluso financiar el vehículo.
-
-Adaptable a todas las identidades corporativas:
-
-* La cabecera y pie y se adaptan a las tipografías y estilos para integrarse en la web del cliente.
-
-Integraciones TPV Virtual para reserva Online (Paypal, Addon Payment, Redsys, Rapid pay)
-
-Calculadora financiera (Precio financiado y Cuota)
-
-UX/UI Optimizado para la generación de leads
-
-Integraciones con todas las soluciones de Motorflash:
-
-* Gestor de Leads
-
-* Motorflash Message
-
-* CRM4YOU
-
-### Web Única
-
-Secciones Web Única:
-
-* Home  
-* Vehículos Ocasión  
-* Cita taller  
-* Tasación  
-* Ubicaciones y horarios  
-* Quiénes somos  
-* Legal & Compliance
-
-Entrega inmediata
-
-Con el proyecto Única dispondrás de una práctica web donde mostrar tu stock.
-
-Dispone de listados y fichas estándar, así como cita taller y tasación de vehículos.
-
-Desde el listado se accede a las fichas de vehículos, donde se muestran las fotos, además de las características y equipamiento del coche.
-
-## ¿Qué incluyen nuestras webs?
-
-|   Servicio | Platinum | Silver | Única |
-| :---- | :---- | :---- | :---- |
-| Varios mundos/marcas (General, Audi, VW, ...) | Incluido | Incluido | No incluido |
-| Secciones Web |  |  |  |
-| Home | Incluido | No incluido | Incluido |
-| Listados | Incluido | Incluido | Incluido |
-| Ficha estándar | Incluido | Incluido | Incluido |
-| Ficha Premiun. Incluye: | Incluido | Incluido | No incluido |
-| Vídeos en fichas | Incluido | Incluido | No incluido |
-| Pasarelas de pago | Incluido | Incluido | No incluido |
-| Calculadora financiera | Incluido | Incluido | No incluido |
-| Sección renting / alquiler | Incluido | No incluido | No incluido |
-| Servicio postventa | Incluido | No incluido | No incluido |
-| Servicios añadidos relacionados con la venta  |   |   |   |
-| Imágenes con marcas de agua | Opcional | Opcional | No incluido |
-| Tasación | Incluido | No incluido | Incluido |
-| Alerta de búsqueda | Incluido | No incluido | No incluido |
-| Cita taller | Incluido | No incluido | Incluido |
-| Calculadora de neumáticos | Incluido | No incluido | No incluido |
-| Conversión (teléfono, formulario, WhatsApp) |  |  |  |
-| Contacto general | Incluido | No incluido | Incluido |
-| Información vehículo (lead desde listado o ficha del coche) | Incluido | Incluido | Incluido |
-| Reserva o compra de un vehículo (pasarela de pago) | Incluido | Incluido | No incluido |
-| Renting / alquiler | Incluido | No incluido | No incluido |
-| Cita taller | Incluido | No incluido | Incluido |
-| Tasación | Incluido | Incluido | Incluido |
-| Alerta de búsqueda | Incluido | No incluido | No incluido |
-| Información corporativa |  |  |  |
-| Trabaja con nosotros | Incluido | No incluido | No incluido |
-| Ubicaciones y horarios | Incluido | No incluido | Incluido |
-| Quiénes somos | Incluido | No incluido | Incluido |
-| Legal & Compliance |  |  |  |
-| Aviso legal | Incluido | Incluido | Incluido |
-| Política de privacidad | Incluido | Incluido | Incluido |
-| Política de cookies | Incluido | Incluido | Incluido |
-
-|   Servicio | Platinum | Silver | Única |
-| :---- | :---- | :---- | :---- |
-| Analítica |  |  |  |
-| Configuración GTM / Analytics config (cuentas \+ eventos de conversión) | Incluido | Opcional | No incluido |
-| Configuración Google Ads (vinculación con Analytics o píxel \+ configuración de eventos de conversión) | Opcional | Opcional | No incluido |
-| Configuración Meta (metaetiqueta dominio \+ píxel Meta \+ eventos de conversión) | Opcional | Opcional | No incluido |
-| Creación Dashboard de seguimiento de resultados (configuración de panel con evolución de tráfico y conversiones) | Opcional | Opcional | No incluido |
-| Implementación Consent Mode | Opcional | Opcional | No incluido |
-| Estrategia de tráfico (servicio MK digital) |  |  |  |
-| Set up inicial SEO |  | Opcional | No incluido |
-| Migración SEO | Opcional | Opcional | Opcional |
-| Mejora continua del tráfico orgánico (SEO) | Opcional | Opcional | No incluido |
-| Gestión de campañas en motores de búsqueda (SEA) | Opcional | Opcional | No incluido |
-| Gestión de campañas en Meta (RRSS) | Opcional | Opcional | No incluido |
-| Gestor de contenidos autogestionable por el cliente |  |  |  |
-| Modificación de páginas creadas inicialmente | Incluido | No incluido | No incluido |
-| Creación de nuevas páginas (promociones/blogs/posts/landings) | Incluido | No incluido | No incluido |
-| Creación formularios | Incluido | No incluido | No incluido |
-| Creación pop ups | Incluido | No incluido | No incluido |
-| Migración de contenidos | Opcional | No incluido | No incluido |
-| CRM |  |  |  |
-| Vinculable a CRM Motorflash (Requiere contratación de CRM4YOU) | Incluido | Incluido | Incluido |
-| Vinculable a CRM Externo (Mediante email o JSONLEAD) | Opcional | Opcional | Opcional |
-| Vinculable a Gestor de Leads (Contact Center) | Opcional | Opcional | Opcional |
-| Posibilidad de implementar CHATWEB MF | Opcional | Opcional | No incluido |
-| Upgrade a web Platinum |  | Incluido | No incluido |
-
-Opcional: se trata de una funcionalidad que se puede añadir y debe valorarse por el equipo de Motoflash
-
-## Funcionalidades integradas detalladas
-
-\- CMS: Gestor de contenidos
-
-\- SECCIÓN VO: Buscador optimizado, listados con iconografía descriptiva, ficha completa
-
-\- SECCIÓN VN: Buscador optimizado, listados con iconografía descriptiva, ficha completa
-
-\- POSTVENTA: Cita Taller online, calculadora de neumáticos
-
-\- SECCIÓN OFERTAS: Para publicación de Ofertas y Promociones
-
-\- OTROS DATOS: Información general, sección empresas, equipamiento de serie y opcional, módulo de tasación, segundo idioma (catalán)
-
-## Comparativa con competencia
-
-11 funcionalidades donde Motorflash tiene TODO incluido vs competencia que NO tiene nada:
-
-1\. CMS (Content Management System)
-
-2\. Gestión listado de stock
-
-3\. Base de datos Eurotax y Jato
-
-4\. Look & Feel adaptado al guideline de la marca
-
-5\. Stock automático del fabricante
-
-6\. Posibilidad de añadir desarrollos personalizados
-
-7\. Optimización inicial SEO
-
-8\. Configuración inicial Google Analytics
-
-9\. Calculadora financiera (Contado/Financiado/Cuota)
-
-10\. Formulario de coche a cambio
-
-11\. Segundo idioma (Catalán)
-
-# AGENCIA DIGITAL
-
-Motorflash Solutions, consultora de negocio digital especializada en el sector de automoción
-
-Somos la agencia de Marketing Digital con mayor experiencia en el sector de automoción
-
-Máxima especialización de recursos. Equipos diferentes para la gestión del SEO, SEA, Redes Sociales y Analítica Digital
-
-Llevamos 14 años gestionando el SEO/SEA/ Redes Sociales de más de 40 clientes entre marcas, concesionarios, compra-ventas, empresas de renting...
-
-Solo trabajamos para automoción
-
- 14 años
-
-\+40 clientes
-
-Máxima especialización del equipo
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- Tiene web pero no recibe visitas  
-  - Recibe visitas pero no genera leads  
-  - Desconoce las cifras clave de su negocio
-
-## Punto de partida
-
-Web propia
-
-Debe ser la vía principal de generación de ventas, por varios motivos
-
-* Limitar la dependencia de plataformas externas
-
-* Porque normalmente genera mejores cifras de conversión que las plataformas externas
-
-* Mejorar el coste por coche vendido
-
-Máximo control de los KPIs de negocio. “Lo que no se mide, no se puede mejorar”
-
-Importancia de la web propia:
-
-Los portales externos estarían aportando el 43% de las ventas totales.
-
-¿Te has planteado qué pasaría si no pudieras publicar en esos portales externos o si te cambian las condiciones?
-
-Tu propia web debe de ser la vía desde la que se genere más del 80% de tu negocio
-
-Tu web necesita TRÁFICO que genere LEADS y, por lo tanto, VENTAS
-
-### Analítica de negocio digital y Funnel de conversión
-
-La analítica de negocio digital se estructura en 3 capas, cada una midiendo un tramo del funnel de conversión:
-
-**1. Analítica WEB** — ¿Las acciones que hago para llevar tráfico a mi web están funcionando?
-→ 10.000 visitas a coches → 2% conversión → 200 prospectos
-
-**2. Analítica de PRODUCTO** — ¿Cómo están influyendo factores como los precios o el stock publicados en la generación de leads?
-→ 200 prospectos → 65% conversión → 130 leads
-
-**3. Analítica de GESTIÓN COMERCIAL** — ¿Se están gestionando correctamente los leads para convertirlos en ventas?
-→ 130 leads → 15% conversión → 20 ventas
-→ Inversión: 4.000€ | Coste por lead: 31€ | Coste por venta: 205€
-
-### Funnel comparativo: Web Propia vs Portales Externos
-
-| | Web Propia | Portales Externos |
-|---|---|---|
-| Visitas a coches | 10.000 | 65.000 |
-| Conversión visita→prospecto | 2% | 0,6% |
-| Prospectos | 200 | 390 |
-| Conversión prospecto→lead | 65% | 60% |
-| Leads | 130 | 234 |
-| Conversión lead→venta | 15% | 7% |
-| Ventas | 20 | 16 |
-| Inversión | 4.000€ | 12.000€ |
-| Coste por lead | 31€ | 51€ |
-| Coste por venta | 205€ | 733€ |
-
-Los portales externos aportan el 43% de las ventas totales pero a un coste por venta 3,5 veces mayor (733€ vs 205€). Si no conoces estos datos, estás gestionando tu negocio a ciegas.
-
-### ¿Cómo llega el tráfico a tu web?
-
-EL TRÁFICO QUE TE BUSCA:
-
-\- Es el más valioso porque responde a búsquedas interesadas
-
-\- Es el que aporta mayor tasa de conversión
-
-\- Su origen: El SEO y el SEM
-
-\- LEADS INMEDIATOS procedente del tráfico que te busca
-
-EL TRÁFICO QUE TE ENCUENTRA:
-
-\- Amplía la cobertura del tráfico que te busca a un coste mucho más bajo
-
-\- REDES SOCIALES
-
-\- Campañas de publicidad gráfica, Enlaces desde otros sites, Emailings, etc.
-
-\- DEPÓSITO DE LEADS procedente del tráfico que te encuentra
-
-## Nuestra propuesta
-
-Realizar una auditoría gratuita del tráfico de tu site
-
-1. Mejoras en el plan de medición, esenciales para el control de los KPIs clave del negocio. 
-
-2. Propuesta de mejoras en la cantidad/calidad del tráfico de la web. 
-
-3. Propuesta de KPIs
-
-## ¿Cuánto debo invertir y cómo debo distribuir la inversión en Marketing Digital?
-
-|   | Grupo 1 | Grupo 2 | Grupo 3 | Grupo 4 | Grupo 5 |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| Tipología | MarcasCompra-venta muy grandes | Grupos concesionariosCompra-venta Grandes | Concesionarios grandesCompra-venta medianos | Concesionarios mediadosCompra-venta pequeños | Concesionarios pequeños |
-| Stock vehículos | \> 2.000 | 500 | 200 | 50 a 200 | \< 50 |
-| Distribución de la inversión  |  |  |  |  |  |
-| SEO | 8% | 14% | 18% | 20% | 25% |
-| SEA | 64% | 60% | 55% | 55% | 50% |
-| RR.SS | 10% | 15% | 25% | 25% | 25% |
-| Otros | 18% | 11% | 2% | 0% | 0% |
-
-## ¿Qué debemos esperar de cada fuente de tráfico?
-
-### SEO
-
-Crecimiento continuo y sostenido
-
-Clave los conocimientos técnicos generales y específicos del sector de automoción
-
-Anticipación: Una parte clave del éxito de una buena estratega de SEO es anticiparte a los cambios de algoritmo que Google hace de forma continua.
-
-Definición y seguimiento de objetivos cuantitativos de crecimiento de tráfico orgánico con control continuo de la conversión
-
-*“El volumen de tráfico SEO que tiene una web de comercio electrónico es el mejor indicador de la salud del site”*
-
-Tráfico lento de construir, pero de aportación clave para el negocio a medio y largo plazo, ya que aporta la MEJOR TASA DE CONVERSIÓN y MEJOR RENTABILIDAD EN TÉRMINOS DE COSTE POR LEAD y COSTE POR COCHE VENDIDO.
-
-#### *¿Qué recorrido SEO te proponemos?*
-
-Esto es lo que haremos para mejorar el tráfico SEO de tu site:
-
-1. Hacer una auditoria inicial del tráfico SEO de tu web.  
-   2. Establecer objetivos de volumen y conversión a 6,12,18 y 24 meses.  
-   3. Confeccionar un plan de trabajo incidiendo sobre las áreas de mejora.  
-   4. Implantaremos las mejoras de forma continua en la web.  
-   5. Enviarte un informe mensual indicando todos los KPIs de negocio y de gestión del SEO
-
-#### *¿Cuánto debo invertir en SEO?*
-
-|   | Grupo 1 | Grupo 2 | Grupo 3 | Grupo 4 | Grupo 5 |
-| :---- | :---: | :---: | :---: | :---: | :---: |
-| Stock vehículos | \> 2.000 | Entre 500 y 2.000 | Entre 200 y 500 | Entre 50 y 200 | \< 50 |
-| Ámbito de ventas | 100% nacional | 75% nacional y 25% local | 50% nacional y 50% local | 25% nacional y 75% local | 100% local |
-
-#### *Contenido informe SEO*
-
-|   KPIs de negocio | KPIs de gestión SEO |
-| :---- | :---- |
-| Evolución tráfico aportado por el SEO Evolución cuota tráfico aportado por el SEO sobre tráfico total del site Evolución conversiones aportadas por el SEO Evolución coste por conversión alcanzado por el tráfico SEO  Evaluación cuota conversiones aportadas por el SEO sobre total conversiones del site | Indicadores cualitativos de tráfico (rebote, páginas por sesión, tiempo medio de sesión)  Evolución impresiones y clics  Evolución CTR (Clic Through)  Evolución visibilidad Sixtrix  Tareas realizadas   Tareas previstas para los próximos meses |
-
-### SEA
-
-Completa, pero no sustituye al SEO
-
-Clave los conocimientos técnicos generales y específicos del sector de automoción.
-
-Definir objetivos continuos de KPIs: Coste del lead y conversión a ventas.
-
-Control constante de las campañas, para su optimización continua.
-
-*Orientado a objetivos tácticos. Debe complementar al SEO, pero no sustituirlo*
-
-Clave la calidad de la gestión para lograr costes por lead inferiores a los de plataformas externas 
-
-#### *¿Cuánto debo invertir en SEA?*
-
-Objetivo: Conseguir el máximo de leads posibles, eso sí, asegurando el RETORNO DE LA INVERSIÓN.
-
-No debe preocuparnos, comprar barato, sino que el tráfico que se compre genere un alto volumen de leads
-
-Por eso, cada empresa en función de: volumen de stock, entorno competitivo, objetivos tácticos, etc., tiene su óptimo de inversión.
-
-Nosotros lo llamamos el PRO (Punto de Retorno Óptimo)
-
-#### *¿Qué recorrido SEA te proponemos? *
-
-Esto es lo que haremos para que el SEA te aporte muchos leads, asegurando la rentabilidad de la inversión: 
-
-1. Recibir un briefing inicial de tus objetivos.  
-   2. Hacer una propuesta inicial de campaña.  
-   3. Briefing continuo: Hablar contigo cuantas veces sea necesario. Cuanta más información tengamos de tu negocio y necesidades, mejor haremos nuestro trabajo.  
-   4. Hacer una optimización continua de las campañas. Cada campaña se revisa, mínimo una vez cada tres días.  
-   5. Enviarte un informe mensual
-
-|   KPIs de negocio | KPIs de gestión SEA |
-| :---- | :---- |
-| Cifras mensuales y evolución mensual vs mismo período del año anterior de los siguientes KPIs Tráfico Cuota de tráfico Conversiones Tasa de conversión Cuota de conversiones Coste por conversión | Cifras mensuales y evolución mensual vs miso período del año anterior de los siguientes KPIs Impresiones Clics CTR CPC medio Clics y conversiones por: Dispositivo Sexo Edad Día de la semana |
-
-### Campañas RR.SS
-
-Son publicaciones de pago en las redes sociales
-
-\- Permiten alcanzar a los usuarios donde pasan gran parte de su tiempo, y especialmente su tiempo libre
-
-\- Permiten llegar exactamente a aquel grupo de personas que estarían interesadas en tu oferta, por lo que no se desperdician impactos
-
-\- Son prospectos que quizá tengan una intención menos inmediata que los generados a través de SEO o SEM, pero constituyen tu stock de reserva de prospectos 
-
-“Los likes no pagan facturas”
-
-Leads de conversión no inmediata, pero que aseguran el negocio a medio plazo.
-
-Coste por leads: inferior a 10 €.
-
-Nuestra visión de las Redes Sociales:
-
-*“Los likes no pagan facturas”*
-
-100 % enfocadas a objetivos tácticos, con una única misión:  
-Generar leads a un precio nunca superior a 10 €
-
-Permiten ampliar el alcance de nuestra visibilidad, ya que llegamos a personas que aún no han empezado a hacer búsquedas (SEO, SEA), pero que van a hacerlo en un futuro próximo. 
-
-E*l éxito de las campañas en Redes Sociales es aún más sensibles que el SEA a la calidad de la gestión: Deben aprovecharse todas las posibilidades de segmentación, uso de herramientas auxiliares que permiten optimizar las creatividades y una revisión/optimización continua *
-
-RR.SS 3 a 6 meses
-
-SEO y SEA 0-3 meses
-
-#### *¿Qué recorrido en Redes Sociales te proponemos?*
-
-1. Recibir un briefing inicial de tus objetivos.  
-   2. Hacer una propuesta inicial de campaña.  
-   3. Configurar correctamente los píxeles de conversión en tu web. Esto nos permitirá optimizar las compañas, utilizando la consecución de leads como criterio de planificación.  
-   4. Briefing continuo: hablaremos contigo cuantas veces sea. Cuanta más información tengamos de tu negocio y tus necesidades puntuales, mejor haremos nuestro trabajo.  
-   5. Hacer una optimización continua de las campañas. Cada campaña se revisa, mínimo una vez cada tres días  
-   6. Enviarte un informe mensual
-
-# CONTACT CENTER
-
-**Servicios de Contact Center exclusivos en el sector de la automoción:**
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- No sabe cuántas llamadas de clientes interesados pierde  
-- Recibe muchas llamadas y formularios de baja calidad  
-- No sabe cuántos contactos recibe de cada portal de publicación
-
-## Motor Lead Management
-
-Nuestro servicio estrella de Leads
-
-## Tecnología multicanal
-
-Contamos con plataformas propias de última generación
-
-Disponemos de las soluciones técnicas más avanzadas en el sector. Contamos con plataformas propias, 
-
-lo que nos permite customizar cualquier servicio con afán de crecer con nuestros clientes
-
-* Grabación de todas las llamadas hasta 5 años en cumplimiento con la nueva RGPD
-
-* Recogida de consentimientos pudiendo realizar así acciones de remarketing con nuestros clientes
-
-* Disponemos del Stock publicado en los diferentes canales pudiendo realizar todo tipo de estrategias de precios y medir la conversión a venta
-
-Llamadas entrantes y saliente: Atendemos el 100% de las llamadas gracias a las mejores plataformas del mercado. Contamos con una infraestructura basada en la nube
-
-WhatsApp Business API: Motorflash es la única empresa en el mercado que cuenta con un extenso desarrollo eficiente logrando medir la conversión del canal por excelencia
-
-Emails & Click to Call: Integramos todos los formularios de contacto procedentes de cualquier canal web
-
-Chats, Redes Sociales: Respondemos con inmediatez a las dudas de tus clientes en cualquier materia técnica o de ventas
-
-## Equipo multidisciplinar
-
-Especializado en el sector de la automoción
-
-Ofrecemos un servicio de Atención al Cliente integral gestionando las relaciones con tus prospectos o leads. Garantizamos el 100% de respuestas y los mejores KPIs de calidad. 
-
-* Atención en Recepción: \>90%
-
-* Tiempo medio de respuesta en formularios: inferior a 10 minutos
-
-Externalización de servicios
-
-* Back Office: Gestión de E-mails, CRMs, etc.
-
-* Depuración de Bases de Datos
-
-* Registro de citas y Confirmación de asistencia a Eventos
-
-* Realización de “Mystery Calls” para garantizar una atención comercial.
-
-Servicio multidioma
-
-* Castellano, inglés, francés, catalán, portugués
-
-Reporting
-
-## Reporting
-
-* Customizado a todos los niveles (portal, comercial, vehículo, etc.)
-
-Lunes a viernes de 9 a 20h / Sábados de 9 a 14h, con posibilidad de ampliación de horario según necesidades
-
-**50** AGENTES
-
-**400** CLIENTES
-
-**7** AÑOS DE EXPERIENCIA
-
-**2.000** CONCESIONARIOS
-
-Informes customizables en tiempo real
-
-Disponemos de los mejores sistemas de información en tiempo real
-
-Registro de todos tus contactos, destacando a los clientes potenciales
-
-Acceso a gestor exclusivo en el que podrás consultar todo tipo de métricas de control
-
-Podrás establecer estrategias de seguimiento “Nurturing” sobre tus clientes potenciales
-
-Podrás acceder sin límite a todas las grabaciones de tus clientes
-
-Informes detallados de toda la actividad por “leads por medios”, “leads por origen, “leads por comercial”.
-
-KPI de conversión a venta: La gestión de los contactos por parte de nuestros agentes permite conocer al detalle toda la actividad comercial del concesionario.
-
-# LEAD FACTORY
-
-Es un servicio a disposición de los profesionales para la compra de vehículos VO procedentes de particulares
-
-## Identificación de necesidades 
-
-Este servicio es ideal cuando el cliente menciona:
-
-\- Falta de stock para la venta
-
-\- Problemas de aprovisionamiento de stock
-
-\- Pérdida de tiempo buscando contactos en portales de compra/venta
-
-## Pilares
-
-**MOTORFLASH LEAD FACTORY:** Servicio a disposición de los profesionales para la compra de vehículos VO procedentes de particulares
-
-**DOBLE VALOR DEL LEAD:** Muchos particulares que quieren vender su coche es porque van a comprar otro. Accedes a lead de tasación que también es un lead de compra
-
-**SEGMENTACIÓN:** Máxima capacidad de segmentación tanto de leads de tasación como lead de compra
-
-## Cómo funciona el proceso
-
-El Contact Center propio de Motorflash es quien contacta y cualifica al particular ANTES de pasar el lead al equipo comercial del concesionario. El proceso es:
-
-1. Motorflash capta al particular interesado en vender su vehículo
-2. El Contact Center llama al particular e identifica sus necesidades:
-   - Si tiene interés en multipublicación
-   - Si quiere vender a concesionarios
-   - Si busca comprar un vehículo nuevo (VN) o de ocasión (VO)
-   - Qué coche quiere vender y qué coche quiere comprar
-3. Una vez cualificado, el lead se entrega al concesionario
-
-**IMPORTANTE**: No es el concesionario quien llama en frío al particular. Motorflash ya ha cualificado el lead previamente.
-
-## Cómo se accede a los leads — Herramientas de la plataforma
-
-La plataforma dispone de tres herramientas de acceso:
-
-1. **Buscador dinámico**: con filtros por interés de compra, provincia, días publicado, marca, modelo, versión, precio, año y kilómetros
-2. **Buscador manual**: búsqueda directa de contactos
-3. **Gestión de alertas**: permite parametrizar alertas sobre leads, tanto alerta de compra como alerta de venta
-
-## Distribución inventario de leads por zonas
-
-El servicio cubre todo el territorio nacional dividido en 7 zonas geográficas:
-
-* **Zona 1**: Noroeste  
-* **Zona 2**: Noreste  
-* **Zona 3**: Cataluña  
-* **Zona 4**: Centro  
-* **Zona 5**: Andalucía Occidental  
-* **Zona 6**: Andalucía Oriental  
-* **Zona 7**: Levante
-
-# MOBILE TRACKING
-
-Mobile Tracking es un servicio de análisis de llamadas que funciona a través de las tarjetas SIM de los teléfonos móviles
-
-Toda la información procedente de las tarjetas SIM se vuelca en tiempo real en un dashboard configurable, adaptable al 100% a las necesidades de análisis y control de la información comercial
-
-Se evita tener que preparar informes declarativos. Refleja la realidad y no las declaraciones de los comerciales
-
-Herramienta con llamadas y datos ilimitados, compatible con iOS y Android. Increíble pero real: por fin existe la posibilidad de que tu equipo comercial use su iPhone para el seguimiento de llamadas
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-- No sabe si su equipo comercial devuelve las llamadas no atendidas
-- Pérdida de posibles ventas por llamadas no atendidas
-- No puede hacer seguimiento cuantitativo y cualitativo de la actividad telefónica entrante y saliente
-- Seguimiento cuantitativo y cualitativo de toda la actividad telefónica entrante y saliente
-
-## Cómo funciona
-
-**Paso 1**: El cliente visita la página web y se interesa por un coche
-
-**Paso 2**: Realiza una llamada a la concesión para informarse por ese coche
-
-**Paso 3**: El comercial puede o no atender esa llamada
-
-**Paso 4**: De no haberla podido atender, el sistema le recuerda que tiene que devolver la llamada
-
-**Paso 5**: Se produce un registro de la actividad telefónica con el cliente
-
-**Paso 6**: El comercial puede editar y completar los datos del cliente y crear una ficha
-
-**Paso 7**: Se genera una ficha del perfil del cliente
-
-**Paso 8**: Se monitoriza y reporta toda la información en el sistema
-
-## Beneficios
-
-Permite conocer:
-
-* Si se han atendido o no todas las llamadas recibidas por la concesión de clientes potenciales  
-* Si la llamada no ha podido ser atendida en el momento, sabes si ha sido devuelta y cuándo lo fue  
-* Quién es el comercial que ha atendido (¡¡¡o no\!\!\!) cada llamada  
-* Indicadores cualitativos sobre la llamada: tiempo total, para el análisis de actividad y efectividad  
-* Vinculación de la llamada con toda la información relativa al coche por el que el cliente se interesó  
-* Conocerás en tiempo real si los clientes de tu concesión son atendidos en tiempo y forma  
-* Podrás ver la actividad telefónica de tu equipo comercial: ¡¡¡Ni una llamada de un cliente sin contestar\!\!\!  
-* Dashboard configurable en tiempo real  
-* Evita pérdida de ventas por llamadas no atendidas
-
-# CLASIFICADOS Y EXCLUSIVE
-
-## Identificación de necesidades
-
-Este servicio es ideal cuando el cliente menciona:
-
-- Paga mucho por publicar en portales externos  
-  - Le gustaría pagar solo por los leads que recibe
-
-## Lo que nos hace diferentes
-
-* Completamos tus anuncios con todo detalle sólo con matrícula y/o bastidor  
-* Te generamos un "microsite" con todo tu stock actualizado  
-* Dispondrás de información en tiempo real sobre los prospectos de llamadas y formularios de contacto generados por tus anuncios  
-* Te enviamos prospectos seleccionados exclusivamente para ti adaptados a tu stock
-
-## Cómo funciona
-
-**Paso 1: Publicación**
-
-Publicación anuncios en motorflash.com: Pasarela/Perfil privado (manual)
-
-**Paso 2: Completado de información**
-
-Completamos la información de tus coches incorporando todos los extras
-
-Los coches que contienen toda la información sobre los extras tienen más y mejor visibilidad
-
-**Paso 3: Monitorización**
-
-Monitorización de los anuncios: Envío personalizado de informes ejecutivos periódicos (leads, visitas, alertas de búsqueda, llamadas)
-
-## Opciones Upgrade
-
-Tendrás opción a más y mejores Leads con las opciones “Upgrade”
-
-CUSTOMER MANAGER: Cualificación de los prospectos convirtiéndolos en leads
-
-MOTORFLASH EXCLUSIVE: Site exclusivo para marcas y concesionarios oficiales que publiquen su stock VO y VN
-
-Exclusividad marca/región
-
-Site totalmente adaptado al “look & feel” del cliente
-
-Más barato y rentable que la publicación del stock en sites externos
-
-Cualificación a través de nuestro CUSTOMER MANAGER
-
-## Motorflash exclusive
-
-Binomio exclusividad marca/zona
-
-Con Motorflash EXCLUSIVE, dispondrás de una zona exclusiva donde sólo se publica tu stock (VN y VO)
-
-* Site exclusivo para marcas y concesionarios oficiales que publiquen su stock VO y VN  
-* Exclusividad marca/región  
-* Site totalmente adaptado al "look & feel" del cliente  
-* Más barato y rentable que la publicación del stock en sites externos  
-* Cualificación a través de nuestro CUSTOMER MANAGER
-
-# SPYNE
-
-Llamada Spyne o Carlens, es la solución de inteligencia artificial para transformar tus imágenes de manera sencilla y rápida, logrando resultados de alta calidad para tus catálogos de coches.  
-Haz la foto en cualquier parte, y después ¡escoge el fondo que más te guste\!
-
-## Spin 360°
-
-Revoluciona la manera de mostrar tu producto: Crea vídeos 360° que venden por ti.
-
-## Vídeo Promocional - Video 360°
-
-Para presentar los coches con todo lujo de detalle
-
-## Funcionalidades
-
-Spyne tiene una puntuación de 4.4/5 en Trustpilot basada en 11 opiniones.
-\+100 de funcionalidades de transformación 
-
-* Clasificador de coches  
-* Tipo de coche  
-* Detección y reemplazo de matrículas  
-* Identificación de imágenes cortadas  
-* Reconocimiento de desenfoque  
-* Identificación de inclinación  
-* Detección de exposición  
-* Categorización de fotografías  
-* Clasificador de neumáticos  
-* Detección de barro en neumáticos  
-* Detección del ángulo de posición  
-* Reconocimiento de distancias  
-* Identificación de reflejos  
-* Clasificador de tonos  
-* Categorizador de interiores  
-* Logo del concesionario en el fondo y en la matricula  
-* Eliminación de reflejos  
-* Estudio virtual y plataforma gratuita  
-* Generación de sombras y reflejos  
-* Banners que logran atraer la atención ¡presentan los coches de forma ordenada más fácil\!  
-* Sustitución de Fondos con inteligencia artificial reemplazandolos por un fondo profesional.  
-* Generación de plataforma  
-* Tintado de Lunas: Cubre las ventanas para obtener mejores imágenes  
-* Visión a través de las ventanas: Nos aseguramos de que no se vea nada a través de las ventanas  
-* Mejora la imagen del interior cubriendo exteriores y corrigiendo la inclinación de las imágenes  
-* Mejora la resolución de imágenes dando más nitidez y enfocando  la imagen original automáticamente  
-* Permite ajustar el tamaño de la imagen para cumplir con las necesidades de cada concesionario
-
-## Cómo usar Carlens 360°
-
-Tenemos distintos canales para concesionarios
-
-1. Integración DMS
-
-No necesitas cambiar tus procesos  
-La subida de fotos es automática y se acopla al sistema de los concesionarios  
-Nos integramos al workflow que estéis utilizando.
-
-- Concesionario  
-- CRM / DMS  
-- Proveedor de laweb  
-- Web
-
-2. App / SDK
-
-Sencilla aplicación para hacer fotos tanto en iOS como en Android.   
-No es necesario tener conocimientos técnicos para hacer las fotos.
-
-3. API
-
-Desde nuestra consola puedes actualizar todo tu inventario.
-
-4. Consola
-
-Desde la consola tienes acceso a todas tus fotos y proyectos.
-
-## Tabla Comparativa: Competidores vs Carlens
-
-| Empresa | Creación 360º (Exterior) | Creación 360º (Interior) | Cambio de fondo | Integración con webs | Edición de fotografía | Etiquetado interactivo | Extras |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CARLENS** | Fotos y vídeos / Fotos 2D | Foto, fotos 180º y vídeos | Muchas opciones personalizables y simulador de concesionarios | Puedes subir un vídeo en línea o RRSS, con música | Mejorado con IA | Lo hace para reconocer daños y destacados | Corrige fotos viejas del catálogo / Auditoría automática |
-| **Optipix** | Fotos y Fotos 2D | Fotos próximamente fotos 180º | Personalización media | Solo puede subirse desde el ordenador | Mejorado con IA | Próximamente: lo usarán para reconocer daños y solo texto | Corrige fotos viejas del catálogo / Auditoría automática |
-| **CitNOW** | Fotos y vídeos | Fotos y vídeos | Sí, pero sin ejemplos | Puedes subir un vídeo en línea o RRSS, con música | Mejorado con IA | NO | Corrige fotos viejas del catálogo / Auditoría automática |
-| **VC 360** | Fotos y vídeos | Fotos y vídeos | Personalización básica | Solo puede subirse desde el ordenador | NO | Sí, pero solo texto | NO |
-| **AutosOnShow** | Fotos y vídeos | Fotos y vídeos | Solo cambia el fondo, no el suelo | No indica nada. Solo dispone en iPhone | NO | Lo tienen, pero solo con ampliación de imagen | NO |
-| **CarCutter** | Fotos y vídeos / Fotos 3D | Fotos | Personalización media | Imágenes en línea directamente | Mejorado con IA | Próximamente | Corrige fotos viejas del catálogo |
-| **Autofox** | Fotos | Fotos | Personalización básica | Imágenes en línea directamente | Mejorado con IA | NO | NO |
-
-# IA
-
-## IA en WhatsApp
-
-Canal directo y familiar: el cliente ya usa WhatsApp, sin barreras ni descargas.
-
-Conversación libre, natural y disponible 24/7: la IA responde sin depender de agentes humanos.
-
-Personalización real: recuerda el contexto, aprende de cada conversación y se adapta.
-
-Más conversión: mejora la experiencia y aumenta la probabilidad de venta.
-
-* **Accesibilidad y Alcance:**
-
-El cliente ya tiene WhatsApp instalado en su móvil. No necesitas entrar en tu web ni descargar nada. Puedes seguir la conversación incluso días después de la primera interacción.
-
-Ventaja: Estás donde el cliente ya está, en su canal de confianza.
-
-* **Flexibilidad de la conversación:**
-
-La IA entiende preguntas libres, se adapta a la forma de hablar del cliente y puede resolver dudas inesperadas (ejemplo: “¿Tenéis SUV híbridos con entrega inmediata?”)
-
-Ventaja: El cliente siente que habla con una persona real, no con un formulario disfrazado.
-
-* **Relación y seguimiento:**
-
-Permite continuar el contacto: enviar recordatorios, compartir fotos, enviar una oferta personalizada, o dar seguimiento a un presupuesto.
-
-Ventaja: Se convierte en un canal de relación continua, no en un punto de contacto aislado.
-
-* **Conversación y cercanía:**
-
-Cercano y humano. El cliente confía más porque recibe atención directa, en un canal donde habla con su familia y amigos.
-
-más confianza \= más ventas.
-
-* **Coste de oportunidad:**
-
-Puedes seguir conversando, nutrir al cliente con información y cerrar la venta, aunque ya no esté en tu página web.
-
-Ventaja: No pierdes leads valiosos por un “abandono” de página
-
-## Webchat IA
-
-Integrado en la web: capta al usuario mientras navega.
-
-Texto y voz en un solo canal: interacción escrita o hablada según prefiera el usuario.
-
-Interacción natural: el chat se adapta a cada usuario, no al revés.
-
-Integrable con otros sistemas: permite consultar y gestionar datos externos
-
-* **Accesibilidad y Alcance:**
-
-El usuario solo puede interactuar mientras está dentro de tu página web.
-
-Si cierra la pestaña, la conversación se pierde y debes volver a atraerlo.
-
-* **Flexibilidad de la conversación:**
-
-El usuario solo puede seguir los pasos predefinidos (ejemplo: elegir ciudad → elegir coche → enviar datos).
-
-Si tiene una duda fuera del guión, el chat se bloquea o no sabe responder.
-
-* **Relación y seguimiento:**
-
-La relación termina cuando el usuario abandona la web. No puedes
-
-retomar la conversación.
-
-* **Conversación y cercanía:**
-
-Frío y limitado. El cliente siente que está rellenando un formulario más.
-
-* **Coste de oportunidad:**
-
-Solo captas al usuario que está en ese momento en tu web. Si se va, lo pierdes.
-
-## IA de Voz
-
-Asistente de voz inteligente.
-
-Comunicación inmediata: el cliente llama y recibe atención personalizada.
-
-Ideal para concertar citas, resolver dudas rápidas o completar procesos iniciados por chat.
-
-Integra análisis, transcripción y puntuación automática de llamadas para mejorar la atención y la venta.
-
-## Quality monitoring
-
-Transcribe todas las llamadas de los asesores.
-
-Analiza puntos clave de la conversación.
-
-Categoriza todas las llamadas por el interés del cliente.
-
-Puntuación automática de llamadas para mejorar la atención y la venta.
-
-# DESARROLLO ADHOC
-
-¿Necesitas una solución que no encuentras en el mercado?
-
-Motorflash es una casa de desarrollo de software especializada en el sector de la automoción. Además de nuestros productos propios, ofrecemos servicios de desarrollo de soluciones y proyectos a medida, adaptados exactamente a las necesidades de tu negocio.
-
-Si tienes un proyecto específico en mente, nuestro equipo puede desarrollarlo para ti.
+### ¿Qué es Motorflash?
+Motorflash Ibérica de Negocios S.L. se define como la solución 360 para marcas y concesionarios del motor, con tecnología de IA integrada desde 2007. Es partner de Google.
+
+### ¿Qué garantías o certificaciones tiene?
+Cuenta con certificación ISO 9001 (Sistema de Gestión de la Calidad) e ISO 27001 (Sistema de Gestión de la Seguridad de la Información).
+
+### ¿Dónde está su sede y cómo puedo contactar?
+- **Sede:** Calle Basauri 17, Edificio Oasis, Módulo B, Bajo Izq. D, Moncloa-Aravaca, 28023 Madrid, España.
+- **Teléfono:** 91 078 43 81 o 91 372 87 90.
+- **WhatsApp:** +34 910 787 259.
+- **Email comercial:** comercial@motorflash.com.
+- **Horario de atención:** lunes a viernes, de 9:00 a 20:00.
+
+### ¿Qué cifras generales destacan sobre la empresa?
+- 17-18 años de experiencia en el sector.
+- Más de 100-170 especialistas en IT y gestión del área de automoción.
+- Más de 350 webs desarrolladas.
+- Más de 10 millones de euros de facturación en 2024.
+- Más de 950 licencias CRM implantadas en el primer año de CRM4YOU.
+- 1.400 clientes usan la herramienta Dealer.
+- 30.000 vehículos de segunda mano generados al mes.
+- 1 millón coches exportados al mes a otros portales.
+- 195.000 llamadas al mes atendidas por el Contact Center.
+- Más de 250 clientes del sector utilizan la solución de WhatsApp Business API.
+
+### ¿Quiénes son los principales clientes de Motorflash?
+*(Importante: los siguientes son clientes a los que Motorflash presta servicio, no proveedores de la compañía.)*
+
+**Fabricantes NSC:** Volkswagen, Audi, BMW, Abarth, Peugeot, Alfa Romeo, Volkswagen Commercial Vehicles, Seat, Skoda, Hyundai, Porsche, Jaguar, Opel, Renault, Jeep, Fiat, Citroën, Mini, Land Rover.
+
+**Grupos:** Grupo Safamotor, Movento, BMW Group Ibérica, RRG Embracing your Mobility, Stellantis, ProaGrup Driving Dreams, Motor Munich, Grupo Resnova, Volkswagen Group Retail España.
+
+**Renting & Leasing:** Alphabet, ALD Automotive, Arval BNP Paribas Group.
+
+**Concesionarios:** CATSA, Yamovil, Jarmauto, Telenauto, Auto Elia, Gyata, Carhaus, Autofesa, Centro Wagen, Sealco Motor, F. Tomé, Canalcar, BMW Motorrad ByMyCAR Madrid.
+
+**Clientes de CRM4YOU:** Volkswagen, Quadis, Santander Consumer Renting, Flexicar, Europcar, Centauro.
