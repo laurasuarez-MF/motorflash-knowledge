@@ -1,20 +1,10 @@
 # SERVICIOS
 ## Dealer + Multipublicación
-
 ### ¿Qué es Dealer + Multipublicación?
-Es una plataforma que unifica la gestión inteligente del vehículo de ocasión (VO) y la publicación multi-portal. Permite importar, crear, revisar y publicar tu stock desde un único entorno, con integración por API con los principales portales del sector.
+Es una plataforma que unifica la gestión inteligente del vehículo de ocasión (VO) y la publicación multi-portal. Permite importar, crear, revisar y publicar tu stock desde un único entorno, con integración por API con los principales portales del sector. Ofrece fiabilidad y flexibilidad en cada paso: desde una sencilla importación de datos hasta herramientas avanzadas de creación de anuncios y personalización visual, con dashboards intuitivos para supervisar el inventario y ajustar precios al mercado en tiempo real.
 
 ### ¿En cuántos portales puedo publicar y cuáles son?
-El servicio conecta con más de 50 portales, con un 99 % de integración por API. El diagrama de la web muestra específicamente: 
-* Coches.net
-* AutoScout24
-* Sumauto
-* Wallapop
-* Autocasión
-* Coches.com
-* Google Ads/Merchant
-* Motorflash.com
-* además de "muchos más" portales del sector.
+El servicio conecta con más de 50 portales, con un 99 % de integración por API. El diagrama de la web muestra específicamente: Coches.net, AutoScout24, Sumauto, Wallapop, Autocasión, Coches.com, Google Ads/Merchant y Motorflash.com, además de "muchos más" portales del sector — entre ellos Milanuncios, niw.es, heycar, y en general todos los portales especializados y de nicho del sector que operen por API.
 
 ### ¿Cómo funciona el proceso de publicación?
 Subes el vehículo una vez a Motorflash (representado en la web como "Motorflash → Publica · 1 clic → Envía a → portales") y el sistema replica el anuncio en tiempo real al resto de portales conectados. La sincronización es automática 24/7 y publicar tarda menos de 5 minutos.
@@ -23,7 +13,7 @@ Subes el vehículo una vez a Motorflash (representado en la web como "Motorflash
 Más de 1.000 clientes publicando diariamente con el Multipublicador, más de 2.500 exportaciones de stock cada día desde la plataforma, más de 150 importaciones nativas con DMS del mercado (más servicios Ad Hoc para casos específicos), y 1 millón de vehículos exportados al mes a portales del sector.
 
 ### ¿Qué diferencia a Motorflash de otros multipublicadores?
-Su principal diferenciador es la Creación Premium por VIN: identifican automáticamente la versión exacta y el equipamiento opcional real de cada vehículo a partir del número de bastidor. Mientras otros multipublicadores estiman los datos por matrícula, Motorflash publica información verificada directamente del fabricante, mejorando la fiabilidad del anuncio, el SEO en portal y la conversión. Beneficios: versión y variante exactas por VIN sin errores de interpretación, extras y equipamiento opcional desglosados uno a uno, anuncios con fiabilidad de fábrica (menos devoluciones y disputas), y máxima densidad de información para posicionar mejor en cada portal.
+Su principal diferenciador es la Creación Premium por VIN: identifican automáticamente la versión exacta y el equipamiento opcional real de cada vehículo a partir del número de bastidor. Mientras otros multipublicadores estiman los datos por matrícula, Motorflash publica información verificada directamente del fabricante, mejorando la fiabilidad del anuncio, el SEO en portal y la conversión. Beneficios: versión y variante exactas por VIN sin errores de interpretación, extras y equipamiento opcional desglosados uno a uno, anuncios con fiabilidad de fábrica (menos devoluciones y disputas), y máxima densidad de información para posicionar mejor en cada portal. A esto se suma que Motorflash es, según su propio posicionamiento, el único proveedor del sector en unificar las bases de datos JATO y EUROTAX, y que cada vehículo creado se valida con una consulta en tiempo real a la DGT.
 
 ### ¿Qué modos de creación de anuncios existen?
 Hay cuatro modos, según el nivel de fiabilidad y tiempo que se quiera invertir:
@@ -31,28 +21,37 @@ Hay cuatro modos, según el nivel de fiabilidad y tiempo que se quiera invertir:
 - **Creación Premium (por VIN) · Únicos en el mercado:** se introduce el bastidor y se obtiene automáticamente la versión exacta y el equipamiento opcional real de esa unidad concreta. Incluye la creación avanzada.
 - **Creación avanzada (por matrícula):** se introduce la matrícula y el sistema autocompleta los datos básicos; solo hay que seleccionar versión y extras. Incluye la creación básica.
 - **Creación básica (manual):** el usuario crea el anuncio desde una interfaz intuitiva basada en JATO (fecha de matriculación, tipo, marca, modelo, versión, combustible, puertas, carrocería, cambio y extras).
-- **Creación delegada en Motorflash:** el equipo de expertos de Motorflash crea los anuncios por el cliente.
+- **Creación delegada en Motorflash:** el equipo de expertos de Motorflash crea los anuncios por el cliente, ahorrando tiempo y ganando en fiabilidad.
 
 ### ¿Se integra con mi DMS actual?
-Sí, la plataforma está conectada con más de 150 DMS del mercado, entre ellos Keyloop, Autoline, Aswin, Incadea, Pymecar, Nextlane, Quiter, Bee2link e Inventario.pro. También ofrecen servicios Ad Hoc para necesidades específicas.
+Sí, la plataforma está conectada con más de 150 DMS del mercado, entre ellos Keyloop, Autoline, Aswin, Incadea, Pymecar, Nextlane, Quiter, Bee2link, MBPlus e Inventario.pro. También ofrecen servicios Ad Hoc para necesidades específicas.
 
 ### ¿Cómo se gestionan las fotos de los vehículos?
-El sistema importa automáticamente las imágenes desde múltiples plataformas para mantener el stock actualizado. Incluye además "Carlens 360", una herramienta de personalización visual de fotografías sin necesidad de photocall, y la posibilidad de crear marcas de agua propias o gestionadas por Motorflash para que la marca sea visible en cada foto publicada.
+El sistema importa automáticamente las imágenes desde múltiples plataformas para mantener el stock actualizado — entre ellas AutosOnShow, Opti Pix y Carcutter. Incluye además "Carlens 360", una herramienta de personalización visual de fotografías sin necesidad de photocall, y la posibilidad de crear marcas de agua propias o gestionadas por Motorflash para que la marca sea visible en cada foto publicada, ya sea para campañas concretas o de forma permanente.
 
 ### ¿Qué herramientas incluye la gestión de stock (Dealer)?
-
 - **Dashboard intuitivo de stock:** antigüedad de stock, días sin cambio de precio y análisis de precio en una sola pantalla.
 - **Precio estimado vs. mercado:** comparativa instantánea con unidades similares anunciadas en los principales portales españoles.
 - **Tasador integrado:** precio recomendado de compra y venta introduciendo solo la matrícula.
 - **Temperatura de mercado:** visualización de qué modelos están "calientes" en cada momento.
 - **Calculadora de financiación:** integrada con entidades como Banco Santander, CaixaBank y Cetelem, entre otras.
-- **Perchas y ofertas personalizadas:** generación a medida para cada cliente desde la ficha del vehículo, en un clic.
+- **Perchas y ofertas personalizadas:** generación a medida para cada cliente desde la ficha del vehículo, en un clic, con impresión y envío de percha, oferta, pedido e historial de precios.
+- **Integración directa con el Contact Center** de Motorflash.
+- **Control de calidad y validación de anuncios** antes de su publicación.
+- **Telecomunicaciones integradas:** call tracking y mail tracking.
+- **Integraciones Ad Hoc** para necesidades específicas: pasarelas de pago, reserva online, intranets.
+
+### ¿Cuándo conviene contratar Dealer?
+Cuando el concesionario no puede crear anuncios con toda la información del equipamiento solo con la matrícula, cuando no tiene claridad sobre las variables que afectan a la gestión de su stock, cuando sus coches están desposicionados en precio, o cuando no sabe cuántos días lleva sin actualizar el precio de sus vehículos.
 
 ### ¿Puedo decidir a qué portales se publica cada vehículo?
 Sí, la publicación puede ser masiva, selectiva o mixta: decides qué anuncios se exportan y a qué portal, con control total desde un dashboard de exportaciones que muestra qué vehículo está publicado dónde y en qué estado.
 
 ### ¿Qué significa "enriquecimiento del anuncio"?
 A diferencia de otros multipublicadores, Motorflash exporta cada anuncio con el equipamiento extra de cada unidad perfectamente desglosado, ayudando a destacar frente a la competencia.
+
+### ¿Qué controles de calidad tiene la publicación?
+Motorflash permite realizar controles de calidad tanto del anuncio como de las fotografías antes o después de su publicación, para asegurar que cada ficha sale al mercado con el nivel de detalle y presentación adecuados.
 
 ### ¿Motorflash.com está incluido?
 Sí, tu stock se publica también en motorflash.com, e incluye los primeros 10 leads gratis al mes en cualquier tarifa.
@@ -62,11 +61,10 @@ No, a partir de los tiers "S" en adelante las cuentas son ilimitadas en Coches.n
 
 ### ¿Cuánto tiempo se tarda en empezar a publicar?
 El proceso completo dura aproximadamente 2 semanas, en 4 fases:
-
 1. **Firma de contrato y kickoff:** se firma el contrato y en la sesión inicial se recogen los datos de las cuentas en portales y los detalles de las tiendas.
-2. **Creación de cuenta y tiendas:** se da de alta la cuenta en Multipublicador y se configuran tiendas y usuarios según la estructura del cliente.
+2. **Creación de cuenta y tiendas:** se da de alta la cuenta en Multipublicador y se configuran tiendas y usuarios según la estructura del cliente. Desde este punto ya se puede empezar a utilizar Dealer.
 3. **Importación de stock:** se conecta el DMS o se sube el Excel inicial para traer todo el stock al sistema; a partir de aquí los datos se sincronizan automáticamente.
-4. **Exportaciones y arranque:** se activan las exportaciones a los portales correspondientes, con la opción de hacer una revisión de calidad del stock desde el día 1.
+4. **Exportaciones y arranque:** se activan las exportaciones a los portales correspondientes, con la opción de hacer una revisión de calidad del stock (cualificación de stock) desde el día 1, de forma opcional.
 
 ### ¿Hay permanencia mínima o costes ocultos?
 Sí, existe una permanencia mínima de 6 meses, sin sorpresas en la factura ni costes ocultos.
