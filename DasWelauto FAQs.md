@@ -2,146 +2,379 @@
 * **¿Das WeltAuto ofrece renting?** Sí, además de la compra también disponemos de opciones de renting. Para conocer las condiciones concretas de un vehículo, lo mejor es que selecciones el coche que te interese y dejes tus datos para que el concesionario te dé toda la información disponible.
 * **¿Qué marcas de coches puedo encontrar en Das WeltAuto?** Vehículos de todas las marcas que se comercializan en España, no solo las del Grupo Volkswagen. Todos pasan por la misma revisión certificada y cuentan con las mismas garantías, independientemente de la marca.
 * **¿Estoy hablando con una persona o con una IA?** Estás hablando con un asistente virtual de inteligencia artificial. Puedo ayudarte a encontrar tu vehículo ideal, resolver dudas sobre nuestros coches y ponerte en contacto con el concesionario. Si prefieres hablar con una persona del equipo, puedo darte los datos de contacto del concesionario más cercano.
-* **¿Dónde están los concesionarios Das WeltAuto?** Puedes encontrarnos en las siguientes ubicaciones:
-  - **AUTOCENTER BARCELONA**
-  Calle A, 51 (Pol. Ind. Zona Franca), Barcelona 08040 | Tel: 930450574
-  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+* **¿Dónde están los concesionarios Das WeltAuto?** Estos son nuestros concesionarios organizados por provincia. La columna "Marcas DWA" indica qué marcas del programa Das WeltAuto comercializa cada uno. La columna "Otras marcas" indica si además trabajan con vehículos de otras marcas (Volkswagen, Audi, BMW, etc.); si un usuario busca una marca distinta a SEAT, Skoda o CUPRA, hay que derivarle a un concesionario con "Otras marcas: Sí".
 
-  - **LETAMENDI MOTOR**
-  Calle Diputació, 175, Barcelona 08011 | Tel: 931221484
-  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
 
-  - **MARTORELL MOTOR**
-  Av. de Pau Claris, 44, Martorell 08760, Barcelona | Tel: 931221402
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Albacete**
 
-  - **TAES MOTOR**
-  Passeig Valldaura, 120, Barcelona 08042 | Tel: 931221484
-  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | MOVILMAOR S.L. | Skoda | No | Av. Gregorio Arcos, 41 | Albacete |
+  | TALLERES RUBENS | SEAT, CUPRA | No | Av. Gregorio Arcos, 32 (Pol. Ind. Campollano) | Albacete |
 
-  - **MARESME LESSEPS**
-  Carretera Barcelona, 40-42, Mataró 08302, Barcelona | Tel: 931221386
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Alicante**
 
-  - **ABADALONA**
-  Calle de l'Acer (Pol. Ind. Les Guixeres), 10-12, Badalona 08915, Barcelona | Tel: 931221370
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOMÓVILES SALA RODRIGUEZ | SEAT, CUPRA | No | Avenida Denia 145 | Alacant/Alicante |
+  | PRIM TORRECILLAS | SEAT, CUPRA | No | Carretera de Ocaña, 29 | Alacant/Alicante |
+  | JOSE JORRO | Skoda | Sí | Pda. Madrigueres Nord, 24c | DENIA |
+  | JOSE JORRO | SEAT, CUPRA | No | Partida Madrigueres Sud 18 | Denia |
+  | SERRAUTO / SERRAIMPORT | Skoda | Sí | Hospitalet de Llobregat, 8 | Elx/Elche |
+  | SERRAUTO / SERRAIMPORT | SEAT, CUPRA | No | Mallorca, 1 | Elx/Elche |
 
-  - **ABLANES**
-  Carretera Accés Costa Brava, 38, Blanes 17300, Girona | Tel: 972011725
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Almería**
 
-  - **LESSEPS MOTOR**
-  Avda. Vallcarca, 77-79, Barcelona 08023 | Tel: 931225502
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | SAVEAUTO | Skoda | No | Polígono industrial Alfa, Ctra. N-340, KM 446, 5 | HUERCAL DE ALMERIA |
+  | INDALO MOTOR | SEAT, CUPRA | No | C/ Ctra N-340(Paraje La Cepa) S/N | Huercal de Almería |
+  | CADENA AUTOMOCIÓN | Skoda | No | Ctra. de Murcia, s/n | Vera |
+  | NAVARRO SEGURA | SEAT, CUPRA | No | Carretera de Murcia nº 30 | Vera |
 
-  - **CATALUNYA MOTOR**
-  Pol. Ind. de la Zona Franca, Calle A, 51, Barcelona 08040 | Tel: 931221904
-  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  **Asturias**
 
-  - **MOGADEALER** (2 ubicaciones)
-  Passeig de Guayaquil, 5, Barcelona 08030 | Tel: 931227849
-  Avda. Maresme, 30-40, Mataró 08302, Barcelona | Tel: 931227849
-  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:30-14:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ASTURIAS MOTOR | SEAT | No | C/ Eratóstenes 91 | Gijón |
+  | VAROCAR | SEAT, CUPRA | No | Avenida de Oviedo, 181 | LUGONES - SIERO |
+  | ALECAR | Skoda | No | C/. Río Ibias, 1 | Oviedo |
 
-  - **M-AUTOMOCION**
-  Paseo de Guayaquil, 5-9, Barcelona 08030 | Tel: 931221418
-  Lunes - viernes: 10:00-13:30 / 16:00-20:30 | Sábado: Sin horario definido | Domingo: Cerrado
+  **Badajoz**
 
-  - **BAIX MOTOR** (4 ubicaciones)
-  Ronda Ibérica, 33, Sant Boi de Llobregat 08830, Barcelona | Tel: 930452148
-  Lunes - viernes: 09:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AVISA EXTREMADURA | Skoda | No | Ctra. Madrid-Lisboa, 24 | Badajoz |
+  | GEDAUTO CAR | SEAT, CUPRA | No | Travesía Reina Sofía s/n | Merida |
 
-  Carretera Santa Creu de Calafell, 7, Sant Boi de Llobregat 08830, Barcelona | Tel: 931221355
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  **Baleares**
 
-  Avda. Barcelona, 242-244, Molins de Rei 08750, Barcelona | Tel: 931221354
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOS MISTALIA | Skoda | No | Gran Vía Asima, 22 | Palma de Mallorca |
+  | BLAU MOTORS | SEAT, CUPRA | No | Gran Vía Asima, 22 Polígono Son Castelló | Palma de Mallorca |
+  | SEAT MOTOR PALMA | SEAT, CUPRA | No | AVENIDA 16 DE JULIO, 56 | Palma de Mallorca |
 
-  Avinguda de la Muntanyeta, 2, El Vendrell 43700, Tarragona | Tel: 930452148
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Barcelona**
 
-  - **LAMPIS AUTOMOCIÓ** (2 ubicaciones)
-  Carretera de Santa Creu de Calafell, 1, Sant Boi de Llobregat 08830, Barcelona | Tel: 931221417
-  Lunes - viernes: 10:00-13:00 / 17:00-20:00 | Sábado: Sin horario definido | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ONDINAUTO | SEAT, CUPRA | No | Ctra. de Barcelona, 48 | Barberá del Vallés |
+  | AUTOCENTER BARCELONA | Skoda | No | C/ A, 51 (Pol. Ind. Zona Franca) | Barcelona |
+  | CATALUNYA MOTOR | SEAT, CUPRA | No | Pol. Ind. de la Zona Franca, Calle A, 51 | Barcelona |
+  | M-AUTOMOCION | SEAT, CUPRA | No | Paseo de Guayaquil, 5-9 | Barcelona |
+  | MOGADEALER | Skoda | No | Calle Ciudad de Asunción, 38 - 55 | Barcelona |
+  | TAES MOTOR | SEAT, CUPRA | No | Passeig Valldaura, 120 | Barcelona |
+  | DALMAU MOTOR II | Skoda | No | C/ Alemanya, 17 | IGUALADA |
+  | MAAS PRAGAUTO | Skoda | No | Ctra. de Vic, 257 | Manresa |
+  | LESSEPS MOTOR | SEAT, CUPRA | No | Ctra. Barcelona, 40-42 | Mataró |
+  | FECOSAUTO | SEAT, CUPRA | No | Avda. Rabassaires, 22-26 | Mollet del Vallès |
+  | MOVENTO SARSA | SEAT, CUPRA | No | Ctra. Terrassa, 101-103 | Sabadell |
+  | BAIX MOTOR | SEAT, CUPRA | No | Carretera Santa Creu de Calafell, 7 | Sant Boi de Llobregat |
+  | LAMPIS AUTOMOCIÓN | Skoda | No | Ctra. de Santa Creu de Calafell, 1 | Sant Boi de Llobregat |
+  | MOVENTO SARSA SKODA | Skoda | No | c/ Pare Rodamilans, 30 | Sant Cugat del Vallés |
+  | OSONA AUTOMOCIO | SEAT, CUPRA | No | C/ de Cantonigròs, 2 (Pol. Industrial Malloles) | Vic. |
+  | AUTOCAM | Skoda | No | Carretera Sant Jaume, 3 | Vilafranca del Penedes |
 
-  Av. Barcelona, 123, Molins de Rei 08750, Barcelona | Tel: 931221417
-  Lunes - viernes: 10:00-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  **Burgos**
 
-  - **MOVENTO SARSA MOTOR SKODA** (3 ubicaciones)
-  Calle Jiloca, 8, Sant Cugat del Vallès 08172, Barcelona | Tel: 931224141
-  Calle Pare Rodamilans, 30, Sant Cugat del Vallès 08172, Barcelona | Tel: 931224141
-  Carretera de la Roca, km 17, La Roca del Vallès 08430, Barcelona | Tel: 931224081
-  Lunes - viernes: 09:00-13:30 / 16:00-20:00 | Sábado: 10:00-13:30 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ELECTRO-SANZ HERMANOS | SEAT | No | Vendimia S/N, P.I. Prado Marina | Aranda de Duero |
+  | ARLANZON MOTOR / MOTOR CID | SEAT, Skoda, CUPRA | Sí | Ctra. Madrid - Irún, Km. 234,400 | Burgos |
 
-  - **ONDINAUTO** (5 ubicaciones)
-  Av. del Riu Ripoll, 35, Ripollet 08291, Barcelona | Tel: 931221461
-  Lunes - viernes: 09:00-13:00 / 15:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Cantabria**
 
-  Carretera de Barcelona, 48, Barberà del Vallès 08210, Barcelona | Tel: 931221450
-  Lunes - viernes: 09:00-13:00 / 15:30-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | TALLERES HERCOS COLINDRES | SEAT, CUPRA | No | Calle La Mar, 43 | Colindres |
+  | BAHIA AUTOMOCION | Skoda | No | Av parayas, 7 | Santander |
+  | BESAUTO | SEAT | No | C/ Campuzano 387 | Torrelavega |
 
-  Carretera de Rubí, 22-26, Sant Cugat del Vallès 08174, Barcelona | Tel: 931224280
-  Lunes - viernes: Sin horario definido | Sábado: Sin horario definido | Domingo: Cerrado
+  **Castellón**
 
-  Carretera de Terrassa, 114, Rubí 08191, Barcelona | Tel: 931227365
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | M-AUTOMOCION CASTELLON | SEAT, CUPRA | No | Av/ Castell Vell, 87 | Castelló de la Plana/Castellón de la Pla |
+  | QUADIS MARZÁ | Skoda | No | Av. Castell Vell, 75 | Castelló de la Plana/Castellón de la Pla |
+  | AUTO ESTELLER | SEAT, CUPRA | No | C/ Ctra Nacional-340 KM 1.051 | Vinarós |
 
-  Carretera de Vic, 257-263, Manresa 08243, Barcelona | Tel: 931225550
-  Lunes - viernes: Sin horario definido | Sábado: Sin horario definido | Domingo: Cerrado
+  **Ciudad Real**
 
-  - **FECOSAUTO**
-  Avda. Rabassaires, 22-26, Mollet del Vallès 08100, Barcelona | Tel: 931221353
-  Lunes - viernes: 09:00-13:00 / 16:00-20:30 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | COMATUR | SEAT, CUPRA | No | Ctra. Carrion, KM 242 Nave 107 | Ciudad Real |
+  | MOTOR PACIFICO CR | Skoda | No | Ctra. Carrión, 19 | Ciudad Real |
 
-  - **DALMAU MOTOR** (4 ubicaciones)
-  P.I. El Segre, Calle Josep Baró i Travé, 117 bis, Lleida 25191 | Tel: 930452293
-  Lunes - viernes: 09:15-13:30 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Coruña**
 
-  Calle Alemanya, 17, Igualada 08700, Barcelona | Tel: 930452293 / 973500910
-  Lunes - viernes: 09:15-13:30 / 16:00-19:30 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOS FERROL / MOVILRIA | SEAT, Skoda, CUPRA | Sí | Ctra. Castelao 49-50 (Pol. Ind. La Gándara) | Ferrol |
+  | COMPOSTELA MOTOR  | SEAT, CUPRA | No | Travesía de Reborido, 7 | Santiago de Compostela |
 
-  Avda. Barcelona, 19, Lleida 25001 | Tel: 973013710
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Cuenca**
 
-  Avda. Cementiri Vell, sin número, Tàrrega 25300, Lleida | Tel: 973500910
-  Lunes - viernes: 09:00-13:00 / 16:00-20:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | TALLERES MANCHEGOS | SEAT, CUPRA | No | calle Tesoneros , poligono sepes carretera motilla 1 | Cuenca |
 
-  - **AUTOPODIUM** (3 ubicaciones)
-  Carretera Sta. Coloma de Farnés, 59-65, Girona 17005 | Tel: 972011724
-  Avda. de Roses, 10, Figueres 17600, Girona | Tel: 972011766
-  Carretera de Blanes, 100, Girona 17005 | Tel: 972011724
-  Lunes - viernes: 09:00-13:00 / 15:00-19:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  **Cádiz**
 
-  - **PROAUTO** (2 ubicaciones)
-  Carretera de Santa Coloma, 59-65, Girona 17005 | Tel: 972011796
-  Avda. de Roses, 4, Figueres 17600, Girona | Tel: 972011766
-  Lunes - viernes: 09:00-13:00 / 15:00-19:00 | Sábado: 10:00-13:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | TURIAL | SEAT, CUPRA | No | Ctra Nacional 340 (Los Pinos) KM 108 | Algeciras |
+  | AUTOMOCION TERRY | SEAT, CUPRA | No | Calle de las Ciencias, 4 | Jerez de la Frontera |
+  | SOLERA MOTOR | Skoda | No | Ctra. Nacional IV, Km. 635 | Jerez de la Frontera |
 
-  - **MOVENTO SARSA**
-  Carretera Terrassa, 101-103, Sabadell 08205, Barcelona | Tel: 931224081
-  Lunes - viernes: 09:00-13:30 / 16:00-20:00 | Sábado: 10:00-13:30 | Domingo: Cerrado
+  **Córdoba**
 
-  - **MAAS PRAGAUTO** (2 ubicaciones)
-  Carretera de Vic, 257, Manresa 08243, Barcelona | Tel: 931227897
-  Carretera N-152-A, km 25,5, Granollers 08403, Barcelona | Tel: 931227897
-  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AVISA CORDOBA | Skoda | No | C/Esteban de Cabrera, 90 | Córdoba |
+  | AVISA MOTOR | SEAT, CUPRA | No | C/ Ing. Juan de la Cierva 4 | Córdoba |
+  | AUTOBECO | SEAT | No | Parque empresarial los Yesares s/n | LUCENA |
 
-  - **AUTOCAM**
-  Carretera Sant Jaume, 3, Vilafranca del Penedès 08720, Barcelona | Tel: 931221277
-  Lunes - viernes: 09:30-13:30 / 16:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  **Girona**
 
-  - **OSONA AUTOMOCIÓ**
-  Calle de Cantonigròs, 2 (Pol. Industrial Malloles), Vic 08500, Barcelona | Tel: 931221466
-  Lunes - viernes: 10:00-14:00 / 17:00-20:00 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOPODIUM / PROAUTO | Skoda | Sí | Ctra. Sta. Coloma de Farnés, 59-65 | Girona |
+  | AUTOPODIUM / PROAUTO | SEAT, CUPRA | No | C/ Carretera de Santa Coloma 59-65 | Girona |
 
-  - **BAYCAR**
-  Carretera de Valencia, km 248, Tarragona 43006 | Tel: 877050066
-  Lunes - viernes: 08:45-13:30 / 15:30-20:30 | Sábado: 10:00-13:30 | Domingo: Cerrado
+  **Granada**
 
-  - **BARIAUTO**
-  Carretera Valencia, km 248, Tarragona 43006 | Tel: 977033408
-  Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-14:00 | Domingo: Cerrado
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | GILAUTO | Skoda | No | Avenida Andalucía s/n | Granada |
+  | VIGILSA | SEAT, CUPRA | No | Av. Andalucia ,S/N Ctra Córdoba S/N | Granada |
+  | TALLERES BONACHERA | SEAT | No | C/ Avda Mariana Pineda 63 | Guadix |
+  | TROPIAUTO MOTRIL | SEAT, CUPRA | No | C/ Santo Domingo Nº5 | Motril |
+
+  **Guadalajara**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AMARCO CAR | SEAT, CUPRA | No | C/ Trafalgar Nº63 Poligono El Balconcillo | Guadalajara |
+  | MOVILSAN | Skoda | No | Polígono Balconcillo, P-1 y P-2, s/n | Guadalajara |
+
+  **Guipuzcoa**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | LUGARITZ AUTOAK | SEAT, CUPRA | No | Avenida Tolosa 184 | Donostia-San Sebastian |
+  | MENABI | Skoda | No | Avda Tolosa 184 | Donostia-San Sebastian |
+
+  **Huelva**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | HUELVA MOTOR | SEAT, CUPRA | No | Avenida de las Veredas 58-60 | Huelva |
+
+  **Huesca**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOBIN | SEAT | No | C. Almacellas | BINEFAR |
+  | AUTO SPORT HUESCA | SEAT | No | Avenida Pebredo, 7-9, Plataforma Logística PLHUS | Huesca |
+  | AUTOMÓVILES CABRERO | Skoda | No | Ronda de la Industria, 50 | Huesca |
+  | AUTOMÓVILES SERRABLO, S.A. | SEAT, CUPRA | No | C. José Lastiesas | Sabiñánigo |
+
+  **Jaén**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | SAVOY / OLIVAUTO | SEAT, Skoda, CUPRA | Sí | Calle Beatriz Nuñez Pque Empres. Nuevo Jaen, S/N | Jaén |
+
+  **La Rioja**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTO MORIZ / AUTO LEZA | SEAT, Skoda, CUPRA | Sí | Avda Del Puntido S/N Pol. Las Cañas | Logroño |
+
+  **León**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | REGIO MOTOR | SEAT | No | Carretera Leon Astorga km 4,5 | 0 |
+  | ASTORAUTO | SEAT | No | Pol. Ind. Camponaraya - Sector 1, Parcela 27-28 | Camponaraya |
+  | TELENAUTO | Skoda | No | Calle Burdeos, 4 | PONFERRADA |
+
+  **Lleida**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | DALMAU MOTOR | SEAT, CUPRA | No | Avda. Barcelona, 19 | Lleida |
+
+  **Lugo**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | CEAO MOTOR | Skoda | No | Av. Benigno Rivera, s/n | Lugo |
+
+  **Madrid**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ALDAUTO MOTOR | Skoda | No | AV. Fuencarral, 18 | 0 |
+  | JS SEALCO | Skoda | No | Avda. San Martín de Valdeiglesias, 32 | Alcorcón |
+  | SEALCO MOTOR | SEAT, CUPRA | No | CALLE. COLOMBIA, S/N | Alcorcón |
+  | MOTOR DYE | SEAT, CUPRA | No | Av. de La Industria, 3 (Pol.Ind. La Cantueña) | Fuenlabrada |
+  | GRAN CENTRO GETAFE | SEAT, CUPRA | No | Ctra de Toledo KM 14,7 S/N | Getafe |
+  | SURMOCIÓN | SEAT, CUPRA | No | C/ Avda. Carlos Sainz, 5 | Leganés |
+  | AMS CONDE | Skoda | No | C/ Cereza, 8. P.I. El Carralero | MAJADAHONDA |
+  | COPAUTO MOTOR  | SEAT, CUPRA | No | Calle Ciruela, 3 | MAJADAHONDA |
+  | NOVOMOTOR ROMACAR | SEAT | No | Ronda Ronda del Carralero 23 | MAJADAHONDA |
+  | ANCRISA | SEAT | No | Ctra de la Fortuna km 0.5 | Madrid |
+  | AUTOCENTER MADRID | Skoda | No | C/Quintanadueñas, 6 (Edificio Arqbórea) | Madrid |
+  | CASTELLANA MOTOR | SEAT, CUPRA | No | PS Castellana 278 BJ | Madrid |
+  | MOTOR TOME | Skoda | No | Ctra. A2 Barcelona km, 12,500 Calle Tauro, 27 | Madrid |
+  | NOBLEJAS MOTOR | SEAT, CUPRA | No | C. Hnos. Garcia Noblejas 27 | Madrid |
+  | MOTOR PACÍFICO CENTRO | Skoda | No | C/ Moraleja de en medio nº18 | Móstoles |
+  | AUTOS JUANJO | SEAT, CUPRA | No | Calle Toledo, Nº 40 | PARLA |
+  | GIL AUTOMOCIÓN DE HENARES | SEAT, CUPRA | No | Avda Constitución 136 | TORREJON DE ARDOZ |
+
+  **Murcia**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | GINES HUERTAS CERVANTES | SEAT, CUPRA | No | Avda. Doctor Pedro Guillen 2B | ESPINARDO |
+  | SKOMOVIL | Skoda | No | Ctra. Madrid km 389 | Murcia |
+
+  **Málaga**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTOS BELLAMAR | SEAT, CUPRA | No | C/ de la Mancha, 2. | Fuengirola |
+  | CORMOSA | SEAT, CUPRA | No | C/ Avda Carlos Haya 93 | Málaga |
+  | DISMOAUTO | Skoda | No | Avda. Velázquez, 214-216-218 | Málaga |
+  | AUTOS SAFAMAR | Skoda | No | Francisco Moreno Lomeña nº.2 Polig. Indust. S. Pedro Alcantara | San Pedro de Alcántara |
+  | AUTOMOVILES RUEDA | SEAT, CUPRA | No | AV. Juan Carlos I, 15 | VELEZ MALAGA |
+
+  **Navarra**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | AUTO EGA | SEAT | No | Calle Merkatondoa, 31 | Estella |
+  | IRUMOVIL | Skoda | No | Parque Empresarial la Muga nº 2-10 | ORCOYEN |
+  | VIAN AUTOMOBILE | SEAT, CUPRA | No | Poligono Agustinos, Calle D, Nave 2 | Pamplona |
+
+  **Ourense**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | COPERSA | SEAT, CUPRA | No | Avd de Zamora 140 | Ourense |
+  | GADASA | Skoda | No | Rúa Seixalbo, 2 | Ourense |
+
+  **Palencia**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | TALLERES AUTO FFAM | Skoda | No | Calle Andalucia, 31 | Palencia |
+
+  **Pontevedra**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | COPERVI | SEAT, CUPRA | No | Av. de Madrid, 197 | Vigo |
+  | MOURENTE MOTOR AUTOMOCIÓN | Skoda | No | Avda. de Madrid nº 131 bj | Vigo |
+
+  **Salamanca**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | SEAUTO | SEAT, CUPRA | No | Av. Fuentesaúco, 86-94 - Pol. Ind. Villares de la Reina | Salamanca |
+
+  **Segovia**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | MOTOR PACIFICO | Skoda | No | Calle Navacerrada, 20 | Segovia |
+  | NOAUTO SEGOVIA | SEAT, CUPRA | No | Carretera de San Rafael, 32 | Segovia |
+
+  **Sevilla**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | CAYSA MÓVIL | SEAT, CUPRA | No | Avda Extremadura Parcela 5 7 | Camas |
+  | AUTOMOCION TERRY II | SEAT | No | Carretera Nacional IV, km 554,4 | DOS HERMANAS |
+  | CARTUJA MOTOR | Skoda | No | Polg. Su Eminencia C/ D 1 y 2 | Sevilla |
+  | SEVILLA MOTOR | SEAT, CUPRA | No | Ctra. de su Eminencia, 2 | Sevilla |
+
+  **Sta. C. Tenerife**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | MOTOR 7 ISLAS | SEAT, CUPRA | No | Poligono Mayorazgo nº 26 | Santa Cruz de Tenerife |
+
+  **Tarragona**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | BAYCAR / BARIAUTO | Skoda | Sí | Carretera Valencia Km. 248 | Tarragona |
+  | BAYCAR / BARIAUTO | SEAT, CUPRA | No | Ctra. de Valencia, KM. 248 | Tarragona |
+
+  **Teruel**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | TERUEL AUTOMOCIÓN | Skoda | No | Ctra. Nacional Sagunto-Burgos Km. 123,5 (Polígono La Paz) | POLIGONO INDUSTRIAL LA PAZ |
+  | AUTO TALLERES TORRES | SEAT, CUPRA | No | C/ Pol La Paz Calle A Parcela 9 | Teruel |
+
+  **Toledo**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | EUROMOVIL TALAVERA | SEAT | No | Avenida Portugal, 50 | Talavera de la Reina |
+
+  **Valencia**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | SEARE | SEAT, CUPRA | No | C/ Ctra Madrid-Valencia KM 283 | REQUENA |
+  | J.R. VALLE | SEAT, CUPRA | No | Av. Pais Valencià, 2 | SEDAVI |
+  | AUTOCENTER LEVANTE | Skoda | No | Avenida del Cid 152 | Valencia |
+  | J.R. VALLE | Skoda | Sí | Calle del Padre Tomás de Montañana, 12. | Valencia |
+  | LEVANTE MOTOR | SEAT, CUPRA | No | Avda. del Cid 152 | Valencia |
+  | MIFERAUTO | SEAT, CUPRA | No | Ctra.Llossa de Ranes s/n | XÀTIVA |
+  | MOTOR PACÍFICO PREMIUM (DASWELTAUTO-SKODA) | Skoda | No | Ctra. Llosa de Ranes, s/n - Pol. Industrial C | XÀTIVA |
+
+  **Valladolid**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | VALLADOLID MOTOR | SEAT, CUPRA | No | Avenida de Burgos 58 | Valladolid |
+  | SEGAUTO 2000 | Skoda | No | Ctra. de León Km. 194 | Zaratan |
+
+  **Vizcaya**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ORTASA MOTOR | Skoda | No | C/ La Florida 7 | Barakaldo |
+  | GALDAKAUTO | SEAT, CUPRA | No | Calle Ibaizabal Kalea, 74 | Galdakao |
+  | LEIOA MOTOR | SEAT | No | Avd. Txikia (La Avanzada, 26) | Leioa |
+  | AUTOMOVILES GALINDO | SEAT, CUPRA | No | C/ Vega de Galindo S/N | Sestao |
+
+  **Zaragoza**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | ARAGÓN CAR | SEAT, CUPRA | No | C/ Alcalde Francisco Caballero, 58 | Zaragoza |
+  | AUTOMÓVILES SANCHEZ | SEAT, CUPRA | No | Carretera de Logroño,  32 | Zaragoza |
+  | ZARATECNO | Skoda | No | Avda. Cataluña, 105 | Zaragoza |
+
+  **Álava**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | LENDIZ MOTOR / AUTOS BELABIA | Skoda | Sí | C/ Alto de Armentia 4 | Vitoria-Gasteiz |
+  | LENDIZ MOTOR / AUTOS BELABIA | SEAT, CUPRA | No | C/ alto de Armentia, 8 - B 01 | Vitoria-Gasteiz |
+
+  **Ávila**
+
+  | Concesionario | Marcas DWA | Otras marcas | Dirección | Población |
+  |---|---|---|---|---|
+  | MIFERAUTO / YUSTE MOTOR | SEAT | No | Ctra. Burgohondo, s/n | Ávila |
  
 * **¿Qué antigüedad y kilometraje máximo tienen los coches de Das WeltAuto?** Se venden vehículos con hasta **7 años de antigüedad** y un máximo de **150.000 km**.
 * **¿Cuál es la diferencia entre un coche de Selección, Ocasión y Oportunidad en Das WeltAuto?** Das WeltAuto clasifica sus vehículos en tres categorías según antigüedad y kilometraje: **Selección** (menos de 24 meses o menos de 30.000 km), **Ocasión** (entre 2 y 5 años o entre 30.000 y 100.000 km) y **Oportunidad** (entre 5 y 7 años, hasta 150.000 km). Las condiciones de garantía varían según la categoría.
