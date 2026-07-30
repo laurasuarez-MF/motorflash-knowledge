@@ -1,5 +1,6 @@
 * **¿Qué es Das WeltAuto?** Es la marca de vehículos de ocasión certificados del Grupo Volkswagen, presente en más de 26 países. En Das WeltAuto encontrarás coches de todas las marcas que se comercializan en España, revisados y garantizados bajo los estándares de calidad del Grupo Volkswagen, junto con una serie de servicios exclusivos pensados para darte total tranquilidad.
 * **¿Qué marcas de coches puedo encontrar en Das WeltAuto?** Vehículos de todas las marcas que se comercializan en España, no solo las del Grupo Volkswagen. Todos pasan por la misma revisión certificada y cuentan con las mismas garantías, independientemente de la marca.
+* **¿Estoy hablando con una persona o con una IA?** Estás hablando con un asistente virtual de inteligencia artificial. Puedo ayudarte a encontrar tu vehículo ideal, resolver dudas sobre nuestros coches y ponerte en contacto con el concesionario. Si prefieres hablar con una persona del equipo, puedo darte los datos de contacto del concesionario más cercano.
 * **¿Dónde están los concesionarios Das WeltAuto?** Puedes encontrarnos en las siguientes ubicaciones:
   - **AUTOCENTER BARCELONA**
   Calle A, 51 (Pol. Ind. Zona Franca), Barcelona 08040 | Tel: 930450574
@@ -140,15 +141,15 @@
   - **BARIAUTO**
   Carretera Valencia, km 248, Tarragona 43006 | Tel: 977033408
   Lunes - viernes: 09:00-13:30 / 16:00-20:30 | Sábado: 10:00-14:00 | Domingo: Cerrado
-  
+ 
 * **¿Qué antigüedad y kilometraje máximo tienen los coches de Das WeltAuto?** Se venden vehículos con hasta **7 años de antigüedad** y un máximo de **150.000 km**.
 * **¿Cuál es la diferencia entre un coche de Selección, Ocasión y Oportunidad en Das WeltAuto?** Das WeltAuto clasifica sus vehículos en tres categorías según antigüedad y kilometraje: **Selección** (menos de 24 meses o menos de 30.000 km), **Ocasión** (entre 2 y 5 años o entre 30.000 y 100.000 km) y **Oportunidad** (entre 5 y 7 años, hasta 150.000 km). Las condiciones de garantía varían según la categoría.
-* **¿En qué consiste la revisión certificada de 126 puntos de Das WeltAuto?** Antes de ponerse a la venta, cada vehículo pasa un exhaustivo chequeo de **126 puntos** realizado por técnicos especializados del Servicio Oficial, que cubre aspectos mecánicos, eléctricos y estéticos. Si se detecta algún problema durante la revisión, se repara antes de la venta. Solo los vehículos que superan este proceso reciben la certificación Das WeltAuto.
+* **¿En qué consiste la revisión certificada de 133 puntos de Das WeltAuto?** Antes de ponerse a la venta, cada vehículo pasa un exhaustivo chequeo de **126 puntos** realizado por técnicos especializados del Servicio Oficial, que cubre aspectos mecánicos, eléctricos y estéticos. Si se detecta algún problema durante la revisión, se repara antes de la venta. Solo los vehículos que superan este proceso reciben la certificación Das WeltAuto.
 * **¿Qué garantía incluye un coche Das WeltAuto?** Todos los vehículos Das WeltAuto se venden con una **garantía europea de hasta 12 meses** que cubre reparaciones mecánicas, eléctricas y electrónicas en cualquier Servicio Oficial de la red Volkswagen dentro de la Unión Europea, utilizando siempre recambios originales.
 * **¿El kilometraje de los coches Das WeltAuto está verificado?** Sí, el kilometraje de todos los vehículos está **certificado por técnicos del Servicio Oficial**, lo que garantiza su veracidad.
 * **¿Puedo probar el coche antes de comprarlo?** Sí, puedes elegir y probar el vehículo que desees sin ningún compromiso.
 * **¿Puedo devolver el coche si no me convence tras la compra?** Sí. Si no estás satisfecho, puedes optar por **cambiar el vehículo o la devolución del importe abonado**, siempre que el coche no haya circulado más de **1.000 km** o no hayan pasado más de **15 días** desde la fecha de entrega.
-* **¿Das WeltAuto ofrece financiación?** Sí, todos los vehículos Das WeltAuto cuentan con opciones de financiación a través de **Volkswagen Financial Services**, con plazos de hasta **84 meses** sin entrada, y la posibilidad de financiar también la comisión de apertura.
+* **¿Das WeltAuto ofrece financiación?** Sí, todos los vehículos Das WeltAuto cuentan con opciones de financiación a través de **Volkswagen Financial Services**, con plazos de hasta **96 meses** sin entrada, y la posibilidad de financiar también la comisión de apertura.
 * **¿Puedo entregar mi coche actual como parte del pago?** Sí, los concesionarios Das WeltAuto realizan la tasación de tu vehículo usado y lo aplican como pago a cuenta en la compra de tu nuevo coche Das WeltAuto.
 * **¿Los accesorios y extras del vehículo también están certificados?** Sí, todos los accesorios y opcionales ofrecidos son originales y han pasado igualmente la revisión certificada Das WeltAuto.
 * **¿Puedo comprar un Das WeltAuto fuera de España?** Sí, Das WeltAuto es una marca global presente en más de 26 países, por lo que puedes adquirir un vehículo fuera de España a través de la red internacional del Grupo Volkswagen.
