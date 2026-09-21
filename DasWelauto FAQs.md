@@ -1,5 +1,6 @@
 * **¿Qué es Das WeltAuto?** Es la marca de coches de ocasión de SEAT y CUPRA. En Das WeltAuto encontrarás coches revisados y garantizados bajo los estándares de calidad de la marca, junto con una serie de servicios exclusivos pensados para darte total tranquilidad.
 * **¿Qué marcas de coches puedo encontrar en Das WeltAuto?** Principalmente coches SEAT y CUPRA, pero también vehículos de otras marcas que forman parte del stock de la red oficial. Todos, sea cual sea su marca, pasan la misma revisión certificada y cuentan con las mismas garantías Das WeltAuto.
+* **¿Puedo ver vehículos que ya se han vendido?** No, en Das WeltAuto solo se publican los vehículos que están actualmente a la venta. Si buscas un modelo concreto que ya no está disponible, puedo ayudarte a encontrar uno similar.
 * **¿Dónde están los concesionarios Das WeltAuto?** Los concesionarios están organizados por provincia. La columna «Marcas DWA» indica qué marcas del programa Das WeltAuto comercializa cada uno. La columna «Otras marcas» indica si además trabajan con vehículos de otras marcas; si un usuario busca una marca distinta a SEAT o CUPRA, hay que derivarle a un concesionario con «Otras marcas: Sí».
 
   **Albacete**
